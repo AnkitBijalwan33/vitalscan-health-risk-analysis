@@ -1,0 +1,2501 @@
+Patient_ID,Age,Gender,Smoking_Status,Years_of_Smoking,Cigarettes_Per_Day,Organ,Organ_Condition,BMI,BP_Risk,Cholesterol_Level,Family_History_Risk,Alcohol_Consumption,Age Group,Age_Group_Sort
+17,55,Female,Never,0,0,Liver,Healthy,32.8,Normal,136.3,No,Low,49–58,4
+18,20,Female,Never,0,0,Kidney,Damaged,17.4,Normal,160.8,No,Low,18–28,1
+31,64,Male,Never,0,0,Kidney,Healthy,41.2,Normal,127.4,No,Low,59–68,5
+115,65,Male,Never,0,0,Liver,Damaged,34.4,Normal,231.4,No,Low,59–68,5
+135,24,Female,Never,0,0,Human Body,Damaged,35.2,Normal,196.6,No,Low,18–28,1
+140,40,Male,Never,0,0,Heart,Damaged,28.1,Normal,200.8,No,Low,39–48,3
+154,69,Female,Never,0,0,Heart,Damaged,30.3,Normal,136.1,No,Low,69+,6
+159,54,Male,Never,0,0,Heart,Healthy,30.7,Normal,190.4,No,Low,49–58,4
+193,21,Female,Never,0,0,Lungs,Damaged,31.8,Normal,194.3,No,Low,18–28,1
+215,42,Male,Never,0,0,Human Body,Healthy,37.6,Normal,188.2,No,Low,39–48,3
+233,26,Female,Never,0,0,Liver,Healthy,37.5,Normal,278.4,No,Low,18–28,1
+240,38,Female,Never,0,0,Heart,Healthy,33.8,Normal,175.1,No,Low,29–38,2
+243,52,Male,Never,0,0,Heart,Healthy,24.8,Normal,229.0,No,Low,49–58,4
+288,22,Female,Never,0,0,Human Body,Healthy,38.7,Normal,291.1,No,Low,18–28,1
+300,21,Female,Never,0,0,Heart,Healthy,34.7,Normal,217.3,No,Low,18–28,1
+303,89,Female,Never,0,0,Human Body,Healthy,24.2,Normal,183.5,No,Low,69+,6
+317,75,Male,Never,0,0,Heart,Damaged,27.7,Normal,236.9,No,Low,69+,6
+340,54,Male,Never,0,0,Liver,Damaged,23.1,Normal,127.0,No,Low,49–58,4
+370,38,Male,Never,0,0,Lungs,Damaged,40.3,Normal,230.1,No,Low,29–38,2
+399,29,Male,Never,0,0,Heart,Damaged,22.6,Normal,267.1,No,Low,29–38,2
+403,36,Female,Never,0,0,Kidney,Damaged,37.7,Normal,268.4,No,Low,29–38,2
+408,84,Female,Never,0,0,Heart,Healthy,32.1,Normal,223.6,No,Low,69+,6
+425,21,Male,Never,0,0,Human Body,Damaged,24.7,Normal,219.1,No,Low,18–28,1
+429,78,Male,Never,0,0,Liver,Healthy,24.4,Normal,242.1,No,Low,69+,6
+434,61,Female,Never,0,0,Lungs,Healthy,39.6,Normal,158.9,No,Low,59–68,5
+443,42,Female,Never,0,0,Lungs,Damaged,33.9,Normal,205.5,No,Low,39–48,3
+455,77,Female,Never,0,0,Kidney,Healthy,32.1,Normal,275.4,No,Low,69+,6
+477,46,Male,Never,0,0,Lungs,Healthy,17.2,Normal,162.3,No,Low,39–48,3
+488,81,Female,Never,0,0,Human Body,Healthy,36.0,Normal,154.8,No,Low,69+,6
+490,55,Male,Never,0,0,Liver,Healthy,22.2,Normal,161.7,No,Low,49–58,4
+492,34,Female,Never,0,0,Lungs,Healthy,39.9,Normal,187.0,No,Low,29–38,2
+499,45,Female,Never,0,0,Kidney,Healthy,17.6,Normal,180.1,No,Low,39–48,3
+505,21,Female,Never,0,0,Liver,Healthy,20.0,Normal,153.1,No,Low,18–28,1
+506,29,Male,Never,0,0,Lungs,Healthy,25.4,Normal,155.6,No,Low,29–38,2
+526,81,Female,Never,0,0,Kidney,Healthy,35.9,Normal,275.5,No,Low,69+,6
+542,65,Female,Never,0,0,Liver,Healthy,18.2,Normal,183.6,No,Low,59–68,5
+543,67,Female,Never,0,0,Kidney,Damaged,27.3,Normal,223.8,No,Low,59–68,5
+553,89,Male,Never,0,0,Human Body,Healthy,28.5,Normal,126.2,No,Low,69+,6
+554,81,Female,Never,0,0,Lungs,Healthy,42.0,Normal,138.6,No,Low,69+,6
+570,71,Male,Never,0,0,Human Body,Healthy,37.8,Normal,284.1,No,Low,69+,6
+581,48,Male,Never,0,0,Human Body,Healthy,35.4,Normal,158.4,No,Low,39–48,3
+586,63,Female,Never,0,0,Liver,Healthy,22.3,Normal,177.6,No,Low,59–68,5
+601,62,Male,Never,0,0,Liver,Damaged,37.5,Normal,142.6,No,Low,59–68,5
+624,22,Male,Never,0,0,Human Body,Healthy,30.0,Normal,122.8,No,Low,18–28,1
+648,78,Male,Never,0,0,Heart,Healthy,25.7,Normal,243.5,No,Low,69+,6
+680,45,Female,Never,0,0,Kidney,Healthy,24.2,Normal,201.6,No,Low,39–48,3
+709,18,Female,Never,0,0,Lungs,Healthy,17.4,Normal,198.6,No,Low,18–28,1
+710,89,Female,Never,0,0,Lungs,Healthy,21.6,Normal,197.8,No,Low,69+,6
+716,79,Female,Never,0,0,Heart,Damaged,39.8,Normal,214.9,No,Low,69+,6
+729,53,Female,Never,0,0,Lungs,Damaged,28.1,Normal,154.3,No,Low,49–58,4
+733,20,Male,Never,0,0,Heart,Healthy,26.1,Normal,143.2,No,Low,18–28,1
+773,36,Male,Never,0,0,Kidney,Healthy,20.2,Normal,272.1,No,Low,29–38,2
+796,49,Female,Never,0,0,Kidney,Healthy,24.9,Normal,139.0,No,Low,49–58,4
+807,89,Male,Never,0,0,Heart,Healthy,33.1,Normal,139.7,No,Low,69+,6
+815,85,Female,Never,0,0,Lungs,Healthy,29.4,Normal,258.7,No,Low,69+,6
+823,29,Male,Never,0,0,Human Body,Damaged,30.0,Normal,277.2,No,Low,29–38,2
+892,23,Female,Never,0,0,Human Body,Healthy,19.5,Normal,269.7,No,Low,18–28,1
+895,23,Female,Never,0,0,Human Body,Healthy,37.7,Normal,222.8,No,Low,18–28,1
+910,56,Male,Never,0,0,Liver,Damaged,35.5,Normal,152.0,No,Low,49–58,4
+917,45,Male,Never,0,0,Heart,Damaged,25.1,Normal,231.1,No,Low,39–48,3
+920,59,Male,Never,0,0,Heart,Healthy,23.8,Normal,168.8,No,Low,59–68,5
+921,37,Male,Never,0,0,Liver,Healthy,36.9,Normal,121.0,No,Low,29–38,2
+929,48,Female,Never,0,0,Liver,Healthy,22.0,Normal,127.6,No,Low,39–48,3
+963,23,Male,Never,0,0,Human Body,Healthy,20.8,Normal,132.3,No,Low,18–28,1
+972,50,Female,Never,0,0,Liver,Healthy,29.9,Normal,236.9,No,Low,49–58,4
+992,30,Female,Never,0,0,Heart,Healthy,29.9,Normal,157.8,No,Low,29–38,2
+1003,64,Female,Never,0,0,Human Body,Healthy,40.7,Normal,283.1,No,Low,59–68,5
+1049,45,Male,Never,0,0,Heart,Damaged,35.4,Normal,165.4,No,Low,39–48,3
+1059,55,Male,Never,0,0,Kidney,Damaged,29.0,Normal,226.9,No,Low,49–58,4
+1072,21,Male,Never,0,0,Lungs,Damaged,22.8,Normal,279.8,No,Low,18–28,1
+1085,24,Male,Never,0,0,Lungs,Damaged,41.5,Normal,208.8,No,Low,18–28,1
+1087,34,Female,Never,0,0,Kidney,Damaged,21.9,Normal,236.2,No,Low,29–38,2
+1093,37,Male,Never,0,0,Lungs,Damaged,27.5,Normal,277.1,No,Low,29–38,2
+1097,79,Female,Never,0,0,Lungs,Damaged,19.3,Normal,145.3,No,Low,69+,6
+1122,81,Male,Never,0,0,Liver,Healthy,27.8,Normal,197.3,No,Low,69+,6
+1124,76,Male,Never,0,0,Heart,Healthy,28.5,Normal,217.9,No,Low,69+,6
+1137,65,Male,Never,0,0,Liver,Healthy,22.5,Normal,131.7,No,Low,59–68,5
+1146,45,Female,Never,0,0,Kidney,Damaged,38.7,Normal,134.6,No,Low,39–48,3
+1149,27,Female,Never,0,0,Liver,Damaged,35.1,Normal,294.3,No,Low,18–28,1
+1171,51,Female,Never,0,0,Heart,Healthy,34.2,Normal,157.1,No,Low,49–58,4
+1185,57,Female,Never,0,0,Kidney,Damaged,23.8,Normal,269.0,No,Low,49–58,4
+1188,26,Male,Never,0,0,Human Body,Healthy,24.4,Normal,191.6,No,Low,18–28,1
+1202,20,Female,Never,0,0,Kidney,Healthy,26.4,Normal,165.5,No,Low,18–28,1
+1206,68,Male,Never,0,0,Lungs,Damaged,27.0,Normal,234.7,No,Low,59–68,5
+1216,24,Male,Never,0,0,Kidney,Damaged,32.3,Normal,120.2,No,Low,18–28,1
+1218,70,Female,Never,0,0,Liver,Healthy,34.9,Normal,230.5,No,Low,69+,6
+1222,82,Female,Never,0,0,Heart,Healthy,28.6,Normal,166.3,No,Low,69+,6
+1223,71,Male,Never,0,0,Liver,Healthy,32.1,Normal,215.3,No,Low,69+,6
+1237,85,Male,Never,0,0,Human Body,Damaged,18.6,Normal,214.9,No,Low,69+,6
+1247,43,Female,Never,0,0,Human Body,Healthy,30.8,Normal,247.0,No,Low,39–48,3
+1287,25,Male,Never,0,0,Liver,Healthy,31.6,Normal,248.3,No,Low,18–28,1
+1326,24,Female,Never,0,0,Heart,Healthy,22.3,Normal,137.1,No,Low,18–28,1
+1327,25,Female,Never,0,0,Heart,Healthy,21.6,Normal,164.7,No,Low,18–28,1
+1333,75,Female,Never,0,0,Lungs,Healthy,29.3,Normal,178.7,No,Low,69+,6
+1339,61,Male,Never,0,0,Heart,Damaged,38.9,Normal,238.0,No,Low,59–68,5
+1344,39,Female,Never,0,0,Human Body,Damaged,23.9,Normal,156.4,No,Low,39–48,3
+1348,21,Male,Never,0,0,Lungs,Healthy,20.9,Normal,165.1,No,Low,18–28,1
+1356,69,Male,Never,0,0,Human Body,Damaged,19.5,Normal,216.9,No,Low,69+,6
+1361,82,Male,Never,0,0,Kidney,Healthy,30.9,Normal,129.4,No,Low,69+,6
+1365,20,Female,Never,0,0,Liver,Damaged,39.6,Normal,223.9,No,Low,18–28,1
+1377,67,Female,Never,0,0,Kidney,Damaged,21.6,Normal,122.5,No,Low,59–68,5
+1385,59,Male,Never,0,0,Heart,Damaged,28.6,Normal,143.1,No,Low,59–68,5
+1403,43,Female,Never,0,0,Lungs,Damaged,23.9,Normal,159.0,No,Low,39–48,3
+1456,23,Female,Never,0,0,Heart,Healthy,32.0,Normal,237.8,No,Low,18–28,1
+1469,62,Female,Never,0,0,Lungs,Damaged,19.9,Normal,127.6,No,Low,59–68,5
+1483,61,Female,Never,0,0,Lungs,Healthy,30.1,Normal,120.2,No,Low,59–68,5
+1522,28,Female,Never,0,0,Kidney,Damaged,18.5,Normal,217.1,No,Low,18–28,1
+1574,64,Female,Never,0,0,Human Body,Healthy,18.2,Normal,153.1,No,Low,59–68,5
+1578,87,Male,Never,0,0,Heart,Damaged,35.6,Normal,135.0,No,Low,69+,6
+1587,41,Male,Never,0,0,Kidney,Healthy,40.4,Normal,199.0,No,Low,39–48,3
+1595,82,Female,Never,0,0,Human Body,Healthy,31.1,Normal,253.6,No,Low,69+,6
+1604,84,Female,Never,0,0,Lungs,Damaged,35.6,Normal,277.6,No,Low,69+,6
+1613,49,Female,Never,0,0,Heart,Damaged,34.5,Normal,131.0,No,Low,49–58,4
+1618,73,Male,Never,0,0,Kidney,Healthy,32.2,Normal,195.8,No,Low,69+,6
+1620,29,Female,Never,0,0,Heart,Damaged,28.2,Normal,145.4,No,Low,29–38,2
+1634,85,Male,Never,0,0,Lungs,Healthy,36.6,Normal,275.5,No,Low,69+,6
+1637,66,Female,Never,0,0,Liver,Damaged,27.8,Normal,284.9,No,Low,59–68,5
+1645,39,Male,Never,0,0,Kidney,Damaged,23.7,Normal,199.9,No,Low,39–48,3
+1648,34,Female,Never,0,0,Kidney,Damaged,23.1,Normal,127.8,No,Low,29–38,2
+1651,37,Female,Never,0,0,Lungs,Healthy,41.2,Normal,297.6,No,Low,29–38,2
+1675,42,Female,Never,0,0,Lungs,Healthy,26.4,Normal,282.1,No,Low,39–48,3
+1687,63,Male,Never,0,0,Liver,Damaged,33.6,Normal,187.7,No,Low,59–68,5
+1712,83,Female,Never,0,0,Human Body,Healthy,20.4,Normal,165.6,No,Low,69+,6
+1713,33,Female,Never,0,0,Lungs,Damaged,32.8,Normal,282.4,No,Low,29–38,2
+1729,34,Female,Never,0,0,Kidney,Damaged,21.9,Normal,271.7,No,Low,29–38,2
+1730,65,Male,Never,0,0,Kidney,Damaged,20.0,Normal,188.3,No,Low,59–68,5
+1735,86,Male,Never,0,0,Lungs,Healthy,37.1,Normal,168.5,No,Low,69+,6
+1744,58,Female,Never,0,0,Heart,Healthy,26.9,Normal,233.1,No,Low,49–58,4
+1746,37,Female,Never,0,0,Heart,Damaged,40.9,Normal,241.4,No,Low,29–38,2
+1760,52,Female,Never,0,0,Kidney,Healthy,19.4,Normal,294.4,No,Low,49–58,4
+1778,65,Female,Never,0,0,Kidney,Damaged,38.4,Normal,174.2,No,Low,59–68,5
+1793,51,Female,Never,0,0,Kidney,Damaged,31.7,Normal,248.9,No,Low,49–58,4
+1798,28,Female,Never,0,0,Kidney,Healthy,24.7,Normal,223.3,No,Low,18–28,1
+1805,79,Male,Never,0,0,Heart,Healthy,17.6,Normal,175.9,No,Low,69+,6
+1812,80,Male,Never,0,0,Kidney,Damaged,28.3,Normal,163.2,No,Low,69+,6
+1815,79,Female,Never,0,0,Lungs,Healthy,37.2,Normal,274.5,No,Low,69+,6
+1825,47,Female,Never,0,0,Human Body,Healthy,17.5,Normal,124.3,No,Low,39–48,3
+1830,86,Female,Never,0,0,Liver,Damaged,33.5,Normal,136.1,No,Low,69+,6
+1850,26,Female,Never,0,0,Human Body,Healthy,23.1,Normal,271.8,No,Low,18–28,1
+1859,74,Male,Never,0,0,Heart,Damaged,36.5,Normal,141.0,No,Low,69+,6
+1876,71,Male,Never,0,0,Liver,Healthy,29.6,Normal,239.3,No,Low,69+,6
+1891,55,Male,Never,0,0,Lungs,Healthy,24.5,Normal,236.1,No,Low,49–58,4
+1897,87,Female,Never,0,0,Liver,Healthy,29.1,Normal,144.2,No,Low,69+,6
+1900,21,Male,Never,0,0,Liver,Damaged,20.5,Normal,137.5,No,Low,18–28,1
+1902,52,Female,Never,0,0,Kidney,Damaged,24.8,Normal,133.3,No,Low,49–58,4
+1936,30,Male,Never,0,0,Liver,Damaged,22.7,Normal,285.6,No,Low,29–38,2
+1948,45,Female,Never,0,0,Human Body,Healthy,37.0,Normal,293.6,No,Low,39–48,3
+1952,83,Female,Never,0,0,Human Body,Damaged,31.7,Normal,242.8,No,Low,69+,6
+1970,47,Male,Never,0,0,Human Body,Healthy,34.2,Normal,228.1,No,Low,39–48,3
+1971,55,Male,Never,0,0,Kidney,Healthy,26.8,Normal,133.7,No,Low,49–58,4
+1974,65,Male,Never,0,0,Liver,Healthy,34.3,Normal,188.0,No,Low,59–68,5
+1982,54,Female,Never,0,0,Heart,Healthy,38.5,Normal,185.1,No,Low,49–58,4
+1986,58,Male,Never,0,0,Liver,Damaged,40.9,Normal,252.1,No,Low,49–58,4
+2002,84,Male,Never,0,0,Liver,Healthy,39.5,Normal,295.0,No,Low,69+,6
+2025,27,Female,Never,0,0,Lungs,Healthy,23.1,Normal,162.0,No,Low,18–28,1
+2032,34,Female,Never,0,0,Kidney,Healthy,23.3,Normal,290.8,No,Low,29–38,2
+2044,20,Male,Never,0,0,Lungs,Healthy,26.5,Normal,231.3,No,Low,18–28,1
+2048,87,Male,Never,0,0,Kidney,Healthy,38.1,Normal,224.5,No,Low,69+,6
+2057,69,Female,Never,0,0,Lungs,Healthy,39.6,Normal,172.7,No,Low,69+,6
+2064,44,Male,Never,0,0,Human Body,Healthy,24.6,Normal,277.7,No,Low,39–48,3
+2067,57,Male,Never,0,0,Heart,Healthy,41.4,Normal,214.1,No,Low,49–58,4
+2069,21,Female,Never,0,0,Lungs,Damaged,33.5,Normal,272.6,No,Low,18–28,1
+2076,35,Female,Never,0,0,Human Body,Healthy,24.0,Normal,275.9,No,Low,29–38,2
+2097,59,Female,Never,0,0,Kidney,Healthy,35.1,Normal,248.0,No,Low,59–68,5
+2101,34,Male,Never,0,0,Kidney,Healthy,40.6,Normal,248.4,No,Low,29–38,2
+2143,65,Female,Never,0,0,Lungs,Healthy,18.7,Normal,213.3,No,Low,59–68,5
+2145,84,Male,Never,0,0,Human Body,Damaged,35.0,Normal,257.9,No,Low,69+,6
+2171,25,Male,Never,0,0,Human Body,Healthy,29.6,Normal,283.7,No,Low,18–28,1
+2175,27,Male,Never,0,0,Human Body,Healthy,34.3,Normal,205.6,No,Low,18–28,1
+2189,29,Male,Never,0,0,Heart,Healthy,40.3,Normal,163.8,No,Low,29–38,2
+2190,18,Female,Never,0,0,Lungs,Damaged,35.8,Normal,147.2,No,Low,18–28,1
+2200,42,Male,Never,0,0,Lungs,Healthy,37.0,Normal,213.7,No,Low,39–48,3
+2208,87,Male,Never,0,0,Kidney,Healthy,31.8,Normal,249.4,No,Low,69+,6
+2212,84,Female,Never,0,0,Heart,Healthy,21.3,Normal,285.5,No,Low,69+,6
+2215,71,Male,Never,0,0,Lungs,Damaged,22.7,Normal,147.9,No,Low,69+,6
+2227,50,Female,Never,0,0,Liver,Damaged,37.6,Normal,273.9,No,Low,49–58,4
+2238,20,Female,Never,0,0,Human Body,Healthy,36.9,Normal,208.5,No,Low,18–28,1
+2254,33,Female,Never,0,0,Human Body,Healthy,37.5,Normal,170.4,No,Low,29–38,2
+2258,59,Male,Never,0,0,Heart,Healthy,41.5,Normal,299.3,No,Low,59–68,5
+2272,84,Male,Never,0,0,Heart,Healthy,22.5,Normal,125.0,No,Low,69+,6
+2278,89,Female,Never,0,0,Human Body,Damaged,22.1,Normal,245.4,No,Low,69+,6
+2282,34,Male,Never,0,0,Human Body,Healthy,30.9,Normal,132.4,No,Low,29–38,2
+2301,36,Male,Never,0,0,Kidney,Damaged,21.0,Normal,261.3,No,Low,29–38,2
+2312,32,Female,Never,0,0,Heart,Healthy,25.0,Normal,281.0,No,Low,29–38,2
+2313,54,Female,Never,0,0,Heart,Healthy,23.4,Normal,247.2,No,Low,49–58,4
+2315,78,Female,Never,0,0,Human Body,Damaged,38.3,Normal,206.6,No,Low,69+,6
+2341,44,Male,Never,0,0,Heart,Damaged,41.0,Normal,221.1,No,Low,39–48,3
+2355,43,Male,Never,0,0,Human Body,Healthy,27.1,Normal,297.7,No,Low,39–48,3
+2361,40,Female,Never,0,0,Heart,Healthy,30.7,Normal,234.4,No,Low,39–48,3
+2366,32,Female,Never,0,0,Kidney,Healthy,27.7,Normal,205.8,No,Low,29–38,2
+2381,46,Male,Never,0,0,Heart,Damaged,36.4,Normal,256.8,No,Low,39–48,3
+2382,43,Male,Never,0,0,Heart,Damaged,22.9,Normal,160.6,No,Low,39–48,3
+2384,79,Male,Never,0,0,Lungs,Healthy,30.1,Normal,133.6,No,Low,69+,6
+2397,74,Female,Never,0,0,Human Body,Healthy,23.6,Normal,182.0,No,Low,69+,6
+2404,54,Male,Never,0,0,Liver,Healthy,23.8,Normal,173.2,No,Low,49–58,4
+2405,25,Male,Never,0,0,Human Body,Damaged,33.3,Normal,135.8,No,Low,18–28,1
+2406,28,Female,Never,0,0,Liver,Damaged,19.2,Normal,131.2,No,Low,18–28,1
+2409,81,Male,Never,0,0,Liver,Damaged,23.6,Normal,230.5,No,Low,69+,6
+2418,76,Male,Never,0,0,Heart,Damaged,38.0,Normal,222.6,No,Low,69+,6
+2462,77,Male,Never,0,0,Lungs,Damaged,17.3,Normal,286.8,No,Low,69+,6
+2471,79,Male,Never,0,0,Lungs,Damaged,32.3,Normal,212.2,No,Low,69+,6
+2489,61,Female,Never,0,0,Lungs,Healthy,34.9,Normal,187.1,No,Low,59–68,5
+2496,59,Male,Never,0,0,Human Body,Damaged,31.0,Normal,193.8,No,Low,59–68,5
+33,18,Female,Never,0,0,Liver,Damaged,30.9,Normal,195.5,Yes,Low,18–28,1
+38,52,Male,Never,0,0,Human Body,Damaged,26.6,Normal,181.3,Yes,Low,49–58,4
+87,64,Female,Never,0,0,Lungs,Healthy,29.0,Normal,257.8,Yes,Low,59–68,5
+96,70,Male,Never,0,0,Lungs,Damaged,27.5,Normal,213.4,Yes,Low,69+,6
+123,76,Female,Never,0,0,Heart,Healthy,41.6,Normal,280.9,Yes,Low,69+,6
+124,42,Female,Never,0,0,Kidney,Healthy,28.8,Normal,148.7,Yes,Low,39–48,3
+235,62,Female,Never,0,0,Kidney,Damaged,17.0,Normal,129.2,Yes,Low,59–68,5
+292,40,Male,Never,0,0,Liver,Healthy,30.7,Normal,226.3,Yes,Low,39–48,3
+354,89,Female,Never,0,0,Kidney,Healthy,37.0,Normal,173.9,Yes,Low,69+,6
+376,38,Male,Never,0,0,Kidney,Damaged,20.0,Normal,215.7,Yes,Low,29–38,2
+385,23,Female,Never,0,0,Heart,Damaged,41.3,Normal,248.7,Yes,Low,18–28,1
+428,18,Female,Never,0,0,Liver,Damaged,18.0,Normal,245.7,Yes,Low,18–28,1
+450,66,Male,Never,0,0,Kidney,Healthy,27.5,Normal,212.5,Yes,Low,59–68,5
+458,69,Male,Never,0,0,Lungs,Damaged,40.3,Normal,264.7,Yes,Low,69+,6
+491,26,Female,Never,0,0,Human Body,Healthy,31.3,Normal,248.6,Yes,Low,18–28,1
+498,19,Female,Never,0,0,Kidney,Healthy,39.4,Normal,247.3,Yes,Low,18–28,1
+513,85,Female,Never,0,0,Heart,Damaged,24.3,Normal,167.7,Yes,Low,69+,6
+524,52,Female,Never,0,0,Lungs,Damaged,17.4,Normal,263.2,Yes,Low,49–58,4
+533,37,Female,Never,0,0,Human Body,Damaged,20.6,Normal,170.9,Yes,Low,29–38,2
+644,29,Female,Never,0,0,Human Body,Damaged,36.9,Normal,279.7,Yes,Low,29–38,2
+659,23,Female,Never,0,0,Liver,Healthy,26.7,Normal,221.2,Yes,Low,18–28,1
+667,74,Female,Never,0,0,Lungs,Healthy,38.6,Normal,152.1,Yes,Low,69+,6
+678,88,Female,Never,0,0,Kidney,Healthy,37.9,Normal,299.9,Yes,Low,69+,6
+703,22,Male,Never,0,0,Heart,Healthy,26.4,Normal,120.0,Yes,Low,18–28,1
+745,62,Female,Never,0,0,Human Body,Damaged,29.1,Normal,174.9,Yes,Low,59–68,5
+771,89,Male,Never,0,0,Lungs,Healthy,31.4,Normal,293.6,Yes,Low,69+,6
+778,61,Male,Never,0,0,Lungs,Damaged,41.7,Normal,200.1,Yes,Low,59–68,5
+780,65,Female,Never,0,0,Liver,Healthy,34.8,Normal,232.4,Yes,Low,59–68,5
+783,18,Male,Never,0,0,Heart,Healthy,40.9,Normal,288.1,Yes,Low,18–28,1
+800,79,Male,Never,0,0,Kidney,Healthy,20.2,Normal,227.7,Yes,Low,69+,6
+802,58,Female,Never,0,0,Liver,Damaged,22.0,Normal,243.9,Yes,Low,49–58,4
+812,75,Female,Never,0,0,Kidney,Healthy,26.2,Normal,176.5,Yes,Low,69+,6
+821,71,Male,Never,0,0,Heart,Healthy,41.7,Normal,237.2,Yes,Low,69+,6
+826,43,Female,Never,0,0,Heart,Healthy,24.4,Normal,276.8,Yes,Low,39–48,3
+831,80,Female,Never,0,0,Kidney,Healthy,32.3,Normal,181.6,Yes,Low,69+,6
+861,38,Female,Never,0,0,Heart,Healthy,33.5,Normal,158.8,Yes,Low,29–38,2
+862,66,Male,Never,0,0,Lungs,Damaged,29.8,Normal,272.5,Yes,Low,59–68,5
+887,47,Male,Never,0,0,Human Body,Healthy,24.5,Normal,121.5,Yes,Low,39–48,3
+893,26,Male,Never,0,0,Human Body,Healthy,40.6,Normal,178.5,Yes,Low,18–28,1
+900,70,Male,Never,0,0,Human Body,Damaged,31.8,Normal,222.8,Yes,Low,69+,6
+931,27,Male,Never,0,0,Human Body,Healthy,24.4,Normal,146.3,Yes,Low,18–28,1
+948,74,Male,Never,0,0,Human Body,Healthy,31.4,Normal,149.6,Yes,Low,69+,6
+962,19,Male,Never,0,0,Kidney,Healthy,25.4,Normal,253.7,Yes,Low,18–28,1
+965,26,Female,Never,0,0,Liver,Healthy,29.3,Normal,269.0,Yes,Low,18–28,1
+971,84,Female,Never,0,0,Liver,Healthy,38.8,Normal,228.0,Yes,Low,69+,6
+1103,84,Male,Never,0,0,Liver,Healthy,20.7,Normal,269.6,Yes,Low,69+,6
+1116,65,Female,Never,0,0,Liver,Damaged,21.5,Normal,241.0,Yes,Low,59–68,5
+1129,69,Female,Never,0,0,Heart,Healthy,24.9,Normal,251.5,Yes,Low,69+,6
+1180,57,Male,Never,0,0,Liver,Damaged,19.9,Normal,129.3,Yes,Low,49–58,4
+1232,89,Male,Never,0,0,Kidney,Healthy,31.5,Normal,237.8,Yes,Low,69+,6
+1265,41,Female,Never,0,0,Lungs,Healthy,38.4,Normal,132.5,Yes,Low,39–48,3
+1273,48,Male,Never,0,0,Liver,Damaged,37.7,Normal,175.1,Yes,Low,39–48,3
+1278,55,Female,Never,0,0,Heart,Healthy,22.0,Normal,230.5,Yes,Low,49–58,4
+1281,34,Male,Never,0,0,Liver,Damaged,21.0,Normal,281.3,Yes,Low,29–38,2
+1298,47,Male,Never,0,0,Lungs,Healthy,18.6,Normal,273.1,Yes,Low,39–48,3
+1303,81,Female,Never,0,0,Lungs,Healthy,34.0,Normal,205.6,Yes,Low,69+,6
+1310,62,Male,Never,0,0,Lungs,Healthy,18.4,Normal,203.1,Yes,Low,59–68,5
+1335,57,Male,Never,0,0,Human Body,Damaged,31.1,Normal,217.2,Yes,Low,49–58,4
+1340,81,Male,Never,0,0,Kidney,Healthy,21.4,Normal,206.6,Yes,Low,69+,6
+1346,32,Female,Never,0,0,Lungs,Healthy,36.6,Normal,280.8,Yes,Low,29–38,2
+1363,29,Female,Never,0,0,Liver,Damaged,19.7,Normal,123.2,Yes,Low,29–38,2
+1413,55,Male,Never,0,0,Heart,Damaged,18.8,Normal,151.6,Yes,Low,49–58,4
+1479,76,Female,Never,0,0,Kidney,Damaged,41.2,Normal,189.2,Yes,Low,69+,6
+1518,53,Female,Never,0,0,Lungs,Damaged,25.2,Normal,214.3,Yes,Low,49–58,4
+1608,89,Female,Never,0,0,Lungs,Healthy,18.3,Normal,133.3,Yes,Low,69+,6
+1636,82,Male,Never,0,0,Kidney,Healthy,41.6,Normal,255.0,Yes,Low,69+,6
+1639,52,Female,Never,0,0,Human Body,Healthy,35.9,Normal,195.6,Yes,Low,49–58,4
+1642,73,Female,Never,0,0,Liver,Damaged,27.3,Normal,246.2,Yes,Low,69+,6
+1653,37,Male,Never,0,0,Liver,Healthy,26.2,Normal,183.1,Yes,Low,29–38,2
+1668,57,Male,Never,0,0,Liver,Damaged,29.8,Normal,121.1,Yes,Low,49–58,4
+1684,71,Female,Never,0,0,Kidney,Healthy,37.4,Normal,214.9,Yes,Low,69+,6
+1771,49,Male,Never,0,0,Lungs,Damaged,40.8,Normal,211.7,Yes,Low,49–58,4
+1803,33,Male,Never,0,0,Heart,Damaged,35.5,Normal,288.6,Yes,Low,29–38,2
+1824,58,Male,Never,0,0,Liver,Healthy,35.0,Normal,261.5,Yes,Low,49–58,4
+1828,71,Female,Never,0,0,Human Body,Damaged,35.6,Normal,131.6,Yes,Low,69+,6
+1839,62,Female,Never,0,0,Heart,Healthy,20.6,Normal,148.0,Yes,Low,59–68,5
+1842,71,Male,Never,0,0,Lungs,Healthy,17.3,Normal,259.7,Yes,Low,69+,6
+1927,42,Male,Never,0,0,Kidney,Healthy,26.2,Normal,137.9,Yes,Low,39–48,3
+1963,77,Male,Never,0,0,Kidney,Damaged,30.1,Normal,265.7,Yes,Low,69+,6
+1967,46,Male,Never,0,0,Lungs,Healthy,32.0,Normal,205.8,Yes,Low,39–48,3
+2036,63,Male,Never,0,0,Lungs,Damaged,19.9,Normal,192.2,Yes,Low,59–68,5
+2038,81,Female,Never,0,0,Liver,Healthy,28.3,Normal,243.1,Yes,Low,69+,6
+2077,19,Female,Never,0,0,Liver,Damaged,37.5,Normal,144.6,Yes,Low,18–28,1
+2095,73,Female,Never,0,0,Kidney,Damaged,20.6,Normal,138.4,Yes,Low,69+,6
+2108,25,Male,Never,0,0,Kidney,Healthy,33.7,Normal,155.0,Yes,Low,18–28,1
+2120,35,Male,Never,0,0,Heart,Healthy,27.2,Normal,150.7,Yes,Low,29–38,2
+2160,54,Male,Never,0,0,Human Body,Damaged,24.9,Normal,128.4,Yes,Low,49–58,4
+2233,41,Female,Never,0,0,Liver,Healthy,28.5,Normal,167.0,Yes,Low,39–48,3
+2273,27,Male,Never,0,0,Liver,Damaged,36.4,Normal,180.7,Yes,Low,18–28,1
+2277,46,Female,Never,0,0,Lungs,Damaged,34.7,Normal,138.5,Yes,Low,39–48,3
+2285,38,Male,Never,0,0,Liver,Healthy,19.3,Normal,167.3,Yes,Low,29–38,2
+2320,68,Male,Never,0,0,Human Body,Healthy,39.6,Normal,242.2,Yes,Low,59–68,5
+2344,52,Male,Never,0,0,Lungs,Damaged,36.2,Normal,138.3,Yes,Low,49–58,4
+2427,69,Male,Never,0,0,Human Body,Healthy,27.8,Normal,202.6,Yes,Low,69+,6
+2456,54,Female,Never,0,0,Liver,Damaged,41.6,Normal,132.0,Yes,Low,49–58,4
+2457,35,Female,Never,0,0,Liver,Healthy,21.7,Normal,292.2,Yes,Low,29–38,2
+15,75,Female,Never,0,0,Kidney,Healthy,29.4,Normal,171.3,Yes,Moderate,69+,6
+64,32,Female,Never,0,0,Human Body,Damaged,21.6,Normal,271.3,Yes,Moderate,29–38,2
+88,20,Female,Never,0,0,Lungs,Healthy,33.1,Normal,124.6,Yes,Moderate,18–28,1
+130,83,Female,Never,0,0,Lungs,Damaged,37.0,Normal,150.1,Yes,Moderate,69+,6
+137,75,Female,Never,0,0,Liver,Healthy,32.6,Normal,252.0,Yes,Moderate,69+,6
+146,22,Male,Never,0,0,Lungs,Damaged,41.5,Normal,123.2,Yes,Moderate,18–28,1
+163,19,Male,Never,0,0,Kidney,Damaged,30.9,Normal,203.7,Yes,Moderate,18–28,1
+237,32,Male,Never,0,0,Lungs,Damaged,34.0,Normal,226.9,Yes,Moderate,29–38,2
+263,74,Male,Never,0,0,Human Body,Healthy,18.2,Normal,247.3,Yes,Moderate,69+,6
+311,45,Male,Never,0,0,Human Body,Healthy,40.4,Normal,289.1,Yes,Moderate,39–48,3
+344,27,Male,Never,0,0,Human Body,Healthy,33.0,Normal,241.7,Yes,Moderate,18–28,1
+381,75,Male,Never,0,0,Lungs,Healthy,18.3,Normal,202.4,Yes,Moderate,69+,6
+383,30,Male,Never,0,0,Human Body,Healthy,39.8,Normal,152.9,Yes,Moderate,29–38,2
+413,78,Female,Never,0,0,Human Body,Healthy,37.9,Normal,224.6,Yes,Moderate,69+,6
+449,24,Female,Never,0,0,Kidney,Damaged,25.3,Normal,194.2,Yes,Moderate,18–28,1
+469,20,Female,Never,0,0,Liver,Healthy,36.4,Normal,145.1,Yes,Moderate,18–28,1
+489,88,Male,Never,0,0,Human Body,Damaged,17.6,Normal,176.9,Yes,Moderate,69+,6
+503,38,Male,Never,0,0,Heart,Damaged,40.2,Normal,175.1,Yes,Moderate,29–38,2
+565,45,Female,Never,0,0,Liver,Healthy,25.7,Normal,169.4,Yes,Moderate,39–48,3
+576,31,Male,Never,0,0,Human Body,Damaged,34.2,Normal,263.7,Yes,Moderate,29–38,2
+589,22,Female,Never,0,0,Kidney,Healthy,31.5,Normal,253.0,Yes,Moderate,18–28,1
+603,39,Male,Never,0,0,Liver,Healthy,20.0,Normal,288.2,Yes,Moderate,39–48,3
+672,59,Female,Never,0,0,Lungs,Damaged,33.5,Normal,265.6,Yes,Moderate,59–68,5
+708,42,Male,Never,0,0,Liver,Healthy,40.2,Normal,208.3,Yes,Moderate,39–48,3
+748,21,Male,Never,0,0,Lungs,Healthy,25.5,Normal,220.3,Yes,Moderate,18–28,1
+754,89,Male,Never,0,0,Kidney,Healthy,41.3,Normal,262.6,Yes,Moderate,69+,6
+949,80,Female,Never,0,0,Kidney,Healthy,32.0,Normal,144.2,Yes,Moderate,69+,6
+958,46,Male,Never,0,0,Heart,Healthy,28.0,Normal,259.4,Yes,Moderate,39–48,3
+968,62,Female,Never,0,0,Heart,Damaged,34.2,Normal,284.4,Yes,Moderate,59–68,5
+1016,30,Female,Never,0,0,Lungs,Damaged,32.0,Normal,298.8,Yes,Moderate,29–38,2
+1035,82,Female,Never,0,0,Human Body,Healthy,38.8,Normal,224.4,Yes,Moderate,69+,6
+1047,71,Male,Never,0,0,Human Body,Healthy,27.6,Normal,123.7,Yes,Moderate,69+,6
+1100,24,Female,Never,0,0,Heart,Damaged,23.4,Normal,215.9,Yes,Moderate,18–28,1
+1119,65,Female,Never,0,0,Lungs,Healthy,33.0,Normal,147.6,Yes,Moderate,59–68,5
+1151,71,Female,Never,0,0,Lungs,Damaged,21.0,Normal,180.3,Yes,Moderate,69+,6
+1199,24,Female,Never,0,0,Lungs,Damaged,24.9,Normal,134.4,Yes,Moderate,18–28,1
+1249,19,Female,Never,0,0,Kidney,Damaged,22.3,Normal,131.5,Yes,Moderate,18–28,1
+1254,85,Male,Never,0,0,Human Body,Healthy,31.1,Normal,191.3,Yes,Moderate,69+,6
+1263,39,Male,Never,0,0,Liver,Healthy,35.5,Normal,125.2,Yes,Moderate,39–48,3
+1329,22,Female,Never,0,0,Liver,Damaged,39.0,Normal,172.5,Yes,Moderate,18–28,1
+1358,73,Female,Never,0,0,Kidney,Damaged,26.9,Normal,230.2,Yes,Moderate,69+,6
+1380,50,Male,Never,0,0,Human Body,Healthy,35.5,Normal,165.1,Yes,Moderate,49–58,4
+1386,88,Female,Never,0,0,Liver,Damaged,28.4,Normal,146.3,Yes,Moderate,69+,6
+1454,78,Male,Never,0,0,Liver,Healthy,34.5,Normal,199.3,Yes,Moderate,69+,6
+1468,50,Female,Never,0,0,Kidney,Healthy,26.8,Normal,277.6,Yes,Moderate,49–58,4
+1590,31,Male,Never,0,0,Liver,Damaged,25.7,Normal,288.1,Yes,Moderate,29–38,2
+1616,31,Male,Never,0,0,Liver,Healthy,25.7,Normal,122.2,Yes,Moderate,29–38,2
+1665,63,Female,Never,0,0,Human Body,Healthy,35.3,Normal,168.9,Yes,Moderate,59–68,5
+1714,80,Female,Never,0,0,Heart,Healthy,35.8,Normal,299.0,Yes,Moderate,69+,6
+1780,23,Female,Never,0,0,Heart,Healthy,19.6,Normal,230.7,Yes,Moderate,18–28,1
+1794,30,Female,Never,0,0,Human Body,Healthy,31.5,Normal,150.3,Yes,Moderate,29–38,2
+1797,89,Male,Never,0,0,Human Body,Damaged,36.2,Normal,252.7,Yes,Moderate,69+,6
+1801,44,Male,Never,0,0,Heart,Healthy,34.5,Normal,201.4,Yes,Moderate,39–48,3
+1937,81,Male,Never,0,0,Liver,Damaged,20.0,Normal,168.9,Yes,Moderate,69+,6
+1942,63,Male,Never,0,0,Heart,Healthy,27.6,Normal,282.7,Yes,Moderate,59–68,5
+1953,78,Female,Never,0,0,Heart,Healthy,22.5,Normal,156.3,Yes,Moderate,69+,6
+1966,66,Male,Never,0,0,Heart,Damaged,32.3,Normal,166.4,Yes,Moderate,59–68,5
+1990,56,Female,Never,0,0,Liver,Healthy,23.8,Normal,212.5,Yes,Moderate,49–58,4
+2001,39,Male,Never,0,0,Heart,Damaged,32.9,Normal,256.3,Yes,Moderate,39–48,3
+2090,33,Male,Never,0,0,Human Body,Damaged,36.6,Normal,198.1,Yes,Moderate,29–38,2
+2111,70,Female,Never,0,0,Kidney,Damaged,24.0,Normal,194.0,Yes,Moderate,69+,6
+2157,83,Female,Never,0,0,Kidney,Healthy,38.8,Normal,262.5,Yes,Moderate,69+,6
+2192,78,Male,Never,0,0,Liver,Healthy,19.2,Normal,272.5,Yes,Moderate,69+,6
+2203,74,Female,Never,0,0,Kidney,Damaged,26.2,Normal,207.9,Yes,Moderate,69+,6
+2305,57,Female,Never,0,0,Heart,Healthy,39.6,Normal,159.1,Yes,Moderate,49–58,4
+2322,38,Female,Never,0,0,Human Body,Healthy,37.0,Normal,245.9,Yes,Moderate,29–38,2
+2331,18,Female,Never,0,0,Lungs,Healthy,39.2,Normal,217.8,Yes,Moderate,18–28,1
+2345,76,Female,Never,0,0,Lungs,Damaged,25.2,Normal,267.2,Yes,Moderate,69+,6
+2392,38,Male,Never,0,0,Lungs,Healthy,31.3,Normal,170.8,Yes,Moderate,29–38,2
+2398,61,Female,Never,0,0,Heart,Healthy,37.3,Normal,277.7,Yes,Moderate,59–68,5
+2464,55,Male,Never,0,0,Heart,Healthy,19.8,Normal,152.0,Yes,Moderate,49–58,4
+2472,40,Male,Never,0,0,Lungs,Healthy,29.7,Normal,295.8,Yes,Moderate,39–48,3
+4,77,Female,Never,0,0,Lungs,Healthy,17.4,Normal,163.4,No,Moderate,69+,6
+25,61,Female,Never,0,0,Liver,Healthy,39.1,Normal,291.6,No,Moderate,59–68,5
+35,40,Female,Never,0,0,Lungs,Damaged,39.2,Normal,122.8,No,Moderate,39–48,3
+46,36,Male,Never,0,0,Heart,Healthy,27.1,Normal,253.4,No,Moderate,29–38,2
+48,38,Female,Never,0,0,Liver,Damaged,18.8,Normal,294.5,No,Moderate,29–38,2
+65,30,Female,Never,0,0,Human Body,Damaged,36.7,Normal,135.6,No,Moderate,29–38,2
+74,59,Male,Never,0,0,Lungs,Damaged,28.0,Normal,203.3,No,Moderate,59–68,5
+76,32,Male,Never,0,0,Liver,Healthy,35.5,Normal,299.6,No,Moderate,29–38,2
+83,80,Female,Never,0,0,Human Body,Damaged,40.1,Normal,206.6,No,Moderate,69+,6
+85,66,Male,Never,0,0,Human Body,Damaged,20.7,Normal,135.4,No,Moderate,59–68,5
+117,30,Female,Never,0,0,Heart,Damaged,32.8,Normal,234.1,No,Moderate,29–38,2
+118,47,Male,Never,0,0,Lungs,Healthy,38.0,Normal,152.3,No,Moderate,39–48,3
+121,43,Female,Never,0,0,Lungs,Damaged,27.7,Normal,149.5,No,Moderate,39–48,3
+144,70,Female,Never,0,0,Heart,Healthy,40.8,Normal,276.2,No,Moderate,69+,6
+152,65,Male,Never,0,0,Kidney,Healthy,26.9,Normal,254.4,No,Moderate,59–68,5
+158,53,Female,Never,0,0,Human Body,Healthy,20.8,Normal,276.5,No,Moderate,49–58,4
+175,44,Female,Never,0,0,Liver,Healthy,41.1,Normal,144.1,No,Moderate,39–48,3
+177,28,Male,Never,0,0,Liver,Damaged,19.5,Normal,147.0,No,Moderate,18–28,1
+184,53,Female,Never,0,0,Heart,Damaged,32.0,Normal,254.7,No,Moderate,49–58,4
+186,61,Female,Never,0,0,Heart,Damaged,33.1,Normal,266.9,No,Moderate,59–68,5
+221,23,Male,Never,0,0,Heart,Healthy,19.8,Normal,202.9,No,Moderate,18–28,1
+226,72,Female,Never,0,0,Liver,Damaged,24.1,Normal,168.2,No,Moderate,69+,6
+254,86,Male,Never,0,0,Liver,Damaged,17.5,Normal,243.8,No,Moderate,69+,6
+271,54,Female,Never,0,0,Lungs,Healthy,20.1,Normal,208.7,No,Moderate,49–58,4
+279,71,Male,Never,0,0,Lungs,Healthy,36.0,Normal,290.8,No,Moderate,69+,6
+307,66,Female,Never,0,0,Heart,Healthy,29.9,Normal,233.5,No,Moderate,59–68,5
+308,72,Male,Never,0,0,Heart,Healthy,40.8,Normal,136.6,No,Moderate,69+,6
+325,64,Female,Never,0,0,Heart,Healthy,35.7,Normal,297.5,No,Moderate,59–68,5
+334,78,Female,Never,0,0,Human Body,Healthy,27.7,Normal,213.8,No,Moderate,69+,6
+337,27,Female,Never,0,0,Heart,Healthy,18.9,Normal,188.9,No,Moderate,18–28,1
+377,69,Male,Never,0,0,Human Body,Healthy,19.9,Normal,282.4,No,Moderate,69+,6
+379,70,Male,Never,0,0,Liver,Healthy,41.5,Normal,132.1,No,Moderate,69+,6
+382,80,Female,Never,0,0,Lungs,Damaged,37.5,Normal,183.1,No,Moderate,69+,6
+390,47,Female,Never,0,0,Lungs,Healthy,36.5,Normal,199.9,No,Moderate,39–48,3
+430,46,Female,Never,0,0,Heart,Healthy,27.8,Normal,134.5,No,Moderate,39–48,3
+432,23,Female,Never,0,0,Kidney,Healthy,27.1,Normal,224.5,No,Moderate,18–28,1
+436,33,Male,Never,0,0,Kidney,Healthy,17.4,Normal,123.8,No,Moderate,29–38,2
+445,40,Female,Never,0,0,Heart,Healthy,35.3,Normal,224.1,No,Moderate,39–48,3
+447,72,Male,Never,0,0,Liver,Healthy,20.2,Normal,183.8,No,Moderate,69+,6
+466,24,Male,Never,0,0,Human Body,Healthy,38.2,Normal,150.3,No,Moderate,18–28,1
+479,39,Male,Never,0,0,Kidney,Damaged,35.4,Normal,271.2,No,Moderate,39–48,3
+484,35,Female,Never,0,0,Liver,Healthy,40.8,Normal,167.0,No,Moderate,29–38,2
+495,73,Male,Never,0,0,Heart,Healthy,38.2,Normal,262.9,No,Moderate,69+,6
+504,51,Male,Never,0,0,Lungs,Damaged,20.0,Normal,215.8,No,Moderate,49–58,4
+507,31,Female,Never,0,0,Lungs,Healthy,31.0,Normal,287.9,No,Moderate,29–38,2
+521,32,Male,Never,0,0,Liver,Healthy,24.1,Normal,296.9,No,Moderate,29–38,2
+527,73,Female,Never,0,0,Kidney,Healthy,37.7,Normal,129.8,No,Moderate,69+,6
+573,72,Male,Never,0,0,Lungs,Healthy,19.7,Normal,201.4,No,Moderate,69+,6
+582,26,Female,Never,0,0,Lungs,Damaged,32.7,Normal,150.0,No,Moderate,18–28,1
+602,84,Male,Never,0,0,Human Body,Healthy,38.8,Normal,148.3,No,Moderate,69+,6
+608,50,Male,Never,0,0,Lungs,Healthy,40.4,Normal,285.2,No,Moderate,49–58,4
+610,52,Male,Never,0,0,Liver,Damaged,26.4,Normal,163.8,No,Moderate,49–58,4
+611,70,Male,Never,0,0,Heart,Healthy,24.2,Normal,290.2,No,Moderate,69+,6
+613,41,Male,Never,0,0,Heart,Healthy,40.1,Normal,168.6,No,Moderate,39–48,3
+619,52,Male,Never,0,0,Liver,Healthy,18.3,Normal,129.8,No,Moderate,49–58,4
+622,35,Female,Never,0,0,Kidney,Healthy,18.8,Normal,192.5,No,Moderate,29–38,2
+653,56,Female,Never,0,0,Human Body,Damaged,37.0,Normal,161.9,No,Moderate,49–58,4
+657,27,Female,Never,0,0,Heart,Healthy,30.0,Normal,121.5,No,Moderate,18–28,1
+658,72,Female,Never,0,0,Liver,Healthy,39.0,Normal,229.4,No,Moderate,69+,6
+668,55,Female,Never,0,0,Lungs,Damaged,31.0,Normal,265.5,No,Moderate,49–58,4
+671,54,Male,Never,0,0,Lungs,Healthy,24.4,Normal,157.4,No,Moderate,49–58,4
+695,61,Female,Never,0,0,Heart,Healthy,31.1,Normal,127.1,No,Moderate,59–68,5
+720,30,Male,Never,0,0,Kidney,Healthy,37.2,Normal,138.2,No,Moderate,29–38,2
+735,41,Male,Never,0,0,Lungs,Healthy,40.7,Normal,215.8,No,Moderate,39–48,3
+757,30,Female,Never,0,0,Liver,Healthy,22.6,Normal,271.3,No,Moderate,29–38,2
+777,89,Male,Never,0,0,Lungs,Healthy,38.9,Normal,213.0,No,Moderate,69+,6
+785,43,Male,Never,0,0,Human Body,Healthy,29.0,Normal,185.3,No,Moderate,39–48,3
+805,48,Male,Never,0,0,Lungs,Damaged,28.2,Normal,159.8,No,Moderate,39–48,3
+834,54,Male,Never,0,0,Kidney,Damaged,32.4,Normal,125.1,No,Moderate,49–58,4
+843,66,Female,Never,0,0,Kidney,Damaged,34.6,Normal,204.7,No,Moderate,59–68,5
+886,78,Female,Never,0,0,Human Body,Healthy,18.5,Normal,121.5,No,Moderate,69+,6
+899,24,Female,Never,0,0,Liver,Damaged,17.7,Normal,158.6,No,Moderate,18–28,1
+907,43,Female,Never,0,0,Heart,Damaged,28.4,Normal,139.3,No,Moderate,39–48,3
+908,47,Female,Never,0,0,Liver,Damaged,23.4,Normal,125.4,No,Moderate,39–48,3
+935,79,Female,Never,0,0,Lungs,Healthy,39.0,Normal,168.4,No,Moderate,69+,6
+938,22,Male,Never,0,0,Kidney,Damaged,24.8,Normal,241.3,No,Moderate,18–28,1
+945,66,Female,Never,0,0,Human Body,Healthy,22.0,Normal,148.3,No,Moderate,59–68,5
+985,53,Male,Never,0,0,Human Body,Healthy,20.3,Normal,220.8,No,Moderate,49–58,4
+991,87,Male,Never,0,0,Liver,Healthy,31.0,Normal,296.1,No,Moderate,69+,6
+999,30,Female,Never,0,0,Kidney,Healthy,25.3,Normal,212.1,No,Moderate,29–38,2
+1024,69,Male,Never,0,0,Human Body,Healthy,20.0,Normal,283.1,No,Moderate,69+,6
+1025,50,Male,Never,0,0,Lungs,Healthy,24.1,Normal,277.5,No,Moderate,49–58,4
+1042,51,Male,Never,0,0,Lungs,Healthy,31.8,Normal,147.7,No,Moderate,49–58,4
+1063,81,Female,Never,0,0,Lungs,Healthy,32.4,Normal,174.8,No,Moderate,69+,6
+1084,24,Female,Never,0,0,Liver,Damaged,18.0,Normal,263.8,No,Moderate,18–28,1
+1092,61,Female,Never,0,0,Lungs,Healthy,19.0,Normal,203.7,No,Moderate,59–68,5
+1098,53,Female,Never,0,0,Lungs,Healthy,40.4,Normal,202.4,No,Moderate,49–58,4
+1101,48,Male,Never,0,0,Lungs,Healthy,38.9,Normal,184.3,No,Moderate,39–48,3
+1104,43,Female,Never,0,0,Kidney,Damaged,40.6,Normal,165.8,No,Moderate,39–48,3
+1120,87,Male,Never,0,0,Kidney,Damaged,36.6,Normal,212.2,No,Moderate,69+,6
+1123,23,Female,Never,0,0,Lungs,Damaged,40.6,Normal,199.2,No,Moderate,18–28,1
+1155,85,Female,Never,0,0,Lungs,Damaged,21.5,Normal,266.2,No,Moderate,69+,6
+1158,46,Female,Never,0,0,Kidney,Healthy,29.4,Normal,124.2,No,Moderate,39–48,3
+1189,72,Male,Never,0,0,Human Body,Healthy,28.5,Normal,220.9,No,Moderate,69+,6
+1244,83,Female,Never,0,0,Lungs,Healthy,20.8,Normal,147.9,No,Moderate,69+,6
+1269,39,Female,Never,0,0,Heart,Healthy,34.1,Normal,226.5,No,Moderate,39–48,3
+1279,38,Female,Never,0,0,Kidney,Healthy,26.7,Normal,245.1,No,Moderate,29–38,2
+1288,61,Male,Never,0,0,Liver,Healthy,33.7,Normal,156.9,No,Moderate,59–68,5
+1293,61,Female,Never,0,0,Heart,Healthy,20.1,Normal,221.7,No,Moderate,59–68,5
+1332,21,Male,Never,0,0,Lungs,Healthy,21.9,Normal,279.8,No,Moderate,18–28,1
+1337,62,Female,Never,0,0,Lungs,Healthy,25.0,Normal,149.6,No,Moderate,59–68,5
+1366,28,Male,Never,0,0,Liver,Healthy,33.1,Normal,235.9,No,Moderate,18–28,1
+1406,55,Female,Never,0,0,Human Body,Damaged,17.5,Normal,189.2,No,Moderate,49–58,4
+1415,55,Female,Never,0,0,Kidney,Damaged,35.3,Normal,160.4,No,Moderate,49–58,4
+1421,50,Female,Never,0,0,Human Body,Damaged,31.1,Normal,279.9,No,Moderate,49–58,4
+1423,20,Male,Never,0,0,Kidney,Healthy,29.2,Normal,297.6,No,Moderate,18–28,1
+1440,65,Male,Never,0,0,Heart,Damaged,24.2,Normal,259.6,No,Moderate,59–68,5
+1463,89,Female,Never,0,0,Liver,Damaged,25.7,Normal,280.0,No,Moderate,69+,6
+1485,37,Female,Never,0,0,Heart,Damaged,35.4,Normal,279.6,No,Moderate,29–38,2
+1489,45,Male,Never,0,0,Human Body,Healthy,37.6,Normal,122.6,No,Moderate,39–48,3
+1493,46,Male,Never,0,0,Lungs,Damaged,23.2,Normal,178.3,No,Moderate,39–48,3
+1496,81,Male,Never,0,0,Kidney,Damaged,18.2,Normal,201.4,No,Moderate,69+,6
+1535,43,Female,Never,0,0,Heart,Healthy,17.1,Normal,270.1,No,Moderate,39–48,3
+1542,63,Female,Never,0,0,Kidney,Healthy,35.3,Normal,177.2,No,Moderate,59–68,5
+1567,22,Male,Never,0,0,Kidney,Damaged,26.0,Normal,172.6,No,Moderate,18–28,1
+1572,23,Male,Never,0,0,Heart,Healthy,40.4,Normal,126.3,No,Moderate,18–28,1
+1588,77,Female,Never,0,0,Liver,Damaged,25.5,Normal,126.3,No,Moderate,69+,6
+1592,65,Female,Never,0,0,Human Body,Healthy,40.9,Normal,125.3,No,Moderate,59–68,5
+1610,38,Female,Never,0,0,Kidney,Healthy,23.2,Normal,298.3,No,Moderate,29–38,2
+1643,64,Male,Never,0,0,Heart,Healthy,22.0,Normal,282.0,No,Moderate,59–68,5
+1661,53,Male,Never,0,0,Human Body,Damaged,32.6,Normal,291.3,No,Moderate,49–58,4
+1674,50,Female,Never,0,0,Heart,Healthy,26.4,Normal,257.3,No,Moderate,49–58,4
+1676,69,Male,Never,0,0,Liver,Healthy,37.8,Normal,213.0,No,Moderate,69+,6
+1698,72,Male,Never,0,0,Liver,Healthy,36.2,Normal,239.1,No,Moderate,69+,6
+1717,20,Male,Never,0,0,Liver,Healthy,20.7,Normal,202.0,No,Moderate,18–28,1
+1725,79,Male,Never,0,0,Lungs,Healthy,31.6,Normal,251.2,No,Moderate,69+,6
+1727,54,Female,Never,0,0,Heart,Damaged,22.8,Normal,137.4,No,Moderate,49–58,4
+1732,69,Male,Never,0,0,Liver,Damaged,37.4,Normal,255.6,No,Moderate,69+,6
+1745,89,Male,Never,0,0,Lungs,Healthy,41.7,Normal,286.2,No,Moderate,69+,6
+1765,87,Female,Never,0,0,Liver,Damaged,29.1,Normal,236.1,No,Moderate,69+,6
+1819,48,Male,Never,0,0,Human Body,Damaged,17.3,Normal,260.4,No,Moderate,39–48,3
+1863,83,Female,Never,0,0,Kidney,Healthy,29.5,Normal,121.6,No,Moderate,69+,6
+1879,34,Male,Never,0,0,Human Body,Healthy,36.6,Normal,222.9,No,Moderate,29–38,2
+1886,27,Male,Never,0,0,Heart,Damaged,39.1,Normal,236.4,No,Moderate,18–28,1
+1889,72,Female,Never,0,0,Human Body,Damaged,29.2,Normal,149.1,No,Moderate,69+,6
+1908,87,Female,Never,0,0,Kidney,Damaged,29.9,Normal,238.5,No,Moderate,69+,6
+1916,32,Male,Never,0,0,Heart,Healthy,34.8,Normal,245.8,No,Moderate,29–38,2
+1918,58,Male,Never,0,0,Lungs,Healthy,36.8,Normal,167.0,No,Moderate,49–58,4
+1929,89,Female,Never,0,0,Human Body,Damaged,32.9,Normal,277.3,No,Moderate,69+,6
+1997,43,Male,Never,0,0,Liver,Healthy,40.0,Normal,175.2,No,Moderate,39–48,3
+2005,71,Female,Never,0,0,Human Body,Damaged,24.5,Normal,280.3,No,Moderate,69+,6
+2008,73,Male,Never,0,0,Heart,Healthy,21.1,Normal,261.5,No,Moderate,69+,6
+2014,27,Male,Never,0,0,Lungs,Healthy,39.6,Normal,295.9,No,Moderate,18–28,1
+2028,24,Female,Never,0,0,Liver,Damaged,36.7,Normal,167.6,No,Moderate,18–28,1
+2039,61,Female,Never,0,0,Heart,Healthy,26.0,Normal,161.5,No,Moderate,59–68,5
+2105,44,Male,Never,0,0,Human Body,Healthy,24.0,Normal,227.7,No,Moderate,39–48,3
+2131,58,Female,Never,0,0,Kidney,Healthy,41.3,Normal,203.1,No,Moderate,49–58,4
+2132,88,Male,Never,0,0,Liver,Healthy,22.8,Normal,239.2,No,Moderate,69+,6
+2138,83,Male,Never,0,0,Liver,Healthy,19.2,Normal,139.7,No,Moderate,69+,6
+2156,34,Male,Never,0,0,Liver,Healthy,27.7,Normal,136.3,No,Moderate,29–38,2
+2177,23,Male,Never,0,0,Liver,Healthy,22.7,Normal,165.4,No,Moderate,18–28,1
+2180,64,Female,Never,0,0,Kidney,Damaged,26.3,Normal,236.4,No,Moderate,59–68,5
+2185,58,Male,Never,0,0,Lungs,Healthy,19.9,Normal,152.8,No,Moderate,49–58,4
+2197,77,Male,Never,0,0,Human Body,Healthy,24.6,Normal,290.4,No,Moderate,69+,6
+2206,88,Female,Never,0,0,Human Body,Damaged,18.6,Normal,135.4,No,Moderate,69+,6
+2230,22,Female,Never,0,0,Liver,Healthy,41.6,Normal,250.0,No,Moderate,18–28,1
+2231,80,Female,Never,0,0,Human Body,Healthy,32.9,Normal,221.7,No,Moderate,69+,6
+2252,62,Female,Never,0,0,Human Body,Damaged,18.8,Normal,248.9,No,Moderate,59–68,5
+2279,20,Male,Never,0,0,Liver,Healthy,36.8,Normal,121.8,No,Moderate,18–28,1
+2297,80,Female,Never,0,0,Liver,Damaged,37.2,Normal,247.7,No,Moderate,69+,6
+2300,63,Male,Never,0,0,Kidney,Healthy,39.0,Normal,141.9,No,Moderate,59–68,5
+2307,41,Male,Never,0,0,Heart,Healthy,35.1,Normal,226.7,No,Moderate,39–48,3
+2332,18,Male,Never,0,0,Heart,Damaged,32.8,Normal,191.3,No,Moderate,18–28,1
+2342,70,Female,Never,0,0,Heart,Damaged,22.9,Normal,246.4,No,Moderate,69+,6
+2348,79,Male,Never,0,0,Human Body,Healthy,24.0,Normal,184.2,No,Moderate,69+,6
+2364,25,Male,Never,0,0,Heart,Healthy,37.8,Normal,187.9,No,Moderate,18–28,1
+2379,19,Female,Never,0,0,Human Body,Damaged,20.7,Normal,132.4,No,Moderate,18–28,1
+2383,77,Male,Never,0,0,Heart,Damaged,25.0,Normal,174.9,No,Moderate,69+,6
+2386,57,Female,Never,0,0,Kidney,Damaged,28.1,Normal,222.4,No,Moderate,49–58,4
+2395,80,Female,Never,0,0,Human Body,Damaged,28.0,Normal,172.5,No,Moderate,69+,6
+2407,42,Female,Never,0,0,Kidney,Healthy,18.6,Normal,297.1,No,Moderate,39–48,3
+2428,42,Female,Never,0,0,Kidney,Healthy,18.6,Normal,194.5,No,Moderate,39–48,3
+2451,39,Female,Never,0,0,Lungs,Healthy,29.2,Normal,207.1,No,Moderate,39–48,3
+2481,19,Male,Never,0,0,Human Body,Healthy,28.1,Normal,245.3,No,Moderate,18–28,1
+2491,65,Female,Never,0,0,Lungs,Damaged,17.6,Normal,175.6,No,Moderate,59–68,5
+2492,51,Male,Never,0,0,Liver,Damaged,38.1,Normal,269.2,No,Moderate,49–58,4
+2497,69,Female,Never,0,0,Kidney,Healthy,24.2,Normal,210.4,No,Moderate,69+,6
+12,83,Female,Never,0,0,Liver,Healthy,19.6,Normal,159.3,No,High,69+,6
+23,65,Female,Never,0,0,Heart,Healthy,23.6,Normal,295.1,No,High,59–68,5
+51,46,Male,Never,0,0,Heart,Damaged,40.7,Normal,230.4,No,High,39–48,3
+110,74,Female,Never,0,0,Human Body,Healthy,36.5,Normal,130.4,No,High,69+,6
+119,85,Male,Never,0,0,Human Body,Damaged,34.7,Normal,130.4,Yes,High,69+,6
+185,32,Male,Never,0,0,Lungs,Healthy,26.3,Normal,199.1,No,High,29–38,2
+189,39,Male,Never,0,0,Liver,Healthy,29.7,Normal,221.7,No,High,39–48,3
+206,60,Male,Never,0,0,Human Body,Healthy,19.0,Normal,207.2,Yes,High,59–68,5
+211,25,Female,Never,0,0,Kidney,Damaged,31.4,Normal,263.6,No,High,18–28,1
+222,47,Male,Never,0,0,Heart,Healthy,18.1,Normal,285.3,Yes,High,39–48,3
+255,38,Female,Never,0,0,Kidney,Damaged,24.0,Normal,292.3,Yes,High,29–38,2
+298,30,Female,Never,0,0,Kidney,Damaged,38.4,Normal,250.9,No,High,29–38,2
+302,39,Male,Never,0,0,Human Body,Damaged,23.3,Normal,222.9,No,High,39–48,3
+327,66,Male,Never,0,0,Liver,Healthy,20.6,Normal,157.1,No,High,59–68,5
+360,79,Female,Never,0,0,Liver,Damaged,37.4,Normal,252.5,No,High,69+,6
+386,36,Male,Never,0,0,Heart,Healthy,34.3,Normal,161.7,No,High,29–38,2
+416,60,Male,Never,0,0,Liver,Damaged,25.9,Normal,122.3,No,High,59–68,5
+440,67,Female,Never,0,0,Human Body,Healthy,20.1,Normal,164.3,No,High,59–68,5
+456,32,Male,Never,0,0,Human Body,Damaged,28.5,Normal,239.3,No,High,29–38,2
+464,55,Male,Never,0,0,Heart,Damaged,25.2,Normal,255.3,No,High,49–58,4
+475,73,Male,Never,0,0,Liver,Healthy,28.3,Normal,243.6,No,High,69+,6
+515,19,Male,Never,0,0,Kidney,Damaged,26.4,Normal,134.3,No,High,18–28,1
+546,23,Male,Never,0,0,Liver,Damaged,17.2,Normal,145.1,No,High,18–28,1
+547,85,Male,Never,0,0,Liver,Healthy,24.9,Normal,211.1,No,High,69+,6
+562,72,Male,Never,0,0,Liver,Damaged,35.4,Normal,223.1,Yes,High,69+,6
+596,60,Female,Never,0,0,Lungs,Healthy,34.6,Normal,168.4,No,High,59–68,5
+629,65,Female,Never,0,0,Kidney,Damaged,19.4,Normal,234.9,No,High,59–68,5
+635,37,Male,Never,0,0,Lungs,Damaged,24.9,Normal,276.9,Yes,High,29–38,2
+670,72,Male,Never,0,0,Liver,Healthy,30.9,Normal,238.0,Yes,High,69+,6
+681,56,Male,Never,0,0,Human Body,Healthy,23.9,Normal,260.1,No,High,49–58,4
+683,30,Female,Never,0,0,Heart,Healthy,26.1,Normal,261.9,No,High,29–38,2
+731,47,Male,Never,0,0,Kidney,Damaged,41.8,Normal,129.1,Yes,High,39–48,3
+737,78,Female,Never,0,0,Liver,Healthy,18.2,Normal,237.8,No,High,69+,6
+738,71,Male,Never,0,0,Human Body,Healthy,23.7,Normal,204.7,No,High,69+,6
+752,69,Female,Never,0,0,Human Body,Healthy,29.4,Normal,242.2,No,High,69+,6
+775,77,Female,Never,0,0,Lungs,Healthy,40.9,Normal,286.0,No,High,69+,6
+792,28,Female,Never,0,0,Human Body,Healthy,31.1,Normal,251.7,No,High,18–28,1
+797,86,Male,Never,0,0,Liver,Damaged,17.9,Normal,140.4,No,High,69+,6
+801,43,Male,Never,0,0,Lungs,Healthy,19.1,Normal,123.4,Yes,High,39–48,3
+871,24,Male,Never,0,0,Lungs,Healthy,20.7,Normal,282.8,No,High,18–28,1
+888,59,Female,Never,0,0,Human Body,Damaged,18.5,Normal,209.4,Yes,High,59–68,5
+889,25,Male,Never,0,0,Liver,Healthy,31.4,Normal,211.0,No,High,18–28,1
+926,71,Male,Never,0,0,Kidney,Healthy,31.7,Normal,167.9,No,High,69+,6
+1010,67,Female,Never,0,0,Heart,Healthy,33.3,Normal,255.4,No,High,59–68,5
+1080,79,Female,Never,0,0,Kidney,Damaged,19.4,Normal,270.7,Yes,High,69+,6
+1111,84,Male,Never,0,0,Heart,Healthy,39.4,Normal,204.0,No,High,69+,6
+1143,85,Male,Never,0,0,Kidney,Healthy,28.2,Normal,265.5,Yes,High,69+,6
+1157,72,Male,Never,0,0,Liver,Damaged,30.0,Normal,185.9,Yes,High,69+,6
+1201,40,Male,Never,0,0,Liver,Healthy,18.8,Normal,223.8,No,High,39–48,3
+1251,86,Male,Never,0,0,Lungs,Healthy,41.6,Normal,292.2,Yes,High,69+,6
+1307,32,Male,Never,0,0,Heart,Healthy,29.7,Normal,215.3,No,High,29–38,2
+1308,48,Male,Never,0,0,Lungs,Healthy,34.3,Normal,184.1,Yes,High,39–48,3
+1319,57,Female,Never,0,0,Liver,Healthy,38.2,Normal,288.3,No,High,49–58,4
+1321,55,Male,Never,0,0,Human Body,Healthy,22.8,Normal,159.6,No,High,49–58,4
+1342,53,Male,Never,0,0,Human Body,Healthy,39.9,Normal,134.0,No,High,49–58,4
+1353,89,Male,Never,0,0,Human Body,Healthy,23.7,Normal,163.8,Yes,High,69+,6
+1355,35,Male,Never,0,0,Liver,Damaged,24.6,Normal,277.3,Yes,High,29–38,2
+1362,80,Male,Never,0,0,Liver,Healthy,34.1,Normal,196.1,No,High,69+,6
+1364,81,Female,Never,0,0,Lungs,Healthy,27.2,Normal,127.3,No,High,69+,6
+1374,63,Female,Never,0,0,Liver,Damaged,21.7,Normal,181.2,No,High,59–68,5
+1384,76,Female,Never,0,0,Heart,Healthy,28.7,Normal,144.6,No,High,69+,6
+1504,59,Female,Never,0,0,Kidney,Healthy,26.2,Normal,290.6,Yes,High,59–68,5
+1515,31,Male,Never,0,0,Lungs,Damaged,41.5,Normal,195.3,No,High,29–38,2
+1517,48,Female,Never,0,0,Liver,Healthy,20.1,Normal,255.2,No,High,39–48,3
+1520,38,Female,Never,0,0,Kidney,Healthy,23.1,Normal,188.2,No,High,29–38,2
+1521,89,Female,Never,0,0,Kidney,Healthy,27.2,Normal,148.3,No,High,69+,6
+1539,74,Male,Never,0,0,Lungs,Healthy,40.1,Normal,244.8,No,High,69+,6
+1547,35,Male,Never,0,0,Human Body,Healthy,40.0,Normal,258.3,No,High,29–38,2
+1596,71,Female,Never,0,0,Lungs,Healthy,22.9,Normal,208.5,No,High,69+,6
+1606,31,Male,Never,0,0,Human Body,Healthy,23.5,Normal,166.0,No,High,29–38,2
+1638,88,Female,Never,0,0,Human Body,Healthy,26.0,Normal,290.3,No,High,69+,6
+1652,26,Female,Never,0,0,Human Body,Healthy,27.8,Normal,142.1,Yes,High,18–28,1
+1655,60,Female,Never,0,0,Kidney,Healthy,32.8,Normal,242.4,Yes,High,59–68,5
+1752,77,Female,Never,0,0,Kidney,Healthy,29.9,Normal,228.8,No,High,69+,6
+1753,75,Female,Never,0,0,Human Body,Healthy,34.0,Normal,245.0,Yes,High,69+,6
+1764,84,Male,Never,0,0,Human Body,Healthy,34.9,Normal,196.2,No,High,69+,6
+1774,80,Male,Never,0,0,Human Body,Damaged,28.8,Normal,173.1,No,High,69+,6
+1800,24,Female,Never,0,0,Kidney,Healthy,29.3,Normal,134.0,Yes,High,18–28,1
+2020,34,Female,Never,0,0,Liver,Healthy,37.1,Normal,139.0,No,High,29–38,2
+2052,26,Female,Never,0,0,Liver,Damaged,33.3,Normal,193.8,No,High,18–28,1
+2070,69,Female,Never,0,0,Kidney,Damaged,34.3,Normal,170.6,No,High,69+,6
+2092,60,Female,Never,0,0,Lungs,Healthy,28.6,Normal,240.0,No,High,59–68,5
+2103,19,Female,Never,0,0,Human Body,Healthy,36.1,Normal,247.3,No,High,18–28,1
+2116,32,Male,Never,0,0,Liver,Healthy,28.4,Normal,275.9,No,High,29–38,2
+2135,20,Female,Never,0,0,Liver,Healthy,29.9,Normal,279.8,No,High,18–28,1
+2165,48,Female,Never,0,0,Kidney,Damaged,26.0,Normal,170.5,No,High,39–48,3
+2204,76,Male,Never,0,0,Kidney,Damaged,28.5,Normal,228.8,Yes,High,69+,6
+2253,49,Female,Never,0,0,Heart,Healthy,32.3,Normal,180.0,No,High,49–58,4
+2268,75,Male,Never,0,0,Heart,Damaged,38.9,Normal,281.2,Yes,High,69+,6
+2433,61,Female,Never,0,0,Liver,Damaged,34.5,Normal,289.0,Yes,High,59–68,5
+2437,55,Male,Never,0,0,Heart,Healthy,38.0,Normal,128.1,No,High,49–58,4
+2482,25,Male,Never,0,0,Kidney,Damaged,20.5,Normal,257.9,No,High,18–28,1
+61,51,Male,Never,0,0,Lungs,Damaged,18.0,High,233.0,Yes,High,49–58,4
+81,26,Female,Never,0,0,Heart,Damaged,40.4,High,201.2,Yes,High,18–28,1
+122,19,Male,Never,0,0,Kidney,Damaged,23.8,High,147.2,No,High,18–28,1
+208,80,Male,Never,0,0,Liver,Healthy,25.3,High,213.5,Yes,High,69+,6
+210,59,Female,Never,0,0,Heart,Healthy,33.4,High,188.5,No,High,59–68,5
+264,86,Female,Never,0,0,Human Body,Healthy,40.3,High,143.4,No,High,69+,6
+282,36,Male,Never,0,0,Lungs,Damaged,21.8,High,283.4,No,High,29–38,2
+328,66,Male,Never,0,0,Liver,Damaged,32.3,High,241.2,No,High,59–68,5
+350,57,Female,Never,0,0,Human Body,Healthy,39.0,High,238.6,Yes,High,49–58,4
+628,85,Male,Never,0,0,Heart,Healthy,33.6,High,158.8,Yes,High,69+,6
+722,66,Female,Never,0,0,Lungs,Damaged,19.8,High,256.4,No,High,59–68,5
+739,52,Female,Never,0,0,Liver,Healthy,36.0,High,290.2,Yes,High,49–58,4
+758,59,Male,Never,0,0,Human Body,Healthy,38.9,High,195.2,No,High,59–68,5
+837,41,Female,Never,0,0,Human Body,Healthy,18.6,High,142.7,No,High,39–48,3
+987,21,Female,Never,0,0,Kidney,Healthy,35.0,High,205.6,No,High,18–28,1
+1198,78,Female,Never,0,0,Heart,Healthy,36.4,High,138.1,Yes,High,69+,6
+1211,64,Female,Never,0,0,Human Body,Healthy,25.6,High,196.4,No,High,59–68,5
+1252,47,Male,Never,0,0,Human Body,Healthy,26.0,High,260.9,Yes,High,39–48,3
+1304,69,Female,Never,0,0,Human Body,Healthy,30.6,High,186.1,Yes,High,69+,6
+1345,79,Male,Never,0,0,Liver,Healthy,35.7,High,255.9,Yes,High,69+,6
+1349,42,Female,Never,0,0,Kidney,Healthy,21.8,High,126.2,No,High,39–48,3
+1369,25,Male,Never,0,0,Human Body,Healthy,24.2,High,220.5,No,High,18–28,1
+1402,35,Male,Never,0,0,Liver,Damaged,23.4,High,167.8,Yes,High,29–38,2
+1449,87,Female,Never,0,0,Lungs,Damaged,18.9,High,145.1,No,High,69+,6
+1679,56,Male,Never,0,0,Lungs,Healthy,23.0,High,221.6,No,High,49–58,4
+1681,35,Female,Never,0,0,Liver,Healthy,39.0,High,225.1,Yes,High,29–38,2
+1754,46,Female,Never,0,0,Liver,Healthy,33.7,High,253.1,No,High,39–48,3
+1784,57,Female,Never,0,0,Lungs,Healthy,33.8,High,283.5,No,High,49–58,4
+1814,77,Female,Never,0,0,Kidney,Healthy,29.6,High,154.8,Yes,High,69+,6
+1833,22,Male,Never,0,0,Human Body,Healthy,28.5,High,238.7,Yes,High,18–28,1
+1907,69,Male,Never,0,0,Liver,Healthy,19.9,High,233.4,No,High,69+,6
+1932,74,Male,Never,0,0,Lungs,Healthy,17.7,High,151.9,Yes,High,69+,6
+1965,50,Male,Never,0,0,Lungs,Healthy,19.6,High,186.9,No,High,49–58,4
+1977,72,Female,Never,0,0,Lungs,Damaged,26.1,High,286.8,Yes,High,69+,6
+2011,43,Male,Never,0,0,Kidney,Healthy,39.1,High,237.4,No,High,39–48,3
+2169,59,Male,Never,0,0,Kidney,Damaged,35.8,High,175.3,No,High,59–68,5
+2244,24,Male,Never,0,0,Liver,Healthy,22.4,High,161.0,No,High,18–28,1
+2426,50,Male,Never,0,0,Kidney,Healthy,35.3,High,217.6,No,High,49–58,4
+2463,47,Male,Never,0,0,Lungs,Healthy,26.3,High,146.2,No,High,39–48,3
+7,58,Male,Never,0,0,Liver,Healthy,41.7,High,155.8,Yes,Moderate,49–58,4
+9,79,Female,Never,0,0,Liver,Damaged,32.9,High,205.0,Yes,Moderate,69+,6
+13,79,Male,Never,0,0,Human Body,Healthy,27.7,High,274.9,Yes,Moderate,69+,6
+57,80,Female,Never,0,0,Kidney,Healthy,28.3,High,173.6,No,Moderate,69+,6
+78,46,Female,Never,0,0,Liver,Healthy,27.2,High,122.2,No,Moderate,39–48,3
+80,77,Male,Never,0,0,Kidney,Healthy,40.0,High,124.1,No,Moderate,69+,6
+84,68,Female,Never,0,0,Human Body,Healthy,27.5,High,185.2,No,Moderate,59–68,5
+112,73,Male,Never,0,0,Heart,Healthy,39.2,High,275.2,No,Moderate,69+,6
+191,38,Female,Never,0,0,Heart,Healthy,25.9,High,219.8,Yes,Moderate,29–38,2
+192,31,Male,Never,0,0,Lungs,Damaged,34.0,High,271.6,No,Moderate,29–38,2
+220,80,Male,Never,0,0,Heart,Damaged,27.2,High,282.6,Yes,Moderate,69+,6
+223,68,Male,Never,0,0,Lungs,Damaged,38.0,High,231.8,No,Moderate,59–68,5
+230,72,Male,Never,0,0,Human Body,Healthy,27.2,High,120.5,Yes,Moderate,69+,6
+239,82,Male,Never,0,0,Liver,Healthy,39.8,High,158.9,No,Moderate,69+,6
+274,29,Female,Never,0,0,Heart,Damaged,30.7,High,241.6,No,Moderate,29–38,2
+421,70,Male,Never,0,0,Heart,Healthy,20.1,High,139.4,No,Moderate,69+,6
+452,52,Female,Never,0,0,Human Body,Healthy,17.6,High,223.9,No,Moderate,49–58,4
+486,51,Male,Never,0,0,Human Body,Healthy,35.6,High,245.4,No,Moderate,49–58,4
+508,55,Female,Never,0,0,Liver,Healthy,25.4,High,122.2,No,Moderate,49–58,4
+512,89,Male,Never,0,0,Kidney,Healthy,27.1,High,276.3,No,Moderate,69+,6
+519,26,Female,Never,0,0,Liver,Damaged,26.7,High,144.1,No,Moderate,18–28,1
+556,59,Male,Never,0,0,Liver,Healthy,26.7,High,294.5,No,Moderate,59–68,5
+568,82,Male,Never,0,0,Human Body,Healthy,17.8,High,157.8,No,Moderate,69+,6
+590,35,Female,Never,0,0,Liver,Healthy,26.0,High,206.4,No,Moderate,29–38,2
+625,56,Female,Never,0,0,Kidney,Healthy,21.4,High,132.7,No,Moderate,49–58,4
+630,72,Female,Never,0,0,Liver,Healthy,32.2,High,217.4,No,Moderate,69+,6
+727,72,Female,Never,0,0,Lungs,Damaged,41.2,High,124.0,No,Moderate,69+,6
+781,64,Male,Never,0,0,Liver,Damaged,24.5,High,161.4,No,Moderate,59–68,5
+787,85,Male,Never,0,0,Kidney,Healthy,22.2,High,148.5,No,Moderate,69+,6
+808,27,Male,Never,0,0,Kidney,Healthy,28.4,High,279.8,Yes,Moderate,18–28,1
+829,54,Male,Never,0,0,Heart,Damaged,36.9,High,296.1,Yes,Moderate,49–58,4
+830,43,Female,Never,0,0,Human Body,Damaged,32.3,High,135.4,Yes,Moderate,39–48,3
+835,64,Male,Never,0,0,Kidney,Healthy,36.1,High,256.5,No,Moderate,59–68,5
+866,77,Female,Never,0,0,Heart,Healthy,23.0,High,217.7,No,Moderate,69+,6
+923,69,Female,Never,0,0,Kidney,Healthy,22.2,High,216.8,Yes,Moderate,69+,6
+924,32,Male,Never,0,0,Kidney,Healthy,28.9,High,133.7,No,Moderate,29–38,2
+930,64,Female,Never,0,0,Heart,Damaged,25.9,High,167.3,Yes,Moderate,59–68,5
+1001,83,Male,Never,0,0,Liver,Healthy,31.2,High,287.8,No,Moderate,69+,6
+1069,62,Female,Never,0,0,Kidney,Damaged,18.7,High,154.7,No,Moderate,59–68,5
+1078,32,Male,Never,0,0,Kidney,Damaged,22.1,High,210.4,No,Moderate,29–38,2
+1136,48,Male,Never,0,0,Lungs,Damaged,27.7,High,186.9,Yes,Moderate,39–48,3
+1150,47,Male,Never,0,0,Heart,Healthy,23.8,High,175.5,No,Moderate,39–48,3
+1160,47,Male,Never,0,0,Liver,Healthy,37.9,High,265.0,No,Moderate,39–48,3
+1166,48,Male,Never,0,0,Kidney,Healthy,36.9,High,184.0,No,Moderate,39–48,3
+1212,38,Female,Never,0,0,Human Body,Damaged,25.2,High,168.5,No,Moderate,29–38,2
+1241,80,Female,Never,0,0,Lungs,Healthy,17.0,High,248.7,No,Moderate,69+,6
+1246,32,Female,Never,0,0,Lungs,Damaged,41.3,High,263.5,No,Moderate,29–38,2
+1305,55,Female,Never,0,0,Liver,Damaged,27.2,High,224.3,Yes,Moderate,49–58,4
+1330,75,Male,Never,0,0,Liver,Damaged,26.5,High,176.4,No,Moderate,69+,6
+1407,22,Female,Never,0,0,Liver,Damaged,27.2,High,258.7,No,Moderate,18–28,1
+1419,70,Female,Never,0,0,Human Body,Damaged,32.1,High,185.7,No,Moderate,69+,6
+1429,31,Male,Never,0,0,Heart,Damaged,31.2,High,234.6,No,Moderate,29–38,2
+1435,84,Female,Never,0,0,Human Body,Healthy,29.3,High,154.3,No,Moderate,69+,6
+1464,76,Female,Never,0,0,Liver,Healthy,39.0,High,154.3,No,Moderate,69+,6
+1473,49,Male,Never,0,0,Lungs,Damaged,27.0,High,182.2,No,Moderate,49–58,4
+1486,22,Female,Never,0,0,Human Body,Damaged,26.1,High,226.9,No,Moderate,18–28,1
+1508,49,Male,Never,0,0,Human Body,Healthy,20.5,High,288.0,Yes,Moderate,49–58,4
+1541,35,Male,Never,0,0,Kidney,Healthy,26.1,High,215.3,No,Moderate,29–38,2
+1555,19,Female,Never,0,0,Kidney,Healthy,40.0,High,171.7,No,Moderate,18–28,1
+1568,48,Female,Never,0,0,Lungs,Healthy,28.6,High,190.5,No,Moderate,39–48,3
+1609,45,Male,Never,0,0,Heart,Healthy,32.5,High,183.3,No,Moderate,39–48,3
+1635,43,Male,Never,0,0,Kidney,Damaged,33.2,High,182.0,No,Moderate,39–48,3
+1660,58,Male,Never,0,0,Human Body,Healthy,23.7,High,121.2,Yes,Moderate,49–58,4
+1693,66,Female,Never,0,0,Liver,Healthy,18.6,High,126.8,No,Moderate,59–68,5
+1705,57,Female,Never,0,0,Kidney,Healthy,37.8,High,123.9,Yes,Moderate,49–58,4
+1709,51,Male,Never,0,0,Kidney,Healthy,37.6,High,250.8,No,Moderate,49–58,4
+1722,33,Female,Never,0,0,Lungs,Healthy,39.1,High,157.7,Yes,Moderate,29–38,2
+1756,79,Female,Never,0,0,Kidney,Damaged,20.5,High,290.7,No,Moderate,69+,6
+1767,62,Male,Never,0,0,Lungs,Healthy,18.1,High,122.1,Yes,Moderate,59–68,5
+1785,49,Male,Never,0,0,Human Body,Healthy,33.3,High,168.1,No,Moderate,49–58,4
+1834,36,Male,Never,0,0,Lungs,Healthy,21.3,High,195.5,No,Moderate,29–38,2
+1853,72,Male,Never,0,0,Lungs,Healthy,33.7,High,196.6,Yes,Moderate,69+,6
+1875,68,Male,Never,0,0,Human Body,Healthy,17.1,High,232.1,No,Moderate,59–68,5
+1884,29,Female,Never,0,0,Human Body,Healthy,28.1,High,241.9,No,Moderate,29–38,2
+1906,49,Female,Never,0,0,Liver,Damaged,40.7,High,291.3,Yes,Moderate,49–58,4
+1920,22,Female,Never,0,0,Human Body,Damaged,34.8,High,217.4,Yes,Moderate,18–28,1
+1924,75,Female,Never,0,0,Lungs,Damaged,17.8,High,276.7,No,Moderate,69+,6
+1934,57,Female,Never,0,0,Kidney,Damaged,34.2,High,211.8,No,Moderate,49–58,4
+1951,49,Male,Never,0,0,Lungs,Healthy,40.3,High,205.0,No,Moderate,49–58,4
+1959,29,Female,Never,0,0,Liver,Healthy,23.0,High,179.9,Yes,Moderate,29–38,2
+1964,33,Male,Never,0,0,Kidney,Healthy,19.5,High,211.4,No,Moderate,29–38,2
+1979,47,Male,Never,0,0,Kidney,Damaged,28.3,High,150.2,Yes,Moderate,39–48,3
+2030,37,Female,Never,0,0,Liver,Damaged,30.0,High,178.7,Yes,Moderate,29–38,2
+2106,57,Male,Never,0,0,Human Body,Healthy,17.3,High,145.1,No,Moderate,49–58,4
+2124,39,Female,Never,0,0,Human Body,Healthy,21.1,High,121.1,Yes,Moderate,39–48,3
+2137,32,Female,Never,0,0,Kidney,Damaged,19.7,High,224.6,No,Moderate,29–38,2
+2161,75,Male,Never,0,0,Kidney,Healthy,19.9,High,241.4,Yes,Moderate,69+,6
+2196,31,Male,Never,0,0,Liver,Healthy,28.0,High,286.9,No,Moderate,29–38,2
+2229,55,Male,Never,0,0,Kidney,Healthy,25.7,High,126.4,No,Moderate,49–58,4
+2235,38,Male,Never,0,0,Lungs,Healthy,31.6,High,285.7,No,Moderate,29–38,2
+2240,54,Male,Never,0,0,Kidney,Healthy,30.2,High,134.6,No,Moderate,49–58,4
+2274,39,Male,Never,0,0,Heart,Damaged,21.8,High,145.5,No,Moderate,39–48,3
+2292,48,Male,Never,0,0,Kidney,Healthy,23.8,High,153.7,No,Moderate,39–48,3
+2338,29,Male,Never,0,0,Liver,Healthy,23.0,High,167.6,No,Moderate,29–38,2
+2423,67,Male,Never,0,0,Liver,Healthy,23.9,High,135.4,No,Moderate,59–68,5
+2444,79,Female,Never,0,0,Heart,Healthy,39.6,High,136.6,No,Moderate,69+,6
+2469,55,Male,Never,0,0,Heart,Damaged,39.0,High,204.1,No,Moderate,49–58,4
+11,21,Female,Never,0,0,Liver,Healthy,27.3,High,161.2,Yes,Low,18–28,1
+148,81,Female,Never,0,0,Human Body,Damaged,41.8,High,136.3,Yes,Low,69+,6
+330,88,Female,Never,0,0,Liver,Healthy,38.4,High,203.9,Yes,Low,69+,6
+372,73,Male,Never,0,0,Kidney,Healthy,25.6,High,288.4,Yes,Low,69+,6
+444,72,Male,Never,0,0,Heart,Damaged,23.0,High,269.5,Yes,Low,69+,6
+579,74,Male,Never,0,0,Kidney,Damaged,40.4,High,276.3,Yes,Low,69+,6
+665,56,Male,Never,0,0,Heart,Damaged,30.7,High,290.6,Yes,Low,49–58,4
+688,78,Female,Never,0,0,Kidney,Healthy,40.3,High,260.6,Yes,Low,69+,6
+704,58,Male,Never,0,0,Lungs,Healthy,29.6,High,163.4,Yes,Low,49–58,4
+725,86,Male,Never,0,0,Human Body,Damaged,39.8,High,164.0,Yes,Low,69+,6
+1018,37,Female,Never,0,0,Kidney,Damaged,38.4,High,206.4,Yes,Low,29–38,2
+1109,20,Female,Never,0,0,Heart,Healthy,33.2,High,263.0,Yes,Low,18–28,1
+1187,76,Male,Never,0,0,Human Body,Healthy,32.9,High,208.3,Yes,Low,69+,6
+1297,18,Male,Never,0,0,Liver,Damaged,25.1,High,247.6,Yes,Low,18–28,1
+1311,66,Female,Never,0,0,Liver,Healthy,26.7,High,294.5,Yes,Low,59–68,5
+1465,56,Male,Never,0,0,Lungs,Healthy,23.1,High,123.2,Yes,Low,49–58,4
+1474,69,Female,Never,0,0,Human Body,Healthy,40.3,High,294.5,Yes,Low,69+,6
+1481,24,Female,Never,0,0,Lungs,Damaged,41.1,High,289.3,Yes,Low,18–28,1
+1502,74,Male,Never,0,0,Liver,Damaged,32.1,High,167.8,Yes,Low,69+,6
+1526,70,Female,Never,0,0,Lungs,Damaged,26.1,High,221.8,Yes,Low,69+,6
+1561,58,Female,Never,0,0,Heart,Healthy,20.2,High,254.4,Yes,Low,49–58,4
+1667,39,Female,Never,0,0,Human Body,Healthy,41.4,High,184.5,Yes,Low,39–48,3
+1749,57,Male,Never,0,0,Heart,Damaged,25.1,High,157.0,Yes,Low,49–58,4
+1789,81,Female,Never,0,0,Human Body,Healthy,30.7,High,150.0,Yes,Low,69+,6
+1988,33,Female,Never,0,0,Lungs,Damaged,29.1,High,248.5,Yes,Low,29–38,2
+1994,75,Male,Never,0,0,Lungs,Healthy,24.0,High,180.4,Yes,Low,69+,6
+2084,64,Male,Never,0,0,Human Body,Damaged,32.6,High,283.3,Yes,Low,59–68,5
+2168,38,Male,Never,0,0,Lungs,Damaged,26.5,High,123.3,Yes,Low,29–38,2
+2222,64,Female,Never,0,0,Heart,Healthy,34.9,High,149.9,Yes,Low,59–68,5
+2232,76,Female,Never,0,0,Heart,Healthy,27.6,High,210.3,Yes,Low,69+,6
+2335,23,Female,Never,0,0,Liver,Healthy,37.7,High,250.9,Yes,Low,18–28,1
+2375,87,Male,Never,0,0,Lungs,Damaged,26.7,High,181.2,Yes,Low,69+,6
+2402,85,Female,Never,0,0,Lungs,Healthy,21.1,High,247.0,Yes,Low,69+,6
+2439,34,Female,Never,0,0,Liver,Healthy,35.0,High,222.3,Yes,Low,29–38,2
+2483,69,Male,Never,0,0,Human Body,Healthy,25.8,High,124.9,Yes,Low,69+,6
+67,87,Female,Never,0,0,Kidney,Damaged,19.2,High,130.0,No,Low,69+,6
+105,59,Female,Never,0,0,Heart,Damaged,30.2,High,263.8,No,Low,59–68,5
+143,43,Male,Never,0,0,Human Body,Healthy,28.3,High,176.9,No,Low,39–48,3
+169,19,Male,Never,0,0,Lungs,Damaged,31.3,High,223.5,No,Low,18–28,1
+179,46,Male,Never,0,0,Lungs,Damaged,23.3,High,268.5,No,Low,39–48,3
+213,25,Male,Never,0,0,Kidney,Damaged,24.8,High,294.2,No,Low,18–28,1
+216,67,Female,Never,0,0,Heart,Damaged,41.7,High,237.3,No,Low,59–68,5
+245,23,Male,Never,0,0,Liver,Healthy,24.2,High,140.9,No,Low,18–28,1
+249,34,Male,Never,0,0,Kidney,Healthy,25.1,High,203.1,No,Low,29–38,2
+277,43,Male,Never,0,0,Lungs,Healthy,23.9,High,214.9,No,Low,39–48,3
+329,43,Female,Never,0,0,Human Body,Damaged,34.4,High,203.7,No,Low,39–48,3
+339,70,Male,Never,0,0,Kidney,Healthy,41.6,High,259.3,No,Low,69+,6
+352,70,Male,Never,0,0,Kidney,Damaged,38.3,High,135.3,No,Low,69+,6
+368,74,Female,Never,0,0,Heart,Healthy,26.5,High,190.6,No,Low,69+,6
+380,47,Male,Never,0,0,Kidney,Healthy,38.8,High,254.7,No,Low,39–48,3
+389,25,Female,Never,0,0,Heart,Healthy,24.8,High,129.0,No,Low,18–28,1
+391,73,Female,Never,0,0,Liver,Healthy,26.5,High,165.2,No,Low,69+,6
+393,49,Female,Never,0,0,Heart,Damaged,27.0,High,167.9,No,Low,49–58,4
+395,45,Female,Never,0,0,Liver,Healthy,28.1,High,250.4,No,Low,39–48,3
+418,56,Male,Never,0,0,Heart,Healthy,38.8,High,224.9,No,Low,49–58,4
+467,54,Male,Never,0,0,Heart,Healthy,28.5,High,269.3,No,Low,49–58,4
+558,63,Female,Never,0,0,Heart,Healthy,34.0,High,212.6,No,Low,59–68,5
+571,58,Female,Never,0,0,Lungs,Healthy,23.3,High,167.8,No,Low,49–58,4
+583,78,Female,Never,0,0,Human Body,Damaged,35.2,High,163.9,No,Low,69+,6
+594,22,Male,Never,0,0,Heart,Healthy,29.0,High,120.9,No,Low,18–28,1
+637,69,Male,Never,0,0,Heart,Damaged,37.6,High,194.5,No,Low,69+,6
+679,87,Male,Never,0,0,Lungs,Damaged,39.6,High,161.8,No,Low,69+,6
+686,65,Female,Never,0,0,Liver,Healthy,25.1,High,185.4,No,Low,59–68,5
+693,80,Male,Never,0,0,Heart,Damaged,32.7,High,257.7,No,Low,69+,6
+706,27,Female,Never,0,0,Kidney,Healthy,28.4,High,285.1,No,Low,18–28,1
+715,40,Male,Never,0,0,Liver,Healthy,30.4,High,193.8,No,Low,39–48,3
+723,54,Male,Never,0,0,Lungs,Damaged,32.9,High,134.9,No,Low,49–58,4
+749,43,Male,Never,0,0,Lungs,Healthy,32.1,High,299.8,No,Low,39–48,3
+755,50,Male,Never,0,0,Kidney,Healthy,29.3,High,258.5,No,Low,49–58,4
+789,62,Female,Never,0,0,Human Body,Healthy,34.4,High,173.2,No,Low,59–68,5
+810,87,Female,Never,0,0,Kidney,Healthy,25.2,High,142.1,No,Low,69+,6
+841,23,Male,Never,0,0,Liver,Damaged,33.3,High,275.3,No,Low,18–28,1
+849,24,Male,Never,0,0,Human Body,Damaged,28.0,High,145.5,No,Low,18–28,1
+852,46,Female,Never,0,0,Liver,Healthy,40.2,High,249.7,No,Low,39–48,3
+868,88,Male,Never,0,0,Kidney,Healthy,33.3,High,292.9,No,Low,69+,6
+869,21,Female,Never,0,0,Kidney,Healthy,20.9,High,198.1,No,Low,18–28,1
+873,45,Female,Never,0,0,Human Body,Healthy,18.6,High,194.8,No,Low,39–48,3
+978,74,Female,Never,0,0,Kidney,Healthy,23.7,High,176.4,No,Low,69+,6
+981,26,Male,Never,0,0,Liver,Damaged,20.7,High,290.5,No,Low,18–28,1
+993,75,Male,Never,0,0,Human Body,Damaged,31.4,High,221.3,No,Low,69+,6
+998,40,Female,Never,0,0,Lungs,Healthy,33.9,High,254.9,No,Low,39–48,3
+1061,60,Male,Never,0,0,Liver,Damaged,23.4,High,226.9,No,Low,59–68,5
+1073,57,Male,Never,0,0,Human Body,Healthy,26.1,High,256.2,No,Low,49–58,4
+1086,46,Male,Never,0,0,Liver,Damaged,20.4,High,229.1,No,Low,39–48,3
+1112,61,Male,Never,0,0,Kidney,Healthy,40.4,High,140.7,No,Low,59–68,5
+1115,66,Female,Never,0,0,Human Body,Healthy,38.6,High,124.0,No,Low,59–68,5
+1161,48,Male,Never,0,0,Liver,Damaged,38.4,High,263.8,No,Low,39–48,3
+1168,51,Female,Never,0,0,Human Body,Damaged,24.1,High,141.3,No,Low,49–58,4
+1169,43,Male,Never,0,0,Liver,Healthy,36.3,High,167.0,No,Low,39–48,3
+1179,34,Female,Never,0,0,Heart,Healthy,28.8,High,160.5,No,Low,29–38,2
+1210,18,Female,Never,0,0,Lungs,Healthy,38.2,High,173.5,No,Low,18–28,1
+1220,22,Female,Never,0,0,Liver,Healthy,17.3,High,224.6,No,Low,18–28,1
+1226,69,Male,Never,0,0,Kidney,Healthy,21.2,High,236.7,No,Low,69+,6
+1243,38,Female,Never,0,0,Liver,Healthy,23.3,High,207.0,No,Low,29–38,2
+1284,61,Female,Never,0,0,Heart,Healthy,34.2,High,202.5,No,Low,59–68,5
+1302,37,Female,Never,0,0,Liver,Healthy,38.7,High,241.6,No,Low,29–38,2
+1334,34,Male,Never,0,0,Liver,Damaged,40.5,High,285.8,No,Low,29–38,2
+1372,28,Male,Never,0,0,Lungs,Healthy,23.2,High,263.4,No,Low,18–28,1
+1379,34,Female,Never,0,0,Kidney,Damaged,34.4,High,122.5,No,Low,29–38,2
+1395,57,Male,Never,0,0,Human Body,Healthy,39.9,High,163.8,No,Low,49–58,4
+1411,57,Female,Never,0,0,Heart,Healthy,34.5,High,198.3,No,Low,49–58,4
+1418,27,Male,Never,0,0,Liver,Healthy,37.4,High,260.0,No,Low,18–28,1
+1452,18,Male,Never,0,0,Human Body,Damaged,39.7,High,124.7,No,Low,18–28,1
+1484,43,Female,Never,0,0,Lungs,Damaged,24.4,High,201.1,No,Low,39–48,3
+1523,43,Female,Never,0,0,Liver,Healthy,27.1,High,203.7,No,Low,39–48,3
+1530,82,Male,Never,0,0,Lungs,Healthy,36.6,High,159.3,No,Low,69+,6
+1534,70,Male,Never,0,0,Human Body,Healthy,25.1,High,122.9,No,Low,69+,6
+1550,25,Female,Never,0,0,Human Body,Healthy,30.5,High,217.3,No,Low,18–28,1
+1553,25,Female,Never,0,0,Human Body,Damaged,24.3,High,266.9,No,Low,18–28,1
+1580,45,Male,Never,0,0,Heart,Healthy,25.5,High,263.8,No,Low,39–48,3
+1603,42,Male,Never,0,0,Human Body,Damaged,41.8,High,208.1,No,Low,39–48,3
+1622,89,Female,Never,0,0,Kidney,Damaged,18.9,High,172.1,No,Low,69+,6
+1624,41,Female,Never,0,0,Liver,Damaged,20.6,High,135.0,No,Low,39–48,3
+1697,78,Male,Never,0,0,Lungs,Healthy,33.1,High,296.1,No,Low,69+,6
+1733,61,Female,Never,0,0,Lungs,Healthy,18.3,High,183.5,No,Low,59–68,5
+1772,46,Female,Never,0,0,Kidney,Healthy,42.0,High,237.9,No,Low,39–48,3
+1779,62,Male,Never,0,0,Heart,Healthy,33.0,High,182.9,No,Low,59–68,5
+1782,64,Male,Never,0,0,Kidney,Healthy,29.2,High,155.6,No,Low,59–68,5
+1783,84,Female,Never,0,0,Liver,Healthy,25.0,High,294.9,No,Low,69+,6
+1791,37,Male,Never,0,0,Heart,Healthy,24.3,High,206.7,No,Low,29–38,2
+1869,42,Male,Never,0,0,Human Body,Healthy,32.3,High,295.5,No,Low,39–48,3
+1939,55,Female,Never,0,0,Kidney,Damaged,18.3,High,246.5,No,Low,49–58,4
+1956,56,Female,Never,0,0,Heart,Healthy,17.3,High,200.0,No,Low,49–58,4
+1995,85,Female,Never,0,0,Liver,Healthy,30.0,High,228.7,No,Low,69+,6
+2021,20,Male,Never,0,0,Heart,Damaged,22.9,High,215.7,No,Low,18–28,1
+2024,40,Female,Never,0,0,Heart,Healthy,36.3,High,232.3,No,Low,39–48,3
+2029,31,Male,Never,0,0,Liver,Healthy,37.2,High,253.0,No,Low,29–38,2
+2042,85,Female,Never,0,0,Heart,Healthy,36.8,High,280.4,No,Low,69+,6
+2063,43,Male,Never,0,0,Liver,Healthy,26.5,High,182.0,No,Low,39–48,3
+2088,58,Female,Never,0,0,Human Body,Damaged,18.0,High,155.3,No,Low,49–58,4
+2098,58,Male,Never,0,0,Human Body,Damaged,19.0,High,218.5,No,Low,49–58,4
+2125,72,Male,Never,0,0,Heart,Healthy,35.8,High,146.1,No,Low,69+,6
+2163,23,Female,Never,0,0,Lungs,Damaged,21.0,High,177.5,No,Low,18–28,1
+2198,45,Male,Never,0,0,Kidney,Damaged,35.5,High,187.5,No,Low,39–48,3
+2234,39,Female,Never,0,0,Liver,Healthy,39.9,High,283.6,No,Low,39–48,3
+2250,62,Female,Never,0,0,Liver,Healthy,33.6,High,152.9,No,Low,59–68,5
+2251,68,Female,Never,0,0,Heart,Damaged,25.7,High,160.3,No,Low,59–68,5
+2264,59,Male,Never,0,0,Liver,Damaged,40.9,High,165.9,No,Low,59–68,5
+2269,81,Male,Never,0,0,Human Body,Damaged,41.9,High,188.9,No,Low,69+,6
+2357,57,Male,Never,0,0,Human Body,Healthy,38.5,High,122.3,No,Low,49–58,4
+2365,66,Female,Never,0,0,Liver,Healthy,39.7,High,195.2,No,Low,59–68,5
+2378,70,Female,Never,0,0,Kidney,Healthy,28.1,High,232.6,No,Low,69+,6
+2421,48,Male,Never,0,0,Lungs,Healthy,38.4,High,259.5,No,Low,39–48,3
+2429,81,Female,Never,0,0,Lungs,Healthy,36.4,High,130.7,No,Low,69+,6
+2434,86,Male,Never,0,0,Heart,Damaged,24.2,High,199.2,No,Low,69+,6
+2461,76,Female,Never,0,0,Lungs,Healthy,18.5,High,181.9,No,Low,69+,6
+2473,81,Female,Never,0,0,Human Body,Healthy,24.1,High,202.9,No,Low,69+,6
+2493,51,Male,Never,0,0,Kidney,Healthy,30.3,High,184.3,No,Low,49–58,4
+1,32,Male,Never,0,0,Liver,Healthy,28.1,Low,202.7,No,Low,29–38,2
+14,54,Male,Never,0,0,Heart,Healthy,23.1,Low,159.4,No,Low,49–58,4
+56,31,Female,Never,0,0,Heart,Healthy,20.4,Low,183.1,No,Low,29–38,2
+59,40,Male,Never,0,0,Heart,Healthy,33.0,Low,182.2,No,Low,39–48,3
+107,31,Female,Never,0,0,Lungs,Healthy,22.8,Low,123.2,No,Low,29–38,2
+201,41,Male,Never,0,0,Kidney,Healthy,24.1,Low,126.5,Yes,Low,39–48,3
+228,64,Female,Never,0,0,Kidney,Damaged,28.6,Low,181.3,Yes,Low,59–68,5
+248,28,Male,Never,0,0,Kidney,Healthy,31.5,Low,199.9,No,Low,18–28,1
+333,77,Female,Never,0,0,Heart,Damaged,34.7,Low,159.2,No,Low,69+,6
+355,66,Female,Never,0,0,Liver,Healthy,41.4,Low,281.7,No,Low,59–68,5
+374,43,Female,Never,0,0,Lungs,Healthy,24.4,Low,289.5,No,Low,39–48,3
+459,86,Male,Never,0,0,Human Body,Healthy,25.2,Low,152.8,No,Low,69+,6
+474,60,Male,Never,0,0,Human Body,Damaged,19.8,Low,299.0,Yes,Low,59–68,5
+494,43,Female,Never,0,0,Kidney,Healthy,37.7,Low,285.1,No,Low,39–48,3
+517,32,Female,Never,0,0,Kidney,Damaged,24.5,Low,256.2,No,Low,29–38,2
+528,54,Male,Never,0,0,Heart,Healthy,21.8,Low,173.6,No,Low,49–58,4
+529,61,Male,Never,0,0,Kidney,Healthy,37.5,Low,202.2,No,Low,59–68,5
+575,71,Female,Never,0,0,Liver,Healthy,29.8,Low,196.5,No,Low,69+,6
+584,73,Male,Never,0,0,Human Body,Damaged,29.5,Low,224.8,Yes,Low,69+,6
+597,46,Male,Never,0,0,Lungs,Damaged,32.4,Low,232.1,No,Low,39–48,3
+623,59,Female,Never,0,0,Heart,Healthy,27.1,Low,209.4,Yes,Low,59–68,5
+636,53,Male,Never,0,0,Liver,Healthy,35.6,Low,154.2,No,Low,49–58,4
+669,85,Male,Never,0,0,Kidney,Damaged,20.8,Low,182.2,No,Low,69+,6
+674,35,Female,Never,0,0,Lungs,Damaged,27.4,Low,198.8,Yes,Low,29–38,2
+676,41,Female,Never,0,0,Kidney,Damaged,34.7,Low,279.9,No,Low,39–48,3
+697,75,Male,Never,0,0,Human Body,Healthy,17.1,Low,172.3,No,Low,69+,6
+736,44,Female,Never,0,0,Lungs,Damaged,22.9,Low,223.7,No,Low,39–48,3
+763,23,Male,Never,0,0,Liver,Damaged,39.4,Low,298.2,Yes,Low,18–28,1
+790,73,Female,Never,0,0,Human Body,Healthy,41.3,Low,182.2,No,Low,69+,6
+813,53,Female,Never,0,0,Heart,Damaged,35.2,Low,279.2,No,Low,49–58,4
+878,32,Female,Never,0,0,Liver,Healthy,29.6,Low,138.7,Yes,Low,29–38,2
+894,67,Male,Never,0,0,Heart,Damaged,34.2,Low,146.6,No,Low,59–68,5
+912,62,Female,Never,0,0,Heart,Damaged,25.2,Low,191.8,No,Low,59–68,5
+927,87,Female,Never,0,0,Kidney,Healthy,20.0,Low,256.3,Yes,Low,69+,6
+946,46,Female,Never,0,0,Liver,Healthy,36.3,Low,270.1,Yes,Low,39–48,3
+959,88,Male,Never,0,0,Kidney,Healthy,25.4,Low,146.2,Yes,Low,69+,6
+977,68,Female,Never,0,0,Kidney,Healthy,36.8,Low,213.4,No,Low,59–68,5
+1043,85,Female,Never,0,0,Kidney,Damaged,34.4,Low,195.3,No,Low,69+,6
+1044,70,Male,Never,0,0,Liver,Healthy,38.0,Low,270.8,Yes,Low,69+,6
+1062,81,Female,Never,0,0,Human Body,Healthy,17.2,Low,223.1,Yes,Low,69+,6
+1134,35,Male,Never,0,0,Heart,Healthy,27.0,Low,189.0,No,Low,29–38,2
+1176,60,Male,Never,0,0,Human Body,Healthy,23.4,Low,121.8,Yes,Low,59–68,5
+1217,73,Male,Never,0,0,Human Body,Damaged,34.0,Low,229.0,No,Low,69+,6
+1233,71,Female,Never,0,0,Human Body,Healthy,19.6,Low,210.1,No,Low,69+,6
+1245,73,Female,Never,0,0,Kidney,Damaged,36.5,Low,267.0,No,Low,69+,6
+1248,36,Female,Never,0,0,Kidney,Healthy,27.8,Low,201.9,No,Low,29–38,2
+1268,29,Male,Never,0,0,Liver,Healthy,22.6,Low,199.3,No,Low,29–38,2
+1316,85,Female,Never,0,0,Liver,Healthy,19.1,Low,204.6,No,Low,69+,6
+1324,40,Female,Never,0,0,Liver,Healthy,37.7,Low,241.6,No,Low,39–48,3
+1376,61,Female,Never,0,0,Liver,Damaged,22.3,Low,169.8,Yes,Low,59–68,5
+1441,37,Male,Never,0,0,Liver,Healthy,40.2,Low,259.2,Yes,Low,29–38,2
+1442,19,Female,Never,0,0,Kidney,Healthy,17.7,Low,230.3,No,Low,18–28,1
+1445,56,Female,Never,0,0,Heart,Healthy,18.1,Low,197.9,No,Low,49–58,4
+1490,21,Female,Never,0,0,Human Body,Damaged,29.3,Low,276.4,Yes,Low,18–28,1
+1497,38,Male,Never,0,0,Liver,Damaged,25.3,Low,266.1,No,Low,29–38,2
+1538,51,Male,Never,0,0,Liver,Healthy,27.0,Low,232.4,No,Low,49–58,4
+1560,71,Male,Never,0,0,Kidney,Healthy,28.4,Low,122.3,No,Low,69+,6
+1594,42,Female,Never,0,0,Heart,Healthy,26.2,Low,178.8,No,Low,39–48,3
+1696,19,Male,Never,0,0,Lungs,Healthy,35.2,Low,185.7,No,Low,18–28,1
+1708,61,Male,Never,0,0,Human Body,Healthy,40.1,Low,224.0,No,Low,59–68,5
+1739,44,Male,Never,0,0,Kidney,Healthy,21.0,Low,251.9,Yes,Low,39–48,3
+1768,35,Male,Never,0,0,Human Body,Healthy,41.7,Low,192.1,Yes,Low,29–38,2
+1843,18,Male,Never,0,0,Liver,Healthy,28.4,Low,228.6,No,Low,18–28,1
+1888,70,Female,Never,0,0,Lungs,Healthy,35.6,Low,162.4,No,Low,69+,6
+1896,71,Male,Never,0,0,Kidney,Healthy,40.1,Low,235.2,No,Low,69+,6
+1911,30,Female,Never,0,0,Kidney,Damaged,32.2,Low,238.1,No,Low,29–38,2
+1960,32,Female,Never,0,0,Liver,Damaged,20.9,Low,132.8,No,Low,29–38,2
+1972,35,Female,Never,0,0,Liver,Healthy,19.6,Low,268.4,No,Low,29–38,2
+1992,19,Female,Never,0,0,Liver,Healthy,21.4,Low,232.7,No,Low,18–28,1
+1998,66,Male,Never,0,0,Kidney,Healthy,23.1,Low,199.6,No,Low,59–68,5
+2022,24,Female,Never,0,0,Kidney,Damaged,24.1,Low,224.9,No,Low,18–28,1
+2072,88,Male,Never,0,0,Lungs,Healthy,35.6,Low,192.9,No,Low,69+,6
+2079,78,Male,Never,0,0,Heart,Healthy,36.3,Low,282.5,Yes,Low,69+,6
+2141,71,Male,Never,0,0,Liver,Healthy,32.2,Low,260.1,Yes,Low,69+,6
+2154,64,Female,Never,0,0,Liver,Healthy,39.5,Low,247.8,Yes,Low,59–68,5
+2173,79,Female,Never,0,0,Liver,Damaged,27.2,Low,234.5,No,Low,69+,6
+2191,66,Male,Never,0,0,Heart,Damaged,19.3,Low,295.5,Yes,Low,59–68,5
+2218,30,Male,Never,0,0,Lungs,Healthy,33.5,Low,189.7,No,Low,29–38,2
+2239,82,Female,Never,0,0,Lungs,Damaged,32.6,Low,128.4,No,Low,69+,6
+2245,21,Female,Never,0,0,Heart,Healthy,19.0,Low,221.2,Yes,Low,18–28,1
+2255,89,Male,Never,0,0,Human Body,Damaged,35.6,Low,233.4,No,Low,69+,6
+2261,66,Female,Never,0,0,Kidney,Damaged,27.0,Low,136.9,No,Low,59–68,5
+2266,83,Female,Never,0,0,Heart,Damaged,29.4,Low,224.4,No,Low,69+,6
+2270,74,Female,Never,0,0,Heart,Damaged,39.8,Low,134.4,Yes,Low,69+,6
+2319,57,Female,Never,0,0,Human Body,Healthy,19.9,Low,185.8,Yes,Low,49–58,4
+2390,64,Female,Never,0,0,Lungs,Healthy,21.8,Low,179.4,Yes,Low,59–68,5
+2414,28,Male,Never,0,0,Liver,Damaged,18.1,Low,139.1,No,Low,18–28,1
+2419,86,Female,Never,0,0,Heart,Damaged,30.3,Low,291.5,No,Low,69+,6
+2458,58,Male,Never,0,0,Kidney,Damaged,24.6,Low,220.2,No,Low,49–58,4
+44,30,Female,Never,0,0,Lungs,Healthy,39.3,Low,212.4,Yes,Moderate,29–38,2
+68,53,Female,Never,0,0,Lungs,Healthy,39.9,Low,295.5,No,Moderate,49–58,4
+125,44,Female,Never,0,0,Lungs,Damaged,32.7,Low,125.9,No,Moderate,39–48,3
+132,21,Female,Never,0,0,Lungs,Damaged,29.0,Low,149.5,No,Moderate,18–28,1
+141,25,Male,Never,0,0,Kidney,Damaged,21.2,Low,126.6,No,Moderate,18–28,1
+273,76,Male,Never,0,0,Human Body,Healthy,23.6,Low,172.8,No,Moderate,69+,6
+306,79,Male,Never,0,0,Lungs,Healthy,41.3,Low,192.6,No,Moderate,69+,6
+323,49,Female,Never,0,0,Kidney,Healthy,19.9,Low,120.4,No,Moderate,49–58,4
+358,65,Female,Never,0,0,Heart,Damaged,33.6,Low,128.1,Yes,Moderate,59–68,5
+387,41,Male,Never,0,0,Liver,Healthy,23.4,Low,183.9,No,Moderate,39–48,3
+414,86,Female,Never,0,0,Liver,Healthy,31.8,Low,251.2,No,Moderate,69+,6
+419,83,Male,Never,0,0,Kidney,Damaged,24.9,Low,233.8,Yes,Moderate,69+,6
+454,62,Female,Never,0,0,Liver,Healthy,32.4,Low,135.8,Yes,Moderate,59–68,5
+465,76,Male,Never,0,0,Human Body,Damaged,31.9,Low,236.4,No,Moderate,69+,6
+511,50,Male,Never,0,0,Lungs,Healthy,27.5,Low,200.8,No,Moderate,49–58,4
+514,25,Female,Never,0,0,Human Body,Healthy,21.1,Low,177.1,Yes,Moderate,18–28,1
+531,75,Male,Never,0,0,Kidney,Healthy,27.7,Low,261.0,Yes,Moderate,69+,6
+563,88,Female,Never,0,0,Liver,Healthy,32.8,Low,249.7,No,Moderate,69+,6
+615,48,Male,Never,0,0,Liver,Healthy,39.0,Low,176.4,No,Moderate,39–48,3
+714,56,Female,Never,0,0,Liver,Damaged,27.2,Low,213.1,No,Moderate,49–58,4
+825,81,Male,Never,0,0,Human Body,Healthy,20.9,Low,256.9,Yes,Moderate,69+,6
+877,81,Female,Never,0,0,Human Body,Damaged,26.8,Low,136.2,No,Moderate,69+,6
+882,46,Male,Never,0,0,Liver,Healthy,21.6,Low,181.5,No,Moderate,39–48,3
+953,27,Male,Never,0,0,Liver,Damaged,19.7,Low,120.5,No,Moderate,18–28,1
+966,25,Male,Never,0,0,Liver,Healthy,39.6,Low,296.9,No,Moderate,18–28,1
+973,47,Male,Never,0,0,Kidney,Healthy,29.7,Low,176.3,No,Moderate,39–48,3
+1030,59,Male,Never,0,0,Liver,Damaged,29.4,Low,225.2,Yes,Moderate,59–68,5
+1036,42,Female,Never,0,0,Kidney,Healthy,38.5,Low,221.8,Yes,Moderate,39–48,3
+1074,41,Male,Never,0,0,Kidney,Healthy,21.9,Low,259.9,Yes,Moderate,39–48,3
+1094,76,Female,Never,0,0,Liver,Healthy,39.6,Low,124.6,Yes,Moderate,69+,6
+1138,31,Female,Never,0,0,Heart,Healthy,22.7,Low,196.6,No,Moderate,29–38,2
+1154,56,Female,Never,0,0,Lungs,Healthy,19.5,Low,203.2,No,Moderate,49–58,4
+1165,62,Male,Never,0,0,Lungs,Damaged,27.7,Low,150.3,No,Moderate,59–68,5
+1177,51,Female,Never,0,0,Heart,Damaged,24.7,Low,218.2,No,Moderate,49–58,4
+1178,26,Male,Never,0,0,Kidney,Damaged,34.8,Low,251.8,No,Moderate,18–28,1
+1192,79,Female,Never,0,0,Liver,Damaged,17.1,Low,203.9,Yes,Moderate,69+,6
+1207,56,Male,Never,0,0,Human Body,Healthy,38.9,Low,218.6,Yes,Moderate,49–58,4
+1239,58,Male,Never,0,0,Liver,Healthy,35.4,Low,166.9,No,Moderate,49–58,4
+1322,44,Male,Never,0,0,Human Body,Healthy,40.2,Low,203.3,No,Moderate,39–48,3
+1368,44,Male,Never,0,0,Heart,Healthy,21.5,Low,157.9,No,Moderate,39–48,3
+1388,30,Male,Never,0,0,Liver,Healthy,39.6,Low,178.0,No,Moderate,29–38,2
+1410,61,Female,Never,0,0,Liver,Healthy,19.7,Low,127.4,No,Moderate,59–68,5
+1430,30,Male,Never,0,0,Human Body,Healthy,36.2,Low,159.1,Yes,Moderate,29–38,2
+1433,79,Female,Never,0,0,Heart,Healthy,38.9,Low,146.7,Yes,Moderate,69+,6
+1437,82,Male,Never,0,0,Liver,Healthy,28.1,Low,127.3,No,Moderate,69+,6
+1491,30,Female,Never,0,0,Kidney,Healthy,39.4,Low,179.6,No,Moderate,29–38,2
+1507,85,Male,Never,0,0,Heart,Damaged,20.8,Low,139.8,No,Moderate,69+,6
+1519,36,Male,Never,0,0,Kidney,Healthy,22.3,Low,148.0,No,Moderate,29–38,2
+1536,83,Male,Never,0,0,Human Body,Healthy,33.7,Low,240.8,No,Moderate,69+,6
+1537,40,Female,Never,0,0,Human Body,Healthy,39.2,Low,144.5,Yes,Moderate,39–48,3
+1566,64,Male,Never,0,0,Human Body,Damaged,21.9,Low,124.7,Yes,Moderate,59–68,5
+1577,53,Male,Never,0,0,Kidney,Healthy,19.9,Low,139.3,Yes,Moderate,49–58,4
+1593,23,Male,Never,0,0,Liver,Healthy,32.5,Low,172.3,No,Moderate,18–28,1
+1612,79,Female,Never,0,0,Heart,Damaged,33.1,Low,217.6,Yes,Moderate,69+,6
+1625,55,Male,Never,0,0,Kidney,Damaged,30.9,Low,287.8,No,Moderate,49–58,4
+1632,40,Male,Never,0,0,Kidney,Damaged,22.6,Low,242.8,No,Moderate,39–48,3
+1640,70,Male,Never,0,0,Liver,Healthy,27.7,Low,202.2,Yes,Moderate,69+,6
+1658,73,Male,Never,0,0,Heart,Damaged,32.7,Low,257.4,No,Moderate,69+,6
+1702,72,Male,Never,0,0,Lungs,Healthy,25.7,Low,126.3,No,Moderate,69+,6
+1707,58,Female,Never,0,0,Kidney,Healthy,29.8,Low,204.5,No,Moderate,49–58,4
+1822,18,Male,Never,0,0,Heart,Healthy,28.0,Low,203.6,Yes,Moderate,18–28,1
+1831,22,Female,Never,0,0,Heart,Damaged,33.8,Low,182.3,Yes,Moderate,18–28,1
+1865,76,Male,Never,0,0,Human Body,Damaged,35.3,Low,158.2,No,Moderate,69+,6
+1871,63,Male,Never,0,0,Heart,Healthy,35.1,Low,204.2,No,Moderate,59–68,5
+1981,21,Female,Never,0,0,Kidney,Damaged,30.2,Low,297.3,Yes,Moderate,18–28,1
+2000,39,Male,Never,0,0,Heart,Damaged,30.1,Low,299.5,No,Moderate,39–48,3
+2003,83,Male,Never,0,0,Heart,Healthy,29.5,Low,147.0,Yes,Moderate,69+,6
+2023,84,Female,Never,0,0,Kidney,Healthy,22.7,Low,216.4,No,Moderate,69+,6
+2054,53,Female,Never,0,0,Kidney,Healthy,33.6,Low,180.0,Yes,Moderate,49–58,4
+2115,66,Male,Never,0,0,Kidney,Damaged,17.4,Low,160.8,No,Moderate,59–68,5
+2119,38,Male,Never,0,0,Heart,Healthy,37.2,Low,276.9,No,Moderate,29–38,2
+2136,59,Female,Never,0,0,Human Body,Healthy,38.0,Low,134.1,No,Moderate,59–68,5
+2213,28,Male,Never,0,0,Heart,Healthy,34.6,Low,220.1,Yes,Moderate,18–28,1
+2225,79,Male,Never,0,0,Kidney,Healthy,21.0,Low,246.1,No,Moderate,69+,6
+2271,39,Male,Never,0,0,Kidney,Healthy,24.4,Low,261.7,No,Moderate,39–48,3
+2276,19,Male,Never,0,0,Liver,Damaged,37.8,Low,124.2,No,Moderate,18–28,1
+2283,80,Male,Never,0,0,Human Body,Healthy,33.6,Low,294.9,No,Moderate,69+,6
+2286,53,Female,Never,0,0,Heart,Healthy,37.7,Low,198.4,No,Moderate,49–58,4
+2368,61,Female,Never,0,0,Liver,Healthy,37.9,Low,295.0,Yes,Moderate,59–68,5
+2411,89,Female,Never,0,0,Kidney,Healthy,37.5,Low,128.7,No,Moderate,69+,6
+2440,18,Female,Never,0,0,Heart,Damaged,37.1,Low,164.8,No,Moderate,18–28,1
+2450,72,Female,Never,0,0,Heart,Damaged,20.1,Low,264.6,No,Moderate,69+,6
+2477,54,Female,Never,0,0,Human Body,Healthy,33.1,Low,127.2,No,Moderate,49–58,4
+108,85,Female,Never,0,0,Heart,Damaged,36.7,Low,195.2,No,High,69+,6
+183,67,Male,Never,0,0,Human Body,Healthy,23.5,Low,292.8,No,High,59–68,5
+267,38,Female,Never,0,0,Heart,Healthy,42.0,Low,209.7,No,High,29–38,2
+343,52,Female,Never,0,0,Lungs,Damaged,24.7,Low,212.1,Yes,High,49–58,4
+353,51,Male,Never,0,0,Kidney,Healthy,40.6,Low,198.9,No,High,49–58,4
+361,56,Female,Never,0,0,Human Body,Damaged,24.0,Low,273.8,Yes,High,49–58,4
+407,70,Female,Never,0,0,Lungs,Healthy,29.8,Low,171.8,Yes,High,69+,6
+423,59,Female,Never,0,0,Human Body,Damaged,30.6,Low,280.9,Yes,High,59–68,5
+569,81,Female,Never,0,0,Liver,Damaged,22.3,Low,256.6,No,High,69+,6
+631,50,Female,Never,0,0,Liver,Healthy,30.4,Low,174.5,No,High,49–58,4
+655,83,Male,Never,0,0,Heart,Damaged,17.2,Low,165.1,No,High,69+,6
+750,36,Female,Never,0,0,Human Body,Damaged,32.3,Low,282.3,No,High,29–38,2
+761,73,Female,Never,0,0,Human Body,Damaged,17.2,Low,224.5,No,High,69+,6
+824,89,Female,Never,0,0,Liver,Healthy,31.4,Low,154.4,No,High,69+,6
+903,21,Male,Never,0,0,Kidney,Healthy,29.9,Low,296.0,Yes,High,18–28,1
+922,73,Female,Never,0,0,Human Body,Damaged,35.2,Low,291.7,No,High,69+,6
+1008,89,Male,Never,0,0,Heart,Healthy,26.2,Low,235.7,No,High,69+,6
+1060,47,Female,Never,0,0,Kidney,Healthy,28.8,Low,157.5,No,High,39–48,3
+1067,88,Female,Never,0,0,Human Body,Healthy,22.1,Low,122.5,No,High,69+,6
+1131,66,Female,Never,0,0,Kidney,Damaged,18.7,Low,211.6,No,High,59–68,5
+1231,33,Male,Never,0,0,Liver,Healthy,21.7,Low,294.6,No,High,29–38,2
+1301,32,Female,Never,0,0,Liver,Damaged,27.4,Low,177.9,No,High,29–38,2
+1306,56,Male,Never,0,0,Kidney,Healthy,27.4,Low,147.7,No,High,49–58,4
+1313,83,Male,Never,0,0,Human Body,Healthy,26.0,Low,276.0,No,High,69+,6
+1360,82,Female,Never,0,0,Lungs,Damaged,21.0,Low,283.6,No,High,69+,6
+1509,72,Female,Never,0,0,Kidney,Healthy,39.5,Low,278.9,No,High,69+,6
+1559,51,Female,Never,0,0,Human Body,Healthy,29.1,Low,209.9,Yes,High,49–58,4
+1597,70,Male,Never,0,0,Human Body,Healthy,40.6,Low,158.1,Yes,High,69+,6
+1775,83,Female,Never,0,0,Human Body,Damaged,27.9,Low,181.3,No,High,69+,6
+1880,89,Male,Never,0,0,Kidney,Damaged,28.8,Low,138.0,No,High,69+,6
+1913,59,Male,Never,0,0,Liver,Healthy,38.1,Low,125.9,Yes,High,59–68,5
+2045,75,Male,Never,0,0,Lungs,Healthy,33.9,Low,146.5,No,High,69+,6
+2147,27,Female,Never,0,0,Human Body,Healthy,41.9,Low,220.7,No,High,18–28,1
+2219,54,Female,Never,0,0,Liver,Healthy,36.1,Low,196.1,No,High,49–58,4
+2263,77,Male,Never,0,0,Heart,Healthy,22.3,Low,249.5,Yes,High,69+,6
+2363,89,Male,Never,0,0,Liver,Damaged,36.0,Low,205.2,Yes,High,69+,6
+2401,33,Male,Never,0,0,Heart,Healthy,40.8,Low,157.4,No,High,29–38,2
+2415,43,Female,Never,0,0,Human Body,Healthy,31.5,Low,288.3,No,High,39–48,3
+2485,51,Male,Never,0,0,Heart,Healthy,41.2,Low,182.8,Yes,High,49–58,4
+2500,49,Male,Never,0,0,Lungs,Healthy,33.8,Low,129.7,No,High,49–58,4
+10,31,Male,Current,30,27,Heart,Healthy,27.7,Low,139.4,Yes,Moderate,29–38,2
+20,65,Female,Current,6,5,Kidney,Healthy,39.1,Low,170.2,No,Moderate,59–68,5
+34,86,Male,Current,33,18,Human Body,Healthy,41.5,Low,123.1,No,Moderate,69+,6
+73,28,Male,Current,26,12,Liver,Healthy,21.1,Low,266.6,No,Moderate,18–28,1
+95,54,Male,Current,38,21,Lungs,Damaged,19.7,Low,167.5,Yes,Moderate,49–58,4
+120,53,Male,Current,33,16,Heart,Healthy,26.6,Low,267.9,No,Moderate,49–58,4
+156,24,Female,Current,8,26,Human Body,Healthy,30.2,Low,120.5,No,Moderate,18–28,1
+165,22,Female,Current,27,23,Kidney,Healthy,33.8,Low,166.3,No,High,18–28,1
+197,62,Male,Current,15,29,Human Body,Healthy,29.4,Low,243.5,No,Moderate,59–68,5
+202,33,Female,Current,14,20,Lungs,Damaged,23.7,Low,273.6,Yes,Moderate,29–38,2
+204,54,Female,Current,18,29,Liver,Healthy,33.4,Low,221.8,No,High,49–58,4
+217,38,Female,Current,16,20,Lungs,Healthy,23.0,Low,182.6,No,Moderate,29–38,2
+287,70,Male,Current,33,24,Lungs,Damaged,23.0,Low,285.3,Yes,Moderate,69+,6
+293,55,Male,Current,11,11,Liver,Healthy,39.1,Low,154.4,No,Moderate,49–58,4
+319,18,Female,Current,18,10,Liver,Healthy,18.8,Low,239.6,No,Moderate,18–28,1
+338,84,Female,Current,7,10,Liver,Healthy,23.7,Low,245.0,Yes,Moderate,69+,6
+359,80,Female,Current,24,25,Kidney,Damaged,33.5,Low,263.9,Yes,Moderate,69+,6
+384,48,Male,Current,17,21,Heart,Healthy,34.0,Low,195.7,No,High,39–48,3
+410,51,Female,Current,31,13,Lungs,Healthy,27.3,Low,125.0,No,Moderate,49–58,4
+438,84,Female,Current,33,23,Lungs,Healthy,29.6,Low,132.8,No,Moderate,69+,6
+446,57,Female,Current,30,7,Liver,Healthy,31.2,Low,233.9,No,High,49–58,4
+468,41,Female,Current,35,21,Lungs,Healthy,39.2,Low,293.1,No,Moderate,39–48,3
+480,73,Female,Current,18,27,Heart,Healthy,20.1,Low,283.7,Yes,Moderate,69+,6
+548,34,Female,Current,31,10,Human Body,Healthy,34.5,Low,193.7,No,Moderate,29–38,2
+599,83,Female,Current,16,11,Liver,Healthy,40.8,Low,147.0,No,Moderate,69+,6
+621,23,Male,Current,10,23,Lungs,Healthy,19.5,Low,300.0,Yes,Moderate,18–28,1
+654,85,Male,Current,15,6,Liver,Damaged,21.7,Low,299.7,Yes,Moderate,69+,6
+765,70,Male,Current,11,18,Human Body,Damaged,28.8,Low,234.9,Yes,High,69+,6
+784,33,Male,Current,27,5,Liver,Damaged,24.9,Low,139.3,No,High,29–38,2
+809,82,Female,Current,35,7,Kidney,Healthy,20.2,Low,292.8,No,Moderate,69+,6
+942,43,Female,Current,12,19,Heart,Damaged,40.1,Low,125.3,Yes,High,39–48,3
+957,70,Female,Current,31,26,Kidney,Healthy,41.5,Low,184.3,No,High,69+,6
+1004,54,Female,Current,36,8,Heart,Healthy,38.6,Low,235.9,No,Moderate,49–58,4
+1102,27,Male,Current,19,11,Kidney,Healthy,39.3,Low,281.2,Yes,Moderate,18–28,1
+1117,57,Female,Current,36,14,Human Body,Healthy,29.1,Low,271.8,No,High,49–58,4
+1135,47,Male,Current,7,16,Liver,Healthy,35.1,Low,293.6,No,Moderate,39–48,3
+1162,48,Male,Current,34,22,Human Body,Healthy,18.6,Low,140.8,Yes,Moderate,39–48,3
+1174,66,Male,Current,17,23,Heart,Damaged,18.0,Low,280.7,Yes,High,59–68,5
+1183,43,Male,Current,14,11,Liver,Damaged,19.3,Low,122.2,No,High,39–48,3
+1195,22,Female,Current,7,8,Kidney,Damaged,26.0,Low,148.4,Yes,Moderate,18–28,1
+1224,42,Male,Current,20,18,Kidney,Damaged,29.8,Low,231.0,Yes,Moderate,39–48,3
+1270,32,Female,Current,38,8,Liver,Damaged,40.4,Low,207.9,Yes,Moderate,29–38,2
+1391,50,Male,Current,38,20,Heart,Healthy,41.1,Low,165.9,No,Moderate,49–58,4
+1394,70,Female,Current,14,10,Liver,Healthy,35.6,Low,237.1,Yes,Moderate,69+,6
+1398,85,Male,Current,37,14,Heart,Damaged,34.1,Low,281.8,No,Moderate,69+,6
+1422,85,Male,Current,16,22,Heart,Damaged,17.6,Low,292.6,Yes,High,69+,6
+1447,87,Male,Current,25,5,Kidney,Healthy,21.9,Low,253.3,No,High,69+,6
+1503,40,Male,Current,15,21,Human Body,Damaged,26.3,Low,286.4,Yes,Moderate,39–48,3
+1532,79,Male,Current,20,7,Lungs,Healthy,38.0,Low,162.0,No,Moderate,69+,6
+1581,25,Male,Current,36,7,Lungs,Damaged,20.3,Low,208.9,Yes,Moderate,18–28,1
+1602,80,Female,Current,35,25,Heart,Healthy,26.5,Low,180.3,No,High,69+,6
+1607,18,Female,Current,29,20,Human Body,Damaged,17.6,Low,297.8,No,Moderate,18–28,1
+1621,21,Female,Current,13,18,Heart,Damaged,30.5,Low,182.8,No,High,18–28,1
+1704,34,Male,Current,31,26,Lungs,Healthy,25.3,Low,228.4,No,Moderate,29–38,2
+1736,33,Female,Current,27,20,Kidney,Healthy,35.7,Low,164.3,Yes,Moderate,29–38,2
+1766,54,Male,Current,35,10,Lungs,Healthy,19.3,Low,274.3,Yes,Moderate,49–58,4
+1823,46,Male,Current,15,18,Liver,Healthy,41.3,Low,140.1,No,Moderate,39–48,3
+1848,52,Male,Current,15,19,Liver,Healthy,39.4,Low,125.0,No,Moderate,49–58,4
+1860,60,Male,Current,17,8,Liver,Healthy,31.8,Low,170.0,No,Moderate,59–68,5
+1921,53,Male,Current,35,15,Kidney,Healthy,38.6,Low,197.2,No,High,49–58,4
+2007,73,Female,Current,22,18,Liver,Damaged,31.3,Low,221.0,No,High,69+,6
+2016,25,Male,Current,29,20,Liver,Damaged,38.6,Low,296.4,No,Moderate,18–28,1
+2050,61,Female,Current,25,20,Liver,Damaged,36.6,Low,239.2,No,High,59–68,5
+2089,88,Male,Current,34,8,Human Body,Healthy,37.4,Low,160.0,No,Moderate,69+,6
+2121,72,Female,Current,36,12,Liver,Damaged,32.3,Low,242.9,No,High,69+,6
+2162,46,Female,Current,28,7,Liver,Healthy,23.8,Low,121.6,Yes,High,39–48,3
+2176,18,Female,Current,16,26,Human Body,Damaged,28.2,Low,213.7,No,Moderate,18–28,1
+2178,76,Female,Current,26,5,Heart,Healthy,28.7,Low,123.4,No,Moderate,69+,6
+2187,60,Male,Current,31,21,Liver,Healthy,40.8,Low,297.1,No,Moderate,59–68,5
+2296,57,Female,Current,33,20,Lungs,Damaged,32.6,Low,192.9,No,Moderate,49–58,4
+2367,86,Female,Current,36,17,Lungs,Healthy,23.9,Low,205.5,Yes,Moderate,69+,6
+2484,77,Female,Current,18,17,Lungs,Damaged,17.2,Low,241.4,No,Moderate,69+,6
+2487,74,Female,Current,37,27,Heart,Healthy,22.7,Low,294.3,No,Moderate,69+,6
+2498,43,Male,Current,13,16,Heart,Healthy,39.9,Low,128.7,No,Moderate,39–48,3
+29,32,Female,Current,20,18,Lungs,Healthy,31.5,Low,203.8,No,Low,29–38,2
+82,18,Male,Current,27,29,Heart,Healthy,27.0,Low,180.3,No,Low,18–28,1
+90,49,Female,Current,39,28,Heart,Damaged,40.6,Low,193.2,No,Low,49–58,4
+116,59,Female,Current,35,27,Heart,Healthy,39.7,Low,220.1,No,Low,59–68,5
+188,46,Male,Current,29,26,Lungs,Healthy,34.1,Low,293.7,No,Low,39–48,3
+198,86,Male,Current,30,20,Kidney,Healthy,25.4,Low,124.4,No,Low,69+,6
+207,33,Female,Current,6,14,Heart,Damaged,30.6,Low,212.3,No,Low,29–38,2
+214,80,Male,Current,20,5,Liver,Damaged,32.9,Low,278.7,No,Low,69+,6
+244,67,Male,Current,5,8,Heart,Healthy,20.4,Low,157.6,No,Low,59–68,5
+269,62,Male,Current,37,8,Lungs,Healthy,40.3,Low,252.7,No,Low,59–68,5
+297,83,Female,Current,21,13,Heart,Damaged,20.1,Low,273.1,No,Low,69+,6
+318,75,Male,Current,26,15,Liver,Healthy,29.6,Low,208.4,No,Low,69+,6
+356,19,Male,Current,27,26,Heart,Healthy,37.1,Low,224.5,No,Low,18–28,1
+367,47,Male,Current,27,24,Human Body,Healthy,38.0,Low,124.5,No,Low,39–48,3
+453,33,Female,Current,23,29,Heart,Healthy,25.2,Low,152.6,No,Low,29–38,2
+461,85,Male,Current,28,13,Human Body,Healthy,36.1,Low,238.4,No,Low,69+,6
+478,71,Male,Current,12,5,Human Body,Healthy,18.7,Low,220.0,Yes,Low,69+,6
+510,69,Female,Current,31,14,Lungs,Healthy,20.0,Low,129.5,No,Low,69+,6
+551,48,Male,Current,7,12,Liver,Healthy,24.8,Low,210.7,No,Low,39–48,3
+606,21,Female,Current,22,11,Liver,Healthy,27.7,Low,246.1,No,Low,18–28,1
+675,54,Male,Current,23,26,Human Body,Healthy,36.7,Low,218.9,No,Low,49–58,4
+705,80,Male,Current,5,22,Human Body,Damaged,27.0,Low,251.9,No,Low,69+,6
+734,67,Male,Current,16,24,Heart,Healthy,36.7,Low,294.0,No,Low,59–68,5
+774,31,Female,Current,9,9,Kidney,Damaged,25.5,Low,206.3,Yes,Low,29–38,2
+811,66,Female,Current,6,11,Human Body,Healthy,23.0,Low,248.8,Yes,Low,59–68,5
+840,29,Female,Current,13,14,Heart,Healthy,30.3,Low,148.5,No,Low,29–38,2
+928,28,Female,Current,10,24,Kidney,Healthy,27.4,Low,271.4,No,Low,18–28,1
+943,24,Female,Current,11,11,Heart,Damaged,25.5,Low,224.4,No,Low,18–28,1
+988,19,Female,Current,20,5,Kidney,Healthy,41.9,Low,122.7,No,Low,18–28,1
+1070,45,Female,Current,32,27,Human Body,Healthy,17.6,Low,167.5,Yes,Low,39–48,3
+1127,71,Female,Current,31,17,Liver,Healthy,31.1,Low,145.0,No,Low,69+,6
+1141,24,Male,Current,9,11,Kidney,Healthy,36.8,Low,268.1,No,Low,18–28,1
+1153,60,Female,Current,22,12,Human Body,Healthy,19.4,Low,261.0,No,Low,59–68,5
+1194,57,Male,Current,24,11,Liver,Healthy,20.4,Low,243.1,Yes,Low,49–58,4
+1373,76,Female,Current,13,5,Heart,Damaged,24.9,Low,203.6,No,Low,69+,6
+1381,31,Female,Current,19,17,Lungs,Healthy,38.3,Low,126.6,No,Low,29–38,2
+1400,18,Male,Current,12,18,Liver,Healthy,31.8,Low,185.0,No,Low,18–28,1
+1412,20,Female,Current,16,20,Liver,Healthy,33.0,Low,174.5,No,Low,18–28,1
+1420,53,Male,Current,28,11,Kidney,Healthy,27.5,Low,208.1,No,Low,49–58,4
+1439,83,Male,Current,34,17,Heart,Healthy,29.3,Low,239.0,No,Low,69+,6
+1512,81,Female,Current,7,6,Kidney,Healthy,28.1,Low,207.3,No,Low,69+,6
+1641,85,Male,Current,8,16,Human Body,Healthy,31.7,Low,272.1,No,Low,69+,6
+1677,67,Female,Current,29,15,Lungs,Healthy,36.9,Low,265.5,No,Low,59–68,5
+1694,22,Female,Current,36,15,Heart,Damaged,33.5,Low,252.2,No,Low,18–28,1
+1716,78,Male,Current,26,13,Liver,Damaged,39.7,Low,199.3,No,Low,69+,6
+1720,78,Male,Current,23,23,Lungs,Healthy,29.0,Low,242.4,Yes,Low,69+,6
+1721,74,Female,Current,15,12,Lungs,Healthy,21.9,Low,249.1,No,Low,69+,6
+1743,59,Male,Current,38,23,Human Body,Healthy,29.2,Low,204.9,Yes,Low,59–68,5
+1757,60,Female,Current,36,26,Liver,Healthy,32.5,Low,157.3,No,Low,59–68,5
+1762,22,Male,Current,17,13,Human Body,Damaged,21.6,Low,270.9,No,Low,18–28,1
+1813,50,Male,Current,17,8,Liver,Damaged,23.9,Low,133.8,No,Low,49–58,4
+1867,53,Female,Current,22,8,Lungs,Healthy,29.7,Low,244.5,No,Low,49–58,4
+1910,78,Female,Current,30,9,Lungs,Damaged,22.9,Low,132.3,No,Low,69+,6
+1917,57,Male,Current,19,15,Human Body,Healthy,30.8,Low,264.4,No,Low,49–58,4
+1940,25,Male,Current,11,13,Lungs,Damaged,31.3,Low,135.6,No,Low,18–28,1
+1996,62,Female,Current,16,29,Heart,Healthy,30.1,Low,244.1,No,Low,59–68,5
+2013,22,Male,Current,28,26,Kidney,Healthy,34.4,Low,171.2,No,Low,18–28,1
+2019,37,Female,Current,9,11,Liver,Healthy,22.9,Low,160.1,No,Low,29–38,2
+2046,19,Female,Current,8,7,Heart,Healthy,32.6,Low,217.9,No,Low,18–28,1
+2122,58,Female,Current,14,28,Human Body,Healthy,20.2,Low,236.6,No,Low,49–58,4
+2166,77,Female,Current,34,20,Kidney,Healthy,39.3,Low,203.9,No,Low,69+,6
+2209,47,Male,Current,27,29,Heart,Healthy,33.3,Low,186.9,No,Low,39–48,3
+2288,47,Female,Current,21,18,Heart,Healthy,29.1,Low,279.0,No,Low,39–48,3
+2298,68,Female,Current,10,17,Heart,Damaged,23.3,Low,192.2,No,Low,59–68,5
+2316,71,Female,Current,6,17,Heart,Healthy,39.4,Low,232.8,No,Low,69+,6
+2325,75,Male,Current,27,14,Heart,Damaged,24.3,Low,146.8,No,Low,69+,6
+2380,36,Female,Current,16,13,Liver,Healthy,18.7,Low,258.3,No,Low,29–38,2
+2403,20,Male,Current,25,26,Lungs,Healthy,26.6,Low,212.2,No,Low,18–28,1
+2422,47,Female,Current,31,24,Human Body,Damaged,24.2,Low,156.0,No,Low,39–48,3
+22,58,Female,Former,3,13,Human Body,Healthy,29.3,Low,186.0,No,Moderate,49–58,4
+37,29,Male,Former,19,11,Human Body,Damaged,39.6,Low,132.5,Yes,Low,29–38,2
+41,36,Male,Former,13,11,Kidney,Healthy,39.6,Low,177.5,No,High,29–38,2
+43,22,Male,Former,7,14,Liver,Healthy,19.9,Low,257.1,No,Low,18–28,1
+60,68,Male,Former,18,13,Liver,Healthy,24.0,Low,136.0,Yes,Low,59–68,5
+71,19,Male,Former,10,12,Lungs,Healthy,20.5,Low,141.0,No,Moderate,18–28,1
+75,83,Female,Former,17,1,Liver,Damaged,32.6,Low,289.2,No,Low,69+,6
+100,29,Male,Former,6,2,Liver,Healthy,39.9,Low,291.0,No,Low,29–38,2
+113,55,Female,Former,2,8,Heart,Damaged,29.4,Low,159.6,No,Low,49–58,4
+129,57,Female,Former,1,10,Lungs,Healthy,29.9,Low,183.1,Yes,Low,49–58,4
+172,19,Female,Former,11,14,Heart,Healthy,31.1,Low,158.1,No,Moderate,18–28,1
+173,26,Male,Former,15,9,Liver,Healthy,24.6,Low,244.6,Yes,Moderate,18–28,1
+176,82,Male,Former,7,5,Liver,Damaged,32.7,Low,131.6,Yes,Low,69+,6
+200,21,Female,Former,6,10,Lungs,Damaged,36.5,Low,130.3,Yes,Low,18–28,1
+203,50,Male,Former,4,2,Lungs,Damaged,30.7,Low,278.8,No,Moderate,49–58,4
+227,84,Female,Former,16,4,Human Body,Damaged,30.1,Low,276.3,Yes,High,69+,6
+236,83,Female,Former,18,2,Human Body,Healthy,26.2,Low,195.4,No,Low,69+,6
+270,38,Female,Former,1,4,Heart,Healthy,18.5,Low,212.9,Yes,Moderate,29–38,2
+276,22,Female,Former,8,9,Kidney,Healthy,41.1,Low,185.8,Yes,Low,18–28,1
+324,49,Female,Former,1,14,Heart,Healthy,25.9,Low,160.0,No,Moderate,49–58,4
+332,81,Male,Former,15,4,Heart,Healthy,28.2,Low,251.3,No,Moderate,69+,6
+347,39,Male,Former,9,6,Human Body,Healthy,32.0,Low,246.9,No,Moderate,39–48,3
+365,30,Male,Former,15,11,Liver,Healthy,36.0,Low,207.7,No,Moderate,29–38,2
+388,85,Female,Former,16,14,Heart,Healthy,39.7,Low,159.6,No,Moderate,69+,6
+401,38,Female,Former,13,10,Liver,Damaged,20.8,Low,168.3,No,Low,29–38,2
+422,68,Female,Former,19,7,Heart,Healthy,37.5,Low,209.7,No,Low,59–68,5
+497,60,Female,Former,16,7,Lungs,Healthy,29.1,Low,188.5,Yes,Moderate,59–68,5
+561,43,Female,Former,6,12,Liver,Healthy,33.4,Low,227.6,No,High,39–48,3
+566,22,Female,Former,8,7,Lungs,Healthy,20.2,Low,241.7,No,High,18–28,1
+592,39,Male,Former,3,14,Lungs,Damaged,28.5,Low,174.4,Yes,Low,39–48,3
+616,76,Female,Former,6,7,Heart,Healthy,26.0,Low,277.7,No,Low,69+,6
+617,26,Male,Former,10,3,Heart,Healthy,30.5,Low,131.3,Yes,Low,18–28,1
+640,42,Male,Former,8,14,Liver,Healthy,40.7,Low,139.1,Yes,Moderate,39–48,3
+666,77,Female,Former,9,10,Heart,Healthy,34.4,Low,209.6,Yes,Moderate,69+,6
+687,37,Male,Former,11,4,Lungs,Healthy,20.0,Low,283.7,Yes,Low,29–38,2
+701,63,Male,Former,8,9,Lungs,Healthy,38.9,Low,264.9,No,High,59–68,5
+741,60,Female,Former,12,8,Lungs,Healthy,23.6,Low,185.3,Yes,Moderate,59–68,5
+742,78,Male,Former,8,6,Lungs,Damaged,25.1,Low,295.7,Yes,Low,69+,6
+743,64,Female,Former,16,14,Kidney,Damaged,37.3,Low,123.3,No,Low,59–68,5
+769,60,Male,Former,18,5,Heart,Damaged,21.7,Low,249.8,Yes,Moderate,59–68,5
+817,85,Male,Former,7,9,Liver,Healthy,38.0,Low,213.6,No,Moderate,69+,6
+842,47,Female,Former,15,2,Lungs,Healthy,29.5,Low,181.3,No,Moderate,39–48,3
+848,44,Male,Former,15,14,Liver,Damaged,27.4,Low,244.0,No,High,39–48,3
+913,71,Female,Former,18,5,Liver,Damaged,24.2,Low,288.6,No,Moderate,69+,6
+932,73,Male,Former,16,7,Kidney,Healthy,30.5,Low,134.4,No,High,69+,6
+934,74,Male,Former,15,6,Liver,Healthy,30.5,Low,124.7,No,Low,69+,6
+955,29,Male,Former,18,6,Liver,Damaged,21.5,Low,127.1,No,Low,29–38,2
+975,53,Male,Former,8,4,Heart,Healthy,22.2,Low,211.1,No,High,49–58,4
+986,60,Male,Former,4,2,Kidney,Damaged,17.8,Low,172.8,No,Moderate,59–68,5
+1015,35,Female,Former,2,7,Heart,Healthy,35.9,Low,164.9,No,Moderate,29–38,2
+1029,30,Male,Former,14,11,Human Body,Damaged,40.2,Low,291.8,No,Low,29–38,2
+1038,55,Female,Former,8,6,Heart,Damaged,38.7,Low,188.4,No,Low,49–58,4
+1039,58,Male,Former,1,6,Kidney,Damaged,29.3,Low,212.4,No,Moderate,49–58,4
+1051,39,Female,Former,2,13,Heart,Damaged,22.4,Low,215.7,Yes,Moderate,39–48,3
+1068,24,Female,Former,7,8,Human Body,Healthy,25.8,Low,286.4,Yes,Low,18–28,1
+1083,62,Male,Former,9,11,Liver,Damaged,22.0,Low,293.1,No,Moderate,59–68,5
+1118,28,Female,Former,10,10,Liver,Healthy,25.1,Low,234.1,No,Low,18–28,1
+1128,79,Female,Former,3,7,Lungs,Healthy,41.1,Low,278.3,Yes,High,69+,6
+1130,58,Female,Former,17,7,Human Body,Healthy,19.9,Low,250.4,No,Low,49–58,4
+1163,33,Female,Former,4,12,Lungs,Healthy,18.9,Low,245.9,Yes,High,29–38,2
+1167,18,Male,Former,14,1,Human Body,Healthy,27.4,Low,140.9,No,Low,18–28,1
+1172,43,Female,Former,5,4,Liver,Damaged,18.5,Low,295.3,Yes,Moderate,39–48,3
+1205,63,Male,Former,10,4,Heart,Healthy,22.7,Low,223.5,Yes,Low,59–68,5
+1208,67,Female,Former,7,1,Lungs,Damaged,18.3,Low,199.3,Yes,Moderate,59–68,5
+1230,44,Female,Former,12,2,Human Body,Healthy,33.7,Low,267.6,No,High,39–48,3
+1234,82,Male,Former,5,7,Heart,Healthy,33.3,Low,121.0,Yes,High,69+,6
+1261,37,Female,Former,17,1,Kidney,Healthy,21.4,Low,252.9,No,High,29–38,2
+1267,60,Male,Former,6,13,Liver,Healthy,19.6,Low,137.0,No,Low,59–68,5
+1289,34,Female,Former,9,2,Lungs,Healthy,35.8,Low,138.0,No,Low,29–38,2
+1317,73,Female,Former,16,6,Heart,Healthy,25.0,Low,191.2,Yes,Moderate,69+,6
+1352,44,Female,Former,2,2,Kidney,Healthy,38.4,Low,149.1,Yes,Moderate,39–48,3
+1359,57,Male,Former,12,11,Lungs,Damaged,33.8,Low,144.0,Yes,Moderate,49–58,4
+1390,71,Female,Former,8,5,Kidney,Healthy,18.0,Low,199.2,Yes,Moderate,69+,6
+1404,84,Female,Former,17,14,Human Body,Healthy,29.2,Low,154.3,No,Low,69+,6
+1405,63,Female,Former,5,11,Lungs,Healthy,17.6,Low,232.8,Yes,Low,59–68,5
+1424,51,Female,Former,19,3,Human Body,Healthy,19.4,Low,246.9,Yes,High,49–58,4
+1434,34,Female,Former,19,14,Liver,Healthy,24.4,Low,144.9,Yes,Low,29–38,2
+1461,76,Male,Former,8,4,Human Body,Healthy,41.8,Low,165.6,Yes,Low,69+,6
+1482,54,Female,Former,10,7,Liver,Healthy,33.9,Low,142.9,Yes,High,49–58,4
+1514,50,Female,Former,3,7,Human Body,Damaged,39.8,Low,258.7,Yes,Low,49–58,4
+1545,89,Male,Former,9,5,Heart,Healthy,34.5,Low,275.2,Yes,Moderate,69+,6
+1569,56,Male,Former,5,8,Human Body,Healthy,38.6,Low,156.2,No,Low,49–58,4
+1571,35,Male,Former,16,8,Human Body,Healthy,34.4,Low,289.0,No,High,29–38,2
+1573,37,Female,Former,17,2,Lungs,Damaged,27.0,Low,258.2,Yes,High,29–38,2
+1657,22,Female,Former,10,9,Human Body,Healthy,19.9,Low,244.9,No,Moderate,18–28,1
+1672,81,Male,Former,2,6,Liver,Damaged,18.4,Low,223.8,No,Low,69+,6
+1747,81,Female,Former,16,2,Kidney,Healthy,27.5,Low,121.2,No,Low,69+,6
+1807,53,Female,Former,14,12,Human Body,Healthy,31.8,Low,206.9,No,Low,49–58,4
+1821,33,Male,Former,6,10,Heart,Healthy,38.9,Low,126.8,Yes,Low,29–38,2
+1827,20,Female,Former,1,4,Liver,Healthy,21.2,Low,176.7,No,Low,18–28,1
+1890,63,Male,Former,11,7,Lungs,Healthy,36.3,Low,165.7,Yes,Low,59–68,5
+1893,28,Female,Former,1,6,Liver,Healthy,31.1,Low,198.5,Yes,Low,18–28,1
+1933,84,Male,Former,14,4,Liver,Healthy,40.6,Low,218.3,Yes,Low,69+,6
+1955,27,Female,Former,7,3,Kidney,Healthy,19.6,Low,299.8,Yes,Moderate,18–28,1
+1957,83,Male,Former,19,11,Human Body,Healthy,20.7,Low,179.1,No,Low,69+,6
+1989,34,Female,Former,18,3,Lungs,Healthy,38.3,Low,122.7,No,Low,29–38,2
+2027,23,Male,Former,18,10,Heart,Damaged,18.6,Low,227.4,No,Low,18–28,1
+2055,18,Male,Former,19,6,Lungs,Damaged,17.9,Low,251.0,No,Low,18–28,1
+2071,19,Male,Former,7,1,Liver,Healthy,41.1,Low,126.1,No,Moderate,18–28,1
+2080,42,Female,Former,16,9,Heart,Healthy,26.4,Low,247.4,No,Low,39–48,3
+2081,65,Male,Former,4,1,Heart,Healthy,31.0,Low,185.8,Yes,Moderate,59–68,5
+2086,73,Female,Former,18,12,Kidney,Healthy,33.9,Low,205.4,No,Low,69+,6
+2113,32,Male,Former,4,7,Lungs,Healthy,21.1,Low,261.0,Yes,Low,29–38,2
+2150,32,Male,Former,6,13,Lungs,Healthy,19.4,Low,279.0,Yes,Low,29–38,2
+2174,58,Male,Former,9,6,Liver,Healthy,26.2,Low,271.1,No,Low,49–58,4
+2179,54,Male,Former,19,11,Liver,Healthy,39.2,Low,138.7,Yes,Low,49–58,4
+2183,77,Female,Former,19,9,Liver,Damaged,36.5,Low,170.1,Yes,High,69+,6
+2216,30,Male,Former,17,10,Lungs,Healthy,25.5,Low,275.8,Yes,High,29–38,2
+2246,57,Female,Former,6,5,Liver,Damaged,24.6,Low,225.5,Yes,High,49–58,4
+2281,46,Female,Former,11,5,Liver,Healthy,39.7,Low,244.2,No,Moderate,39–48,3
+2306,62,Female,Former,8,10,Liver,Healthy,30.7,Low,278.6,Yes,Moderate,59–68,5
+2318,84,Male,Former,1,1,Heart,Healthy,35.4,Low,168.9,Yes,Low,69+,6
+2321,31,Male,Former,8,8,Lungs,Healthy,37.0,Low,298.9,No,High,29–38,2
+2358,88,Male,Former,6,1,Liver,Healthy,27.4,Low,174.6,Yes,Moderate,69+,6
+2387,80,Male,Former,1,13,Kidney,Healthy,38.7,Low,279.1,No,Low,69+,6
+2453,45,Female,Former,14,10,Kidney,Healthy,25.9,Low,205.2,No,Moderate,39–48,3
+2459,65,Female,Former,8,5,Kidney,Damaged,29.4,Low,222.6,No,Moderate,59–68,5
+2468,82,Male,Former,15,3,Liver,Healthy,34.1,Low,240.2,No,Moderate,69+,6
+2470,72,Male,Former,6,1,Human Body,Healthy,26.6,Low,188.9,No,Moderate,69+,6
+2488,33,Female,Former,12,8,Heart,Healthy,31.0,Low,126.2,No,Moderate,29–38,2
+53,18,Male,Former,1,2,Kidney,Damaged,42.0,High,220.0,No,High,18–28,1
+225,76,Female,Former,3,9,Human Body,Healthy,39.6,High,240.2,No,High,69+,6
+299,32,Female,Former,3,10,Kidney,Healthy,17.6,High,122.1,No,High,29–38,2
+305,31,Male,Former,7,7,Heart,Damaged,32.0,High,178.5,No,High,29–38,2
+312,34,Female,Former,6,6,Lungs,Damaged,25.2,High,135.2,No,High,29–38,2
+341,35,Female,Current,33,11,Heart,Damaged,34.7,High,268.8,No,High,29–38,2
+406,28,Male,Current,28,5,Liver,Damaged,17.4,High,127.2,No,High,18–28,1
+462,68,Female,Current,20,19,Lungs,Healthy,37.2,High,174.4,No,High,59–68,5
+532,66,Female,Current,33,15,Lungs,Healthy,29.7,High,261.3,No,High,59–68,5
+564,32,Female,Former,16,9,Lungs,Damaged,35.2,High,154.1,No,High,29–38,2
+567,75,Female,Former,3,6,Liver,Damaged,34.6,High,130.1,No,High,69+,6
+577,29,Male,Current,20,8,Kidney,Healthy,36.1,High,289.3,Yes,High,29–38,2
+647,50,Male,Former,18,2,Heart,Healthy,38.0,High,197.5,No,High,49–58,4
+753,80,Female,Former,7,8,Liver,Healthy,31.2,High,134.1,Yes,High,69+,6
+782,83,Female,Current,17,14,Kidney,Damaged,17.3,High,208.1,No,High,69+,6
+803,78,Female,Current,33,7,Liver,Healthy,34.2,High,229.5,No,High,69+,6
+816,39,Female,Current,21,18,Heart,Damaged,24.8,High,227.1,No,High,39–48,3
+853,53,Female,Former,14,10,Liver,Healthy,28.7,High,153.4,No,High,49–58,4
+883,83,Female,Former,16,8,Lungs,Healthy,28.9,High,166.5,No,High,69+,6
+994,56,Male,Current,17,24,Liver,Healthy,41.8,High,254.7,No,High,49–58,4
+1125,55,Male,Former,9,12,Liver,Healthy,26.0,High,219.7,No,High,49–58,4
+1173,28,Female,Former,1,6,Kidney,Healthy,34.5,High,264.9,Yes,High,18–28,1
+1238,83,Female,Former,15,6,Human Body,Healthy,37.6,High,242.7,No,High,69+,6
+1259,71,Male,Current,32,24,Heart,Healthy,22.2,High,290.6,No,High,69+,6
+1283,61,Male,Former,17,14,Kidney,Healthy,20.7,High,228.1,Yes,High,59–68,5
+1446,80,Female,Current,17,8,Lungs,Healthy,27.0,High,209.4,No,High,69+,6
+1450,40,Male,Former,18,4,Liver,Healthy,18.0,High,157.8,No,High,39–48,3
+1458,73,Female,Former,9,14,Lungs,Damaged,39.2,High,194.1,Yes,High,69+,6
+1472,43,Female,Former,17,11,Heart,Damaged,32.9,High,215.9,No,High,39–48,3
+1544,29,Female,Former,13,7,Heart,Healthy,18.7,High,171.4,No,High,29–38,2
+1666,80,Female,Former,3,13,Kidney,Damaged,20.6,High,274.8,No,High,69+,6
+1691,86,Female,Current,7,20,Lungs,Damaged,38.8,High,181.4,No,High,69+,6
+1777,69,Female,Former,4,4,Human Body,Healthy,33.7,High,183.8,Yes,High,69+,6
+1808,75,Female,Former,1,8,Kidney,Damaged,41.8,High,135.3,No,High,69+,6
+1870,23,Male,Current,16,15,Liver,Damaged,28.0,High,253.0,No,High,18–28,1
+1877,87,Male,Current,7,9,Human Body,Healthy,18.5,High,230.3,Yes,High,69+,6
+1895,61,Female,Current,20,20,Heart,Damaged,39.5,High,272.4,No,High,59–68,5
+2031,81,Male,Former,12,14,Liver,Damaged,37.4,High,231.8,No,High,69+,6
+2075,42,Male,Current,10,27,Liver,Healthy,38.2,High,123.6,No,High,39–48,3
+2093,71,Female,Former,3,2,Heart,Healthy,17.6,High,292.7,No,High,69+,6
+2096,55,Female,Current,35,5,Lungs,Damaged,28.4,High,147.7,Yes,High,49–58,4
+2158,66,Female,Former,10,6,Kidney,Damaged,38.3,High,295.7,No,High,59–68,5
+2210,67,Male,Current,38,7,Lungs,Healthy,41.1,High,270.7,Yes,High,59–68,5
+2236,58,Male,Former,11,7,Liver,Healthy,18.0,High,208.1,No,High,49–58,4
+2262,28,Female,Former,5,5,Heart,Damaged,29.5,High,131.0,No,High,18–28,1
+2359,53,Female,Former,17,5,Human Body,Healthy,23.9,High,146.1,No,High,49–58,4
+2431,75,Male,Current,32,16,Lungs,Damaged,23.6,High,246.2,No,High,69+,6
+2435,63,Female,Current,25,20,Heart,Healthy,18.7,High,148.3,Yes,High,59–68,5
+2455,61,Male,Current,28,15,Human Body,Healthy,27.6,High,206.3,No,High,59–68,5
+2478,59,Female,Former,11,11,Liver,Damaged,27.4,High,297.0,No,High,59–68,5
+36,33,Female,Former,13,4,Lungs,Healthy,31.6,High,223.6,No,Moderate,29–38,2
+58,34,Female,Current,14,28,Human Body,Healthy,28.5,High,208.7,No,Moderate,29–38,2
+69,25,Female,Current,6,19,Heart,Damaged,22.1,High,248.0,Yes,Moderate,18–28,1
+139,87,Male,Former,2,7,Heart,Healthy,27.0,High,121.6,No,Moderate,69+,6
+164,72,Female,Current,17,19,Lungs,Healthy,28.3,High,182.6,No,Moderate,69+,6
+178,69,Male,Former,9,13,Lungs,Damaged,39.3,High,261.6,No,Moderate,69+,6
+182,25,Female,Current,9,9,Lungs,Healthy,19.1,High,173.2,No,Moderate,18–28,1
+242,73,Female,Former,7,2,Liver,Healthy,18.1,High,290.4,No,Moderate,69+,6
+252,81,Male,Former,15,11,Heart,Healthy,38.6,High,193.4,No,Moderate,69+,6
+266,72,Female,Current,29,28,Liver,Damaged,33.7,High,257.0,No,Moderate,69+,6
+289,43,Male,Former,3,12,Heart,Healthy,27.8,High,272.3,No,Moderate,39–48,3
+301,81,Female,Former,8,13,Heart,Damaged,22.7,High,265.6,No,Moderate,69+,6
+310,43,Male,Current,5,23,Lungs,Healthy,22.3,High,121.2,No,Moderate,39–48,3
+316,23,Male,Current,12,23,Human Body,Healthy,38.6,High,274.8,Yes,Moderate,18–28,1
+348,37,Female,Current,18,22,Human Body,Healthy,34.5,High,264.5,No,Moderate,29–38,2
+362,55,Female,Former,2,6,Human Body,Damaged,23.3,High,280.9,No,Moderate,49–58,4
+378,40,Female,Former,18,5,Heart,Healthy,31.0,High,134.9,Yes,Moderate,39–48,3
+400,47,Male,Former,15,12,Lungs,Damaged,38.8,High,251.0,No,Moderate,39–48,3
+404,61,Female,Current,26,8,Liver,Damaged,20.9,High,295.9,No,Moderate,59–68,5
+412,38,Female,Former,7,8,Liver,Healthy,25.5,High,193.2,Yes,Moderate,29–38,2
+435,85,Male,Current,8,22,Lungs,Damaged,30.9,High,233.7,No,Moderate,69+,6
+473,46,Female,Former,2,7,Heart,Healthy,35.1,High,197.5,Yes,Moderate,39–48,3
+549,77,Female,Current,7,7,Kidney,Damaged,34.3,High,160.5,No,Moderate,69+,6
+580,74,Female,Former,16,9,Liver,Healthy,33.6,High,284.8,No,Moderate,69+,6
+593,75,Female,Current,38,23,Heart,Healthy,19.1,High,240.0,Yes,Moderate,69+,6
+626,37,Male,Former,5,3,Kidney,Damaged,38.7,High,285.6,Yes,Moderate,29–38,2
+641,88,Female,Former,15,7,Heart,Damaged,23.7,High,196.8,No,Moderate,69+,6
+677,27,Male,Current,13,7,Lungs,Damaged,18.9,High,193.4,Yes,Moderate,18–28,1
+685,51,Male,Former,12,10,Lungs,Damaged,22.4,High,155.5,Yes,Moderate,49–58,4
+717,26,Male,Current,13,11,Lungs,Damaged,20.3,High,167.7,No,Moderate,18–28,1
+718,49,Female,Current,10,17,Heart,Healthy,41.1,High,168.7,No,Moderate,49–58,4
+721,46,Male,Former,4,10,Kidney,Healthy,36.5,High,161.1,No,Moderate,39–48,3
+724,48,Female,Former,7,3,Lungs,Damaged,39.6,High,132.8,No,Moderate,39–48,3
+756,20,Female,Former,1,10,Heart,Damaged,33.4,High,287.6,No,Moderate,18–28,1
+759,20,Male,Former,6,4,Heart,Healthy,29.5,High,215.5,Yes,Moderate,18–28,1
+764,57,Male,Current,9,27,Lungs,Damaged,24.8,High,271.3,No,Moderate,49–58,4
+798,27,Female,Current,28,27,Human Body,Healthy,20.6,High,294.4,No,Moderate,18–28,1
+799,36,Male,Former,2,4,Lungs,Healthy,18.4,High,215.4,No,Moderate,29–38,2
+804,42,Female,Former,19,4,Lungs,Damaged,19.4,High,222.3,No,Moderate,39–48,3
+833,28,Male,Current,10,22,Kidney,Damaged,33.8,High,200.5,No,Moderate,18–28,1
+839,62,Male,Former,16,12,Lungs,Damaged,35.8,High,125.9,No,Moderate,59–68,5
+850,62,Male,Current,12,27,Human Body,Healthy,33.0,High,138.2,No,Moderate,59–68,5
+875,36,Female,Current,39,14,Human Body,Healthy,23.5,High,268.3,No,Moderate,29–38,2
+915,82,Male,Current,7,20,Kidney,Damaged,40.4,High,280.0,No,Moderate,69+,6
+918,20,Female,Current,25,28,Human Body,Healthy,37.9,High,153.4,No,Moderate,18–28,1
+979,89,Female,Current,13,7,Kidney,Healthy,29.9,High,238.7,No,Moderate,69+,6
+990,88,Male,Former,18,12,Lungs,Healthy,31.3,High,206.6,Yes,Moderate,69+,6
+997,74,Female,Former,17,8,Heart,Healthy,28.1,High,270.3,No,Moderate,69+,6
+1009,41,Female,Former,5,4,Lungs,Healthy,21.7,High,284.7,No,Moderate,39–48,3
+1022,30,Female,Current,35,29,Liver,Healthy,17.5,High,160.8,No,Moderate,29–38,2
+1048,50,Female,Former,15,8,Heart,Healthy,31.3,High,265.1,Yes,Moderate,49–58,4
+1052,72,Male,Current,20,28,Lungs,Healthy,34.5,High,179.4,No,Moderate,69+,6
+1090,50,Male,Current,28,20,Human Body,Healthy,20.3,High,264.1,No,Moderate,49–58,4
+1091,21,Male,Current,8,10,Human Body,Healthy,27.4,High,161.4,Yes,Moderate,18–28,1
+1110,25,Male,Former,19,8,Heart,Damaged,23.8,High,258.0,No,Moderate,18–28,1
+1114,19,Female,Current,24,25,Lungs,Damaged,41.6,High,289.6,Yes,Moderate,18–28,1
+1175,82,Male,Current,36,8,Human Body,Healthy,37.3,High,283.7,No,Moderate,69+,6
+1184,32,Male,Former,16,8,Human Body,Damaged,24.2,High,278.5,No,Moderate,29–38,2
+1213,85,Male,Former,2,6,Lungs,Healthy,39.0,High,161.4,Yes,Moderate,69+,6
+1219,39,Male,Former,6,1,Liver,Healthy,28.2,High,149.1,Yes,Moderate,39–48,3
+1227,80,Male,Current,35,24,Human Body,Damaged,32.4,High,236.4,Yes,Moderate,69+,6
+1266,29,Male,Current,22,7,Human Body,Healthy,30.5,High,167.9,No,Moderate,29–38,2
+1286,80,Female,Former,17,3,Heart,Healthy,33.3,High,287.7,No,Moderate,69+,6
+1315,88,Female,Current,5,10,Heart,Healthy,35.2,High,229.9,No,Moderate,69+,6
+1371,79,Male,Current,5,21,Lungs,Healthy,29.4,High,181.3,No,Moderate,69+,6
+1396,30,Female,Former,18,14,Lungs,Healthy,39.5,High,255.6,No,Moderate,29–38,2
+1399,78,Male,Current,30,14,Lungs,Healthy,19.6,High,219.1,No,Moderate,69+,6
+1432,60,Female,Former,16,8,Lungs,Damaged,34.0,High,221.5,No,Moderate,59–68,5
+1438,64,Male,Former,10,6,Heart,Damaged,36.2,High,260.3,No,Moderate,59–68,5
+1470,40,Male,Former,14,7,Kidney,Damaged,36.7,High,148.4,No,Moderate,39–48,3
+1501,71,Female,Former,6,3,Kidney,Damaged,21.9,High,199.5,No,Moderate,69+,6
+1524,52,Male,Current,20,23,Liver,Healthy,42.0,High,293.1,No,Moderate,49–58,4
+1525,50,Male,Current,38,10,Liver,Damaged,23.5,High,168.9,Yes,Moderate,49–58,4
+1548,72,Male,Current,17,20,Lungs,Healthy,39.7,High,221.4,Yes,Moderate,69+,6
+1614,42,Female,Former,13,5,Kidney,Damaged,17.4,High,160.8,No,Moderate,39–48,3
+1647,77,Female,Former,13,12,Kidney,Damaged,27.2,High,148.5,Yes,Moderate,69+,6
+1662,73,Male,Former,3,4,Liver,Healthy,33.0,High,192.5,No,Moderate,69+,6
+1671,37,Male,Current,15,15,Human Body,Damaged,24.9,High,151.6,No,Moderate,29–38,2
+1683,20,Male,Former,16,1,Lungs,Damaged,29.9,High,256.3,No,Moderate,18–28,1
+1755,51,Male,Former,12,14,Kidney,Healthy,35.1,High,279.1,No,Moderate,49–58,4
+1758,59,Male,Former,6,2,Kidney,Damaged,18.0,High,217.4,No,Moderate,59–68,5
+1759,85,Female,Current,18,28,Kidney,Damaged,36.6,High,286.9,No,Moderate,69+,6
+1792,28,Female,Former,6,12,Human Body,Healthy,34.4,High,232.6,Yes,Moderate,18–28,1
+1795,57,Male,Current,10,24,Lungs,Damaged,23.7,High,129.9,No,Moderate,49–58,4
+1796,48,Male,Former,19,9,Lungs,Healthy,26.9,High,255.9,No,Moderate,39–48,3
+1837,55,Female,Former,12,3,Human Body,Healthy,41.0,High,157.5,No,Moderate,49–58,4
+1861,35,Male,Former,13,9,Heart,Damaged,19.8,High,257.0,Yes,Moderate,29–38,2
+1864,46,Female,Former,11,2,Liver,Damaged,19.3,High,217.8,No,Moderate,39–48,3
+1901,46,Male,Current,38,20,Liver,Damaged,33.2,High,190.3,No,Moderate,39–48,3
+1912,51,Male,Former,11,6,Kidney,Healthy,41.9,High,193.6,No,Moderate,49–58,4
+1950,18,Female,Current,29,20,Kidney,Healthy,23.1,High,284.6,No,Moderate,18–28,1
+1980,86,Male,Former,3,13,Heart,Damaged,25.6,High,132.9,No,Moderate,69+,6
+1993,21,Male,Current,33,12,Liver,Damaged,23.7,High,163.0,No,Moderate,18–28,1
+2040,39,Female,Current,7,23,Kidney,Healthy,39.1,High,135.6,Yes,Moderate,39–48,3
+2049,40,Female,Current,12,9,Kidney,Damaged,29.1,High,177.2,No,Moderate,39–48,3
+2127,46,Male,Former,13,5,Lungs,Healthy,23.7,High,121.8,Yes,Moderate,39–48,3
+2130,22,Female,Current,8,18,Human Body,Healthy,38.9,High,229.9,No,Moderate,18–28,1
+2149,48,Female,Current,30,25,Liver,Damaged,17.1,High,167.2,No,Moderate,39–48,3
+2186,44,Female,Former,3,13,Liver,Damaged,36.8,High,146.8,No,Moderate,39–48,3
+2199,77,Male,Former,2,5,Heart,Damaged,31.2,High,296.5,No,Moderate,69+,6
+2201,79,Male,Current,39,18,Heart,Healthy,36.9,High,130.0,No,Moderate,69+,6
+2220,22,Male,Former,5,4,Kidney,Damaged,39.0,High,130.6,No,Moderate,18–28,1
+2221,34,Female,Current,17,24,Kidney,Healthy,25.8,High,275.4,No,Moderate,29–38,2
+2223,27,Male,Current,5,20,Lungs,Damaged,34.7,High,135.3,No,Moderate,18–28,1
+2226,62,Female,Current,22,17,Liver,Healthy,24.4,High,242.5,No,Moderate,59–68,5
+2237,70,Male,Current,23,17,Kidney,Healthy,21.4,High,158.4,Yes,Moderate,69+,6
+2259,35,Female,Former,1,10,Lungs,Healthy,31.5,High,170.0,No,Moderate,29–38,2
+2287,59,Male,Former,2,13,Human Body,Damaged,35.1,High,244.8,No,Moderate,59–68,5
+2299,49,Female,Former,5,10,Kidney,Healthy,38.1,High,256.0,Yes,Moderate,49–58,4
+2328,68,Female,Current,18,7,Kidney,Damaged,27.5,High,166.2,No,Moderate,59–68,5
+2424,72,Female,Current,24,20,Heart,Healthy,30.2,High,184.6,No,Moderate,69+,6
+2432,26,Male,Former,18,14,Kidney,Healthy,36.7,High,246.5,Yes,Moderate,18–28,1
+2436,79,Male,Current,7,14,Liver,Healthy,35.9,High,245.2,Yes,Moderate,69+,6
+2449,89,Female,Current,27,9,Human Body,Healthy,32.9,High,183.6,Yes,Moderate,69+,6
+2466,31,Female,Former,6,10,Human Body,Healthy,38.1,High,204.8,No,Moderate,29–38,2
+2467,33,Female,Current,35,22,Heart,Damaged,26.3,High,263.5,No,Moderate,29–38,2
+2476,89,Female,Former,19,5,Heart,Damaged,33.8,High,272.0,Yes,Moderate,69+,6
+30,59,Female,Former,17,4,Heart,Healthy,30.1,High,158.8,No,Low,59–68,5
+42,86,Male,Former,15,5,Kidney,Healthy,33.8,High,262.5,No,Low,69+,6
+63,43,Female,Former,2,13,Heart,Healthy,34.8,High,212.1,No,Low,39–48,3
+109,42,Male,Former,13,2,Kidney,Healthy,27.0,High,161.5,No,Low,39–48,3
+149,21,Female,Former,6,14,Heart,Damaged,36.1,High,198.4,No,Low,18–28,1
+168,47,Female,Former,13,3,Lungs,Damaged,37.1,High,174.8,Yes,Low,39–48,3
+170,71,Female,Former,1,14,Liver,Healthy,40.8,High,239.9,Yes,Low,69+,6
+199,36,Female,Former,13,3,Heart,Healthy,38.8,High,153.5,No,Low,29–38,2
+212,87,Female,Former,10,12,Lungs,Healthy,38.4,High,169.8,No,Low,69+,6
+251,34,Male,Former,12,6,Heart,Healthy,19.3,High,208.5,No,Low,29–38,2
+262,76,Male,Former,4,13,Lungs,Healthy,21.0,High,268.3,No,Low,69+,6
+268,88,Male,Former,16,2,Liver,Healthy,37.6,High,158.2,No,Low,69+,6
+272,77,Female,Former,11,9,Human Body,Healthy,36.3,High,213.8,No,Low,69+,6
+530,77,Female,Former,10,6,Heart,Healthy,20.1,High,234.5,No,Low,69+,6
+595,65,Female,Former,5,13,Heart,Healthy,41.9,High,272.2,No,Low,59–68,5
+642,44,Female,Former,17,10,Kidney,Damaged,34.1,High,156.6,No,Low,39–48,3
+663,87,Female,Former,10,11,Kidney,Healthy,38.7,High,164.6,Yes,Low,69+,6
+692,46,Female,Former,9,3,Kidney,Healthy,29.3,High,265.2,Yes,Low,39–48,3
+700,73,Male,Former,6,14,Kidney,Healthy,35.7,High,258.8,Yes,Low,69+,6
+712,28,Male,Former,13,8,Lungs,Healthy,19.3,High,244.1,Yes,Low,18–28,1
+747,52,Female,Former,18,1,Liver,Healthy,37.4,High,213.7,No,Low,49–58,4
+768,33,Male,Former,10,9,Lungs,Healthy,22.3,High,235.2,Yes,Low,29–38,2
+793,44,Male,Former,16,1,Heart,Healthy,29.3,High,247.1,No,Low,39–48,3
+818,85,Male,Former,5,11,Human Body,Damaged,27.1,High,194.8,No,Low,69+,6
+822,25,Male,Former,6,1,Heart,Healthy,18.4,High,173.0,Yes,Low,18–28,1
+846,58,Male,Former,8,11,Liver,Healthy,32.8,High,195.4,No,Low,49–58,4
+847,71,Male,Former,13,1,Liver,Healthy,38.6,High,164.4,No,Low,69+,6
+854,20,Female,Former,7,1,Heart,Healthy,24.0,High,147.6,No,Low,18–28,1
+864,73,Male,Former,15,11,Lungs,Damaged,27.5,High,298.8,Yes,Low,69+,6
+870,27,Male,Former,8,14,Liver,Healthy,23.3,High,290.5,Yes,Low,18–28,1
+881,23,Male,Former,12,7,Lungs,Healthy,24.0,High,183.2,No,Low,18–28,1
+896,55,Male,Former,16,9,Human Body,Healthy,31.8,High,184.2,Yes,Low,49–58,4
+951,21,Female,Former,4,1,Lungs,Damaged,40.9,High,283.7,No,Low,18–28,1
+952,77,Female,Former,8,14,Heart,Damaged,41.5,High,170.4,Yes,Low,69+,6
+996,89,Male,Former,17,6,Human Body,Healthy,23.6,High,186.1,No,Low,69+,6
+1000,78,Male,Former,15,10,Liver,Damaged,41.4,High,258.6,No,Low,69+,6
+1050,59,Male,Former,8,10,Lungs,Healthy,17.6,High,228.0,No,Low,59–68,5
+1065,86,Male,Former,18,11,Lungs,Healthy,25.0,High,209.4,No,Low,69+,6
+1095,66,Female,Former,11,7,Heart,Damaged,25.8,High,296.7,No,Low,59–68,5
+1096,18,Male,Former,11,3,Liver,Damaged,30.9,High,176.7,No,Low,18–28,1
+1107,70,Male,Former,18,9,Lungs,Healthy,23.7,High,186.3,Yes,Low,69+,6
+1140,20,Male,Former,15,10,Kidney,Healthy,39.1,High,196.4,No,Low,18–28,1
+1142,29,Male,Former,9,11,Heart,Damaged,23.5,High,215.4,No,Low,29–38,2
+1147,72,Female,Former,17,5,Heart,Healthy,22.4,High,198.0,No,Low,69+,6
+1156,89,Female,Former,18,5,Liver,Healthy,23.3,High,197.8,No,Low,69+,6
+1200,86,Male,Former,9,10,Heart,Healthy,40.2,High,160.5,No,Low,69+,6
+1209,52,Female,Former,19,5,Liver,Healthy,21.4,High,253.7,No,Low,49–58,4
+1253,78,Male,Former,1,6,Heart,Damaged,23.8,High,269.1,No,Low,69+,6
+1272,68,Male,Former,10,6,Human Body,Healthy,19.1,High,230.3,Yes,Low,59–68,5
+1274,36,Female,Former,2,9,Kidney,Healthy,35.4,High,135.0,Yes,Low,29–38,2
+1294,61,Female,Former,5,6,Liver,Damaged,34.6,High,242.7,Yes,Low,59–68,5
+1331,64,Female,Former,17,13,Kidney,Healthy,40.2,High,212.3,No,Low,59–68,5
+1338,35,Male,Former,4,2,Lungs,Healthy,39.5,High,234.2,No,Low,29–38,2
+1350,80,Female,Former,1,12,Heart,Healthy,27.9,High,150.1,Yes,Low,69+,6
+1495,83,Female,Former,14,14,Liver,Damaged,39.8,High,243.8,No,Low,69+,6
+1589,33,Female,Former,8,10,Lungs,Healthy,32.7,High,263.5,No,Low,29–38,2
+1601,59,Female,Former,9,5,Heart,Healthy,39.3,High,293.7,No,Low,59–68,5
+1649,28,Female,Former,14,7,Liver,Healthy,30.1,High,254.9,No,Low,18–28,1
+1692,37,Male,Former,17,4,Lungs,Healthy,40.4,High,171.4,Yes,Low,29–38,2
+1699,68,Male,Former,12,3,Heart,Damaged,34.4,High,149.8,No,Low,59–68,5
+1711,20,Male,Former,5,13,Heart,Damaged,24.5,High,288.1,No,Low,18–28,1
+1723,54,Male,Former,7,1,Human Body,Damaged,37.8,High,145.9,No,Low,49–58,4
+1787,74,Female,Former,11,6,Human Body,Damaged,34.9,High,121.7,No,Low,69+,6
+1826,38,Female,Former,12,5,Heart,Healthy,35.3,High,261.2,Yes,Low,29–38,2
+1838,26,Male,Former,16,1,Human Body,Healthy,24.5,High,241.1,No,Low,18–28,1
+1887,56,Male,Former,8,8,Lungs,Healthy,26.6,High,148.9,No,Low,49–58,4
+1905,57,Male,Former,4,6,Kidney,Damaged,31.1,High,124.6,No,Low,49–58,4
+1909,76,Female,Former,16,1,Lungs,Healthy,19.5,High,211.2,No,Low,69+,6
+1944,50,Male,Former,9,13,Heart,Healthy,26.1,High,150.7,Yes,Low,49–58,4
+1946,54,Male,Former,1,3,Kidney,Healthy,41.5,High,130.8,No,Low,49–58,4
+1949,69,Female,Former,13,2,Kidney,Healthy,24.0,High,152.2,No,Low,69+,6
+2107,34,Male,Former,9,13,Liver,Healthy,39.8,High,175.0,No,Low,29–38,2
+2126,74,Male,Former,3,5,Heart,Healthy,34.8,High,216.7,No,Low,69+,6
+2129,36,Male,Former,8,6,Heart,Healthy,29.6,High,267.5,No,Low,29–38,2
+2140,31,Male,Former,2,12,Heart,Healthy,31.3,High,256.7,No,Low,29–38,2
+2205,57,Female,Former,15,7,Liver,Damaged,23.9,High,273.8,No,Low,49–58,4
+2275,49,Male,Former,15,12,Heart,Damaged,39.1,High,290.2,No,Low,49–58,4
+2303,70,Male,Former,18,9,Heart,Healthy,18.9,High,261.8,No,Low,69+,6
+2354,77,Female,Former,3,11,Lungs,Damaged,28.2,High,174.4,No,Low,69+,6
+2369,87,Female,Former,3,13,Liver,Damaged,33.6,High,199.5,Yes,Low,69+,6
+2396,30,Male,Former,17,10,Human Body,Damaged,24.7,High,228.9,No,Low,29–38,2
+2400,49,Male,Former,4,2,Heart,Healthy,21.6,High,165.9,Yes,Low,49–58,4
+2412,54,Male,Former,8,11,Lungs,Healthy,30.5,High,183.0,No,Low,49–58,4
+2430,47,Male,Former,5,5,Liver,Healthy,20.9,High,177.0,No,Low,39–48,3
+2442,72,Male,Former,17,3,Lungs,Damaged,35.3,High,229.0,Yes,Low,69+,6
+2448,32,Male,Former,15,2,Human Body,Healthy,38.5,High,159.6,No,Low,29–38,2
+2474,61,Female,Former,5,4,Liver,Healthy,34.5,High,133.3,Yes,Low,59–68,5
+8,50,Male,Current,39,7,Liver,Damaged,33.3,High,273.0,No,Low,49–58,4
+21,89,Female,Current,37,28,Kidney,Healthy,26.3,High,295.3,Yes,Low,69+,6
+32,79,Male,Current,30,9,Human Body,Damaged,18.5,High,199.6,Yes,Low,69+,6
+77,83,Female,Current,37,8,Liver,Damaged,25.6,High,139.9,No,Low,69+,6
+98,50,Female,Current,9,28,Kidney,Healthy,21.1,High,272.4,No,Low,49–58,4
+102,33,Male,Current,36,14,Human Body,Healthy,31.2,High,126.1,No,Low,29–38,2
+147,63,Female,Current,16,12,Human Body,Healthy,40.5,High,240.1,No,Low,59–68,5
+153,32,Male,Current,20,19,Kidney,Damaged,18.5,High,183.3,Yes,Low,29–38,2
+286,88,Male,Current,5,29,Heart,Healthy,35.9,High,291.2,No,Low,69+,6
+315,55,Male,Current,14,22,Heart,Healthy,24.1,High,191.5,No,Low,49–58,4
+331,39,Female,Current,6,12,Kidney,Healthy,35.6,High,218.2,No,Low,39–48,3
+342,52,Male,Current,14,7,Liver,Healthy,41.0,High,272.9,No,Low,49–58,4
+396,65,Female,Current,29,18,Lungs,Healthy,17.6,High,295.4,Yes,Low,59–68,5
+417,46,Female,Current,39,9,Human Body,Healthy,33.7,High,160.6,No,Low,39–48,3
+457,25,Male,Current,14,13,Human Body,Healthy,17.0,High,124.4,Yes,Low,18–28,1
+482,76,Male,Current,21,29,Kidney,Healthy,29.6,High,291.5,No,Low,69+,6
+604,33,Female,Current,28,22,Kidney,Healthy,38.3,High,137.9,Yes,Low,29–38,2
+614,47,Male,Current,24,26,Kidney,Healthy,42.0,High,261.6,No,Low,39–48,3
+638,72,Male,Current,16,11,Lungs,Healthy,28.2,High,285.5,No,Low,69+,6
+664,89,Male,Current,28,29,Liver,Damaged,36.5,High,295.1,Yes,Low,69+,6
+691,72,Female,Current,5,13,Heart,Damaged,17.1,High,139.1,No,Low,69+,6
+702,20,Female,Current,5,26,Kidney,Healthy,33.7,High,182.2,No,Low,18–28,1
+707,38,Male,Current,29,16,Heart,Healthy,20.8,High,189.0,No,Low,29–38,2
+726,21,Male,Current,28,13,Lungs,Healthy,18.8,High,171.2,No,Low,18–28,1
+730,64,Male,Current,26,9,Lungs,Healthy,28.1,High,142.7,Yes,Low,59–68,5
+751,46,Male,Current,37,5,Human Body,Healthy,34.5,High,145.2,No,Low,39–48,3
+767,62,Male,Current,31,8,Lungs,Damaged,37.9,High,286.0,Yes,Low,59–68,5
+770,47,Male,Current,9,9,Human Body,Healthy,35.2,High,194.7,No,Low,39–48,3
+836,75,Female,Current,30,17,Heart,Healthy,24.5,High,254.4,No,Low,69+,6
+858,86,Female,Current,28,24,Heart,Healthy,25.4,High,264.5,No,Low,69+,6
+860,59,Female,Current,11,25,Liver,Healthy,22.1,High,199.9,Yes,Low,59–68,5
+885,84,Male,Current,11,20,Liver,Healthy,24.5,High,246.5,Yes,Low,69+,6
+891,64,Male,Current,15,19,Liver,Damaged,40.3,High,284.5,No,Low,59–68,5
+902,28,Male,Current,20,14,Kidney,Damaged,26.4,High,267.2,No,Low,18–28,1
+905,74,Male,Current,18,21,Human Body,Damaged,19.3,High,231.0,No,Low,69+,6
+950,33,Male,Current,26,26,Kidney,Healthy,33.8,High,174.9,No,Low,29–38,2
+961,38,Female,Current,35,16,Heart,Healthy,32.5,High,209.3,No,Low,29–38,2
+1013,80,Male,Current,37,14,Human Body,Healthy,21.2,High,231.2,No,Low,69+,6
+1033,83,Male,Current,7,10,Human Body,Damaged,22.9,High,175.7,No,Low,69+,6
+1058,65,Female,Current,32,18,Kidney,Healthy,26.5,High,121.8,No,Low,59–68,5
+1071,66,Female,Current,38,7,Lungs,Healthy,24.2,High,257.2,No,Low,59–68,5
+1121,86,Male,Current,22,18,Heart,Healthy,20.0,High,299.6,Yes,Low,69+,6
+1132,69,Male,Current,22,7,Liver,Healthy,36.3,High,122.4,No,Low,69+,6
+1133,63,Female,Current,7,21,Heart,Healthy,34.2,High,181.2,No,Low,59–68,5
+1182,54,Male,Current,25,17,Lungs,Healthy,23.1,High,155.8,No,Low,49–58,4
+1196,61,Male,Current,25,28,Kidney,Healthy,23.4,High,137.1,No,Low,59–68,5
+1204,63,Female,Current,18,7,Heart,Healthy,41.6,High,148.8,Yes,Low,59–68,5
+1235,74,Female,Current,23,26,Lungs,Healthy,22.3,High,259.3,Yes,Low,69+,6
+1276,86,Male,Current,39,27,Kidney,Damaged,26.3,High,158.4,No,Low,69+,6
+1282,78,Male,Current,27,8,Heart,Healthy,36.8,High,196.9,No,Low,69+,6
+1299,52,Female,Current,19,24,Heart,Damaged,19.8,High,288.3,Yes,Low,49–58,4
+1314,51,Female,Current,30,12,Liver,Damaged,41.9,High,120.8,No,Low,49–58,4
+1343,86,Female,Current,17,16,Heart,Damaged,38.7,High,182.4,No,Low,69+,6
+1393,86,Female,Current,39,13,Kidney,Healthy,26.5,High,158.3,Yes,Low,69+,6
+1425,53,Female,Current,23,14,Heart,Healthy,21.4,High,279.9,No,Low,49–58,4
+1476,81,Female,Current,23,19,Heart,Healthy,29.3,High,174.3,Yes,Low,69+,6
+1552,66,Male,Current,22,16,Heart,Healthy,24.3,High,280.9,No,Low,59–68,5
+1557,77,Female,Current,14,5,Heart,Damaged,39.4,High,283.4,No,Low,69+,6
+1570,73,Female,Current,17,7,Human Body,Healthy,30.7,High,168.5,No,Low,69+,6
+1579,20,Female,Current,34,28,Kidney,Healthy,17.8,High,137.8,No,Low,18–28,1
+1646,41,Male,Current,13,17,Heart,Damaged,35.1,High,159.6,No,Low,39–48,3
+1659,39,Male,Current,28,15,Lungs,Damaged,35.3,High,149.5,Yes,Low,39–48,3
+1701,52,Female,Current,11,5,Lungs,Healthy,19.2,High,237.2,No,Low,49–58,4
+1751,50,Male,Current,38,22,Heart,Healthy,27.7,High,136.0,No,Low,49–58,4
+1811,31,Male,Current,24,7,Heart,Healthy,23.6,High,290.3,No,Low,29–38,2
+1836,61,Male,Current,30,10,Liver,Healthy,35.4,High,161.5,Yes,Low,59–68,5
+1874,70,Male,Current,23,9,Liver,Damaged,37.0,High,265.2,Yes,Low,69+,6
+1926,77,Female,Current,34,5,Liver,Healthy,25.9,High,126.8,Yes,Low,69+,6
+1931,88,Male,Current,11,6,Human Body,Healthy,37.8,High,288.3,Yes,Low,69+,6
+1943,22,Female,Current,22,7,Liver,Damaged,38.4,High,270.2,Yes,Low,18–28,1
+1958,35,Male,Current,33,9,Kidney,Damaged,28.4,High,154.7,No,Low,29–38,2
+2010,31,Male,Current,32,10,Heart,Healthy,31.9,High,154.7,No,Low,29–38,2
+2018,48,Female,Current,33,5,Lungs,Healthy,20.3,High,124.2,No,Low,39–48,3
+2033,23,Male,Current,35,5,Human Body,Healthy,26.6,High,163.9,Yes,Low,18–28,1
+2035,48,Female,Current,22,28,Lungs,Healthy,19.8,High,215.4,Yes,Low,39–48,3
+2110,45,Female,Current,9,15,Human Body,Healthy,30.4,High,122.8,No,Low,39–48,3
+2248,76,Male,Current,12,6,Lungs,Damaged,34.8,High,282.8,No,Low,69+,6
+2249,80,Male,Current,22,16,Liver,Damaged,41.4,High,178.6,No,Low,69+,6
+2293,88,Female,Current,25,7,Heart,Damaged,20.3,High,141.4,No,Low,69+,6
+2324,60,Female,Current,32,24,Human Body,Healthy,29.1,High,178.1,No,Low,59–68,5
+2339,18,Male,Current,34,8,Heart,Damaged,39.4,High,147.8,No,Low,18–28,1
+2349,60,Female,Current,8,21,Kidney,Healthy,26.8,High,174.0,No,Low,59–68,5
+2353,61,Male,Current,24,7,Human Body,Damaged,21.9,High,198.7,No,Low,59–68,5
+2372,20,Male,Current,13,27,Liver,Damaged,40.2,High,240.7,No,Low,18–28,1
+2389,58,Female,Current,27,23,Liver,Healthy,25.1,High,135.4,No,Low,49–58,4
+2408,84,Female,Current,17,10,Lungs,Healthy,17.0,High,260.0,No,Low,69+,6
+2417,44,Female,Current,31,20,Lungs,Healthy,41.1,High,150.0,No,Low,39–48,3
+2425,33,Male,Current,24,6,Lungs,Damaged,19.1,High,139.2,No,Low,29–38,2
+2438,46,Female,Current,24,21,Heart,Healthy,27.8,High,201.1,Yes,Low,39–48,3
+2486,28,Male,Current,25,24,Human Body,Healthy,26.3,High,138.9,No,Low,18–28,1
+2495,65,Female,Current,35,29,Human Body,Damaged,31.6,High,209.0,Yes,Low,59–68,5
+16,18,Male,Former,5,1,Lungs,Healthy,28.2,Normal,226.7,Yes,Low,18–28,1
+19,18,Male,Former,7,2,Kidney,Damaged,22.2,Normal,245.2,Yes,Low,18–28,1
+128,58,Female,Former,1,12,Heart,Healthy,19.6,Normal,297.6,Yes,Low,49–58,4
+151,83,Female,Former,8,14,Human Body,Healthy,38.6,Normal,206.3,Yes,Low,69+,6
+162,22,Female,Former,2,12,Heart,Healthy,23.8,Normal,242.4,Yes,Low,18–28,1
+180,77,Male,Former,17,1,Liver,Healthy,35.4,Normal,242.4,Yes,Low,69+,6
+194,74,Male,Former,4,12,Kidney,Healthy,38.9,Normal,250.2,Yes,Low,69+,6
+232,79,Female,Former,17,14,Heart,Damaged,24.1,Normal,198.9,Yes,Low,69+,6
+253,65,Male,Former,13,3,Human Body,Healthy,17.1,Normal,173.7,Yes,Low,59–68,5
+259,30,Female,Former,2,2,Kidney,Damaged,27.0,Normal,147.4,Yes,Low,29–38,2
+284,54,Female,Former,12,9,Kidney,Healthy,40.2,Normal,234.2,Yes,Low,49–58,4
+294,30,Male,Former,9,5,Lungs,Healthy,25.1,Normal,267.0,Yes,Low,29–38,2
+357,79,Male,Former,16,12,Human Body,Healthy,41.6,Normal,248.7,Yes,Low,69+,6
+420,56,Female,Former,13,4,Heart,Healthy,35.3,Normal,153.6,Yes,Low,49–58,4
+441,35,Female,Former,11,9,Liver,Healthy,24.1,Normal,150.6,Yes,Low,29–38,2
+481,68,Male,Former,5,1,Heart,Damaged,20.5,Normal,206.9,Yes,Low,59–68,5
+487,27,Male,Former,6,7,Lungs,Healthy,37.4,Normal,143.8,Yes,Low,18–28,1
+518,57,Male,Former,5,7,Heart,Healthy,36.2,Normal,221.8,Yes,Low,49–58,4
+523,67,Male,Former,9,13,Kidney,Healthy,18.5,Normal,205.4,Yes,Low,59–68,5
+545,68,Male,Former,3,3,Liver,Healthy,25.7,Normal,218.1,Yes,Low,59–68,5
+555,76,Male,Former,13,9,Kidney,Damaged,37.7,Normal,133.6,Yes,Low,69+,6
+557,21,Female,Former,19,7,Heart,Damaged,32.1,Normal,299.7,Yes,Low,18–28,1
+572,49,Female,Former,9,7,Kidney,Healthy,40.6,Normal,174.3,Yes,Low,49–58,4
+650,34,Female,Former,4,5,Kidney,Healthy,31.8,Normal,232.1,Yes,Low,29–38,2
+690,58,Male,Former,13,3,Liver,Healthy,25.2,Normal,206.1,Yes,Low,49–58,4
+713,87,Female,Former,18,6,Kidney,Healthy,41.0,Normal,167.1,Yes,Low,69+,6
+732,74,Male,Former,9,14,Human Body,Damaged,38.1,Normal,134.0,Yes,Low,69+,6
+744,71,Female,Former,12,7,Liver,Healthy,29.8,Normal,179.9,Yes,Low,69+,6
+832,65,Female,Former,9,4,Heart,Healthy,20.5,Normal,152.3,Yes,Low,59–68,5
+890,31,Male,Former,14,11,Heart,Healthy,34.3,Normal,248.9,Yes,Low,29–38,2
+976,27,Female,Former,16,14,Liver,Healthy,22.4,Normal,195.9,Yes,Low,18–28,1
+980,54,Female,Former,9,7,Kidney,Healthy,36.5,Normal,297.3,Yes,Low,49–58,4
+983,54,Female,Former,14,7,Human Body,Damaged,40.4,Normal,258.3,Yes,Low,49–58,4
+1006,25,Female,Former,8,7,Lungs,Healthy,34.6,Normal,224.3,Yes,Low,18–28,1
+1012,32,Male,Former,15,8,Human Body,Healthy,35.9,Normal,159.8,Yes,Low,29–38,2
+1057,26,Male,Former,9,9,Liver,Damaged,31.8,Normal,272.2,Yes,Low,18–28,1
+1066,27,Male,Former,14,10,Liver,Healthy,34.8,Normal,237.3,Yes,Low,18–28,1
+1077,87,Female,Former,1,5,Lungs,Healthy,28.8,Normal,198.1,Yes,Low,69+,6
+1105,56,Male,Former,9,2,Human Body,Healthy,26.7,Normal,150.0,Yes,Low,49–58,4
+1148,30,Female,Former,7,12,Human Body,Healthy,26.7,Normal,223.8,Yes,Low,29–38,2
+1193,86,Female,Former,7,13,Lungs,Healthy,19.3,Normal,136.4,Yes,Low,69+,6
+1260,74,Male,Former,18,10,Kidney,Healthy,28.7,Normal,189.3,Yes,Low,69+,6
+1408,76,Female,Former,8,13,Heart,Healthy,37.0,Normal,218.2,Yes,Low,69+,6
+1499,45,Female,Former,8,14,Lungs,Healthy,22.1,Normal,253.4,Yes,Low,39–48,3
+1505,66,Female,Former,6,8,Human Body,Damaged,41.3,Normal,244.8,Yes,Low,59–68,5
+1664,62,Female,Former,3,6,Human Body,Damaged,33.8,Normal,260.3,Yes,Low,59–68,5
+1786,68,Female,Former,3,1,Kidney,Healthy,26.0,Normal,162.1,Yes,Low,59–68,5
+1862,33,Male,Former,11,5,Heart,Healthy,19.2,Normal,260.7,Yes,Low,29–38,2
+1892,78,Male,Former,12,3,Human Body,Healthy,40.7,Normal,266.9,Yes,Low,69+,6
+1903,31,Male,Former,4,7,Lungs,Healthy,17.2,Normal,195.5,Yes,Low,29–38,2
+2056,67,Male,Former,12,2,Liver,Damaged,27.1,Normal,138.3,Yes,Low,59–68,5
+2062,82,Male,Former,17,12,Liver,Healthy,23.4,Normal,267.2,Yes,Low,69+,6
+2184,21,Female,Former,5,11,Human Body,Damaged,26.7,Normal,170.1,Yes,Low,18–28,1
+2311,41,Female,Former,13,5,Kidney,Damaged,29.0,Normal,218.2,Yes,Low,39–48,3
+2327,34,Male,Former,10,12,Kidney,Healthy,35.7,Normal,217.3,Yes,Low,29–38,2
+2362,28,Male,Former,1,3,Lungs,Damaged,30.6,Normal,154.5,Yes,Low,18–28,1
+2490,70,Female,Former,11,1,Heart,Healthy,37.3,Normal,246.2,Yes,Low,69+,6
+2,47,Female,Former,2,8,Lungs,Healthy,21.6,Normal,214.5,No,Low,39–48,3
+3,77,Female,Former,10,12,Heart,Healthy,41.6,Normal,274.8,No,Low,69+,6
+49,71,Female,Former,1,5,Heart,Damaged,18.1,Normal,291.1,No,Low,69+,6
+50,53,Female,Former,8,10,Lungs,Healthy,23.6,Normal,166.8,No,Low,49–58,4
+55,20,Male,Former,2,6,Lungs,Damaged,30.8,Normal,277.8,No,Low,18–28,1
+70,31,Female,Former,1,10,Liver,Healthy,40.3,Normal,226.9,No,Low,29–38,2
+91,36,Female,Former,1,7,Liver,Damaged,33.1,Normal,283.9,No,Low,29–38,2
+127,81,Male,Former,8,11,Human Body,Healthy,18.8,Normal,206.4,No,Low,69+,6
+134,35,Male,Former,18,6,Liver,Damaged,41.4,Normal,155.9,No,Low,29–38,2
+142,61,Female,Former,17,8,Kidney,Damaged,31.0,Normal,126.2,No,Low,59–68,5
+150,88,Male,Former,15,1,Liver,Healthy,30.7,Normal,218.2,No,Low,69+,6
+171,62,Female,Former,15,4,Kidney,Damaged,27.8,Normal,211.1,No,Low,59–68,5
+205,67,Male,Former,9,1,Kidney,Healthy,19.2,Normal,218.1,No,Low,59–68,5
+218,34,Male,Former,16,6,Kidney,Healthy,41.5,Normal,142.7,No,Low,29–38,2
+224,31,Female,Former,19,4,Liver,Healthy,19.4,Normal,122.2,No,Low,29–38,2
+258,51,Male,Former,13,13,Liver,Healthy,38.7,Normal,140.3,No,Low,49–58,4
+278,64,Female,Former,1,1,Kidney,Healthy,18.5,Normal,244.2,No,Low,59–68,5
+283,25,Male,Former,2,2,Lungs,Healthy,35.0,Normal,235.3,No,Low,18–28,1
+291,44,Female,Former,15,8,Liver,Damaged,36.3,Normal,268.5,No,Low,39–48,3
+320,86,Male,Former,3,4,Kidney,Damaged,28.1,Normal,165.9,No,Low,69+,6
+336,79,Female,Former,4,10,Kidney,Healthy,34.9,Normal,156.4,No,Low,69+,6
+345,72,Female,Former,11,14,Liver,Healthy,28.7,Normal,208.9,No,Low,69+,6
+349,83,Male,Former,13,13,Human Body,Healthy,40.0,Normal,226.7,No,Low,69+,6
+392,23,Female,Former,5,10,Heart,Healthy,37.7,Normal,245.4,No,Low,18–28,1
+405,49,Female,Former,19,5,Heart,Healthy,27.7,Normal,221.6,No,Low,49–58,4
+426,53,Female,Former,19,1,Heart,Damaged,41.9,Normal,183.9,No,Low,49–58,4
+501,35,Female,Former,4,6,Kidney,Damaged,31.9,Normal,205.2,No,Low,29–38,2
+509,89,Male,Former,10,8,Liver,Healthy,28.4,Normal,260.9,No,Low,69+,6
+516,57,Female,Former,16,7,Kidney,Damaged,21.0,Normal,154.6,No,Low,49–58,4
+585,77,Female,Former,6,11,Human Body,Damaged,27.3,Normal,233.4,No,Low,69+,6
+609,28,Male,Former,4,10,Lungs,Healthy,28.2,Normal,244.1,No,Low,18–28,1
+612,71,Male,Former,14,10,Lungs,Healthy,21.7,Normal,168.2,No,Low,69+,6
+620,29,Male,Former,3,12,Lungs,Healthy,31.8,Normal,140.9,No,Low,29–38,2
+651,65,Male,Former,18,4,Human Body,Healthy,18.6,Normal,162.9,No,Low,59–68,5
+682,27,Female,Former,7,13,Kidney,Healthy,24.9,Normal,171.4,No,Low,18–28,1
+689,88,Female,Former,8,11,Human Body,Damaged,18.9,Normal,174.6,No,Low,69+,6
+696,56,Female,Former,6,10,Lungs,Healthy,40.7,Normal,177.1,No,Low,49–58,4
+711,80,Female,Former,1,4,Human Body,Healthy,35.5,Normal,257.7,No,Low,69+,6
+719,55,Female,Former,9,5,Lungs,Healthy,34.5,Normal,129.4,No,Low,49–58,4
+806,38,Female,Former,10,12,Lungs,Healthy,25.4,Normal,201.8,No,Low,29–38,2
+814,20,Female,Former,6,10,Lungs,Healthy,28.0,Normal,266.9,No,Low,18–28,1
+819,87,Male,Former,5,10,Heart,Damaged,25.0,Normal,216.2,No,Low,69+,6
+856,68,Female,Former,5,13,Liver,Damaged,19.7,Normal,245.6,No,Low,59–68,5
+857,52,Male,Former,7,5,Heart,Damaged,30.5,Normal,144.5,No,Low,49–58,4
+867,32,Male,Former,19,10,Lungs,Damaged,27.6,Normal,167.7,No,Low,29–38,2
+879,45,Male,Former,5,6,Lungs,Healthy,26.6,Normal,195.2,No,Low,39–48,3
+901,47,Male,Former,1,6,Kidney,Healthy,34.3,Normal,243.7,No,Low,39–48,3
+906,85,Female,Former,19,3,Heart,Healthy,26.5,Normal,140.6,No,Low,69+,6
+919,59,Male,Former,12,11,Liver,Healthy,23.0,Normal,139.5,No,Low,59–68,5
+944,44,Female,Former,7,9,Human Body,Healthy,30.2,Normal,152.5,No,Low,39–48,3
+954,62,Female,Former,15,5,Kidney,Healthy,28.6,Normal,197.0,No,Low,59–68,5
+974,64,Male,Former,18,14,Human Body,Damaged,41.2,Normal,190.8,No,Low,59–68,5
+1007,43,Female,Former,2,13,Heart,Damaged,24.3,Normal,138.0,No,Low,39–48,3
+1019,33,Female,Former,8,12,Heart,Damaged,37.8,Normal,230.9,No,Low,29–38,2
+1075,61,Female,Former,19,6,Human Body,Healthy,23.5,Normal,177.8,No,Low,59–68,5
+1106,53,Male,Former,18,10,Liver,Healthy,19.7,Normal,169.0,No,Low,49–58,4
+1159,53,Male,Former,14,13,Liver,Damaged,25.0,Normal,266.1,No,Low,49–58,4
+1164,18,Female,Former,13,10,Heart,Damaged,17.6,Normal,214.8,No,Low,18–28,1
+1186,40,Male,Former,4,8,Lungs,Damaged,34.9,Normal,205.3,No,Low,39–48,3
+1221,73,Male,Former,3,3,Lungs,Healthy,29.3,Normal,138.3,No,Low,69+,6
+1256,38,Male,Former,8,12,Liver,Damaged,24.6,Normal,224.6,No,Low,29–38,2
+1262,38,Male,Former,1,4,Human Body,Damaged,33.1,Normal,250.1,No,Low,29–38,2
+1280,23,Male,Former,13,1,Liver,Healthy,21.9,Normal,169.6,No,Low,18–28,1
+1318,41,Male,Former,11,13,Liver,Damaged,35.9,Normal,173.5,No,Low,39–48,3
+1325,66,Male,Former,18,12,Liver,Healthy,20.7,Normal,250.6,No,Low,59–68,5
+1328,49,Male,Former,14,14,Lungs,Damaged,40.3,Normal,145.8,No,Low,49–58,4
+1367,45,Female,Former,2,1,Liver,Healthy,31.0,Normal,295.0,No,Low,39–48,3
+1370,51,Male,Former,2,11,Lungs,Healthy,24.1,Normal,120.1,No,Low,49–58,4
+1414,40,Female,Former,15,4,Lungs,Healthy,22.4,Normal,256.1,No,Low,39–48,3
+1416,32,Female,Former,11,5,Human Body,Damaged,17.2,Normal,138.7,No,Low,29–38,2
+1443,46,Male,Former,12,9,Liver,Healthy,32.7,Normal,231.8,No,Low,39–48,3
+1459,39,Male,Former,6,12,Human Body,Healthy,22.5,Normal,127.6,No,Low,39–48,3
+1475,86,Female,Former,7,7,Lungs,Healthy,27.8,Normal,238.1,No,Low,69+,6
+1488,27,Female,Former,16,5,Heart,Healthy,33.9,Normal,142.3,No,Low,18–28,1
+1494,25,Male,Former,5,7,Kidney,Healthy,40.4,Normal,143.0,No,Low,18–28,1
+1510,65,Female,Former,18,4,Heart,Healthy,25.6,Normal,235.1,No,Low,59–68,5
+1527,80,Male,Former,5,10,Kidney,Healthy,18.8,Normal,263.1,No,Low,69+,6
+1549,68,Female,Former,17,2,Kidney,Healthy,33.8,Normal,136.1,No,Low,59–68,5
+1564,37,Male,Former,3,5,Heart,Healthy,32.6,Normal,186.1,No,Low,29–38,2
+1565,61,Female,Former,14,12,Heart,Damaged,35.8,Normal,197.3,No,Low,59–68,5
+1575,62,Female,Former,18,5,Lungs,Healthy,27.1,Normal,285.2,No,Low,59–68,5
+1611,49,Female,Former,6,5,Lungs,Damaged,38.7,Normal,178.9,No,Low,49–58,4
+1615,27,Male,Former,1,13,Heart,Healthy,41.3,Normal,140.1,No,Low,18–28,1
+1626,22,Male,Former,15,9,Kidney,Healthy,38.3,Normal,227.7,No,Low,18–28,1
+1680,51,Male,Former,10,12,Heart,Healthy,39.7,Normal,176.6,No,Low,49–58,4
+1710,82,Female,Former,5,12,Human Body,Damaged,32.5,Normal,241.8,No,Low,69+,6
+1737,80,Male,Former,6,5,Lungs,Healthy,33.5,Normal,245.5,No,Low,69+,6
+1773,23,Male,Former,4,10,Liver,Healthy,41.3,Normal,122.8,No,Low,18–28,1
+1804,38,Male,Former,12,8,Liver,Healthy,40.3,Normal,294.2,No,Low,29–38,2
+1841,61,Male,Former,15,4,Heart,Damaged,37.8,Normal,239.2,No,Low,59–68,5
+1845,34,Male,Former,4,12,Human Body,Healthy,37.8,Normal,293.3,No,Low,29–38,2
+1852,35,Male,Former,2,13,Liver,Healthy,19.8,Normal,299.6,No,Low,29–38,2
+1899,25,Female,Former,3,9,Heart,Healthy,33.7,Normal,214.1,No,Low,18–28,1
+1915,75,Male,Former,12,11,Liver,Damaged,41.3,Normal,242.9,No,Low,69+,6
+1935,89,Female,Former,3,13,Liver,Damaged,22.0,Normal,241.9,No,Low,69+,6
+1976,52,Female,Former,12,14,Liver,Healthy,25.5,Normal,173.2,No,Low,49–58,4
+2004,58,Male,Former,6,2,Heart,Damaged,34.8,Normal,229.2,No,Low,49–58,4
+2047,70,Male,Former,2,2,Liver,Damaged,20.0,Normal,280.4,No,Low,69+,6
+2051,49,Female,Former,9,12,Heart,Damaged,19.0,Normal,237.0,No,Low,49–58,4
+2058,30,Female,Former,16,1,Heart,Healthy,40.6,Normal,260.9,No,Low,29–38,2
+2078,89,Male,Former,16,5,Human Body,Healthy,20.1,Normal,173.5,No,Low,69+,6
+2082,32,Female,Former,3,10,Human Body,Healthy,37.4,Normal,285.3,No,Low,29–38,2
+2099,34,Female,Former,1,6,Heart,Healthy,38.4,Normal,247.8,No,Low,29–38,2
+2114,36,Male,Former,2,14,Human Body,Damaged,18.3,Normal,179.8,No,Low,29–38,2
+2117,46,Female,Former,5,12,Kidney,Damaged,18.2,Normal,194.2,No,Low,39–48,3
+2153,45,Male,Former,18,3,Kidney,Damaged,39.2,Normal,211.4,No,Low,39–48,3
+2164,44,Female,Former,5,11,Lungs,Healthy,31.6,Normal,279.1,No,Low,39–48,3
+2217,43,Male,Former,1,11,Human Body,Healthy,27.2,Normal,286.0,No,Low,39–48,3
+2247,42,Female,Former,17,3,Kidney,Damaged,37.3,Normal,131.1,No,Low,39–48,3
+2267,74,Female,Former,17,4,Heart,Damaged,23.4,Normal,282.3,No,Low,69+,6
+2291,26,Female,Former,6,6,Liver,Damaged,27.7,Normal,269.3,No,Low,18–28,1
+2294,74,Female,Former,8,12,Lungs,Damaged,32.8,Normal,180.5,No,Low,69+,6
+2295,18,Male,Former,9,9,Kidney,Healthy,22.4,Normal,131.2,No,Low,18–28,1
+2308,22,Female,Former,11,12,Kidney,Healthy,32.8,Normal,236.6,No,Low,18–28,1
+2326,28,Male,Former,19,11,Heart,Healthy,21.9,Normal,277.2,No,Low,18–28,1
+2350,45,Female,Former,4,8,Kidney,Damaged,36.0,Normal,250.9,No,Low,39–48,3
+2352,48,Male,Former,19,9,Kidney,Healthy,31.7,Normal,178.8,No,Low,39–48,3
+2371,76,Male,Former,13,12,Human Body,Healthy,19.9,Normal,155.4,No,Low,69+,6
+2385,18,Female,Former,3,3,Human Body,Healthy,36.8,Normal,144.3,No,Low,18–28,1
+2391,62,Male,Former,6,1,Lungs,Healthy,34.5,Normal,257.2,No,Low,59–68,5
+2399,77,Male,Former,12,2,Liver,Damaged,27.8,Normal,201.1,No,Low,69+,6
+2465,24,Female,Former,9,8,Lungs,Healthy,41.5,Normal,290.8,No,Low,18–28,1
+2479,27,Male,Former,11,6,Liver,Damaged,30.6,Normal,183.9,No,Low,18–28,1
+2480,44,Female,Former,15,11,Human Body,Damaged,32.0,Normal,205.6,No,Low,39–48,3
+24,47,Male,Former,2,5,Kidney,Damaged,38.6,Normal,209.9,No,Moderate,39–48,3
+26,80,Male,Former,1,4,Liver,Healthy,23.7,Normal,187.1,No,Moderate,69+,6
+28,43,Male,Former,10,7,Lungs,Damaged,39.8,Normal,210.3,No,Moderate,39–48,3
+39,46,Female,Former,18,13,Kidney,Healthy,41.2,Normal,196.2,No,Moderate,39–48,3
+86,68,Male,Former,13,14,Heart,Healthy,28.7,Normal,188.0,No,Moderate,59–68,5
+89,84,Female,Former,1,9,Heart,Healthy,31.9,Normal,222.5,No,Moderate,69+,6
+94,39,Male,Former,7,9,Kidney,Healthy,39.5,Normal,243.0,No,Moderate,39–48,3
+99,57,Male,Former,2,5,Human Body,Healthy,34.2,Normal,164.4,No,Moderate,49–58,4
+133,42,Male,Former,12,13,Heart,Healthy,41.4,Normal,152.8,No,Moderate,39–48,3
+145,40,Female,Former,12,6,Liver,Healthy,40.5,Normal,149.2,Yes,Moderate,39–48,3
+157,59,Female,Former,9,10,Human Body,Healthy,36.5,Normal,268.1,No,Moderate,59–68,5
+166,31,Female,Former,12,6,Human Body,Healthy,25.5,Normal,182.3,Yes,Moderate,29–38,2
+190,75,Female,Former,5,8,Human Body,Damaged,39.0,Normal,154.9,No,Moderate,69+,6
+219,87,Male,Former,15,7,Kidney,Healthy,37.9,Normal,235.7,No,Moderate,69+,6
+234,28,Male,Former,14,3,Liver,Healthy,27.5,Normal,283.4,No,Moderate,18–28,1
+247,70,Male,Former,2,13,Heart,Healthy,37.7,Normal,151.9,No,Moderate,69+,6
+256,88,Female,Former,17,8,Heart,Damaged,37.9,Normal,145.7,No,Moderate,69+,6
+257,52,Female,Former,1,4,Human Body,Damaged,24.0,Normal,124.4,No,Moderate,49–58,4
+260,34,Male,Former,7,1,Liver,Healthy,22.4,Normal,256.7,Yes,Moderate,29–38,2
+265,30,Male,Former,18,3,Human Body,Healthy,40.4,Normal,140.9,Yes,Moderate,29–38,2
+275,76,Female,Former,8,13,Heart,Damaged,40.4,Normal,205.2,Yes,Moderate,69+,6
+296,27,Female,Former,17,11,Human Body,Healthy,40.7,Normal,143.4,No,Moderate,18–28,1
+309,84,Female,Former,2,6,Heart,Damaged,34.7,Normal,176.3,Yes,Moderate,69+,6
+363,69,Male,Former,5,14,Human Body,Healthy,30.0,Normal,226.0,No,Moderate,69+,6
+394,35,Male,Former,14,1,Heart,Damaged,21.5,Normal,160.1,No,Moderate,29–38,2
+415,49,Male,Former,7,14,Kidney,Damaged,28.5,Normal,177.3,No,Moderate,49–58,4
+431,47,Female,Former,4,14,Heart,Damaged,39.9,Normal,175.3,Yes,Moderate,39–48,3
+433,44,Male,Former,5,12,Human Body,Damaged,17.3,Normal,222.0,No,Moderate,39–48,3
+451,62,Male,Former,6,6,Lungs,Damaged,21.4,Normal,136.5,No,Moderate,59–68,5
+460,75,Male,Former,6,3,Lungs,Healthy,24.8,Normal,191.7,Yes,Moderate,69+,6
+471,33,Female,Former,3,5,Lungs,Damaged,20.4,Normal,128.3,No,Moderate,29–38,2
+483,67,Male,Former,2,10,Human Body,Healthy,36.9,Normal,236.2,Yes,Moderate,59–68,5
+485,19,Male,Former,5,13,Lungs,Healthy,41.5,Normal,259.5,No,Moderate,18–28,1
+525,48,Male,Former,2,1,Heart,Healthy,38.4,Normal,184.7,No,Moderate,39–48,3
+544,51,Female,Former,19,12,Lungs,Healthy,35.5,Normal,271.5,Yes,Moderate,49–58,4
+552,34,Male,Former,7,7,Heart,Healthy,24.6,Normal,174.3,No,Moderate,29–38,2
+574,69,Male,Former,4,4,Lungs,Healthy,33.4,Normal,241.9,No,Moderate,69+,6
+588,46,Male,Former,18,10,Kidney,Damaged,28.1,Normal,161.9,No,Moderate,39–48,3
+600,77,Male,Former,5,3,Heart,Healthy,17.4,Normal,287.8,No,Moderate,69+,6
+607,74,Male,Former,17,7,Human Body,Healthy,30.2,Normal,263.4,No,Moderate,69+,6
+633,25,Female,Former,14,6,Liver,Healthy,26.2,Normal,265.6,No,Moderate,18–28,1
+634,26,Male,Former,16,13,Kidney,Healthy,31.0,Normal,135.2,No,Moderate,18–28,1
+645,33,Female,Former,5,2,Human Body,Healthy,31.8,Normal,289.4,No,Moderate,29–38,2
+656,75,Female,Former,19,4,Human Body,Healthy,25.4,Normal,296.3,No,Moderate,69+,6
+760,54,Female,Former,4,6,Human Body,Healthy,26.8,Normal,269.8,Yes,Moderate,49–58,4
+776,57,Female,Former,19,1,Liver,Damaged,18.4,Normal,247.4,No,Moderate,49–58,4
+828,21,Female,Former,5,14,Lungs,Healthy,25.2,Normal,251.5,No,Moderate,18–28,1
+838,31,Male,Former,6,5,Liver,Healthy,27.0,Normal,150.6,No,Moderate,29–38,2
+874,54,Male,Former,6,9,Heart,Damaged,33.9,Normal,234.8,No,Moderate,49–58,4
+884,58,Female,Former,14,5,Lungs,Healthy,22.1,Normal,272.2,No,Moderate,49–58,4
+937,87,Male,Former,18,3,Lungs,Healthy,37.2,Normal,257.8,No,Moderate,69+,6
+982,37,Male,Former,6,5,Heart,Healthy,37.6,Normal,153.3,No,Moderate,29–38,2
+995,53,Male,Former,9,13,Heart,Healthy,40.2,Normal,293.4,No,Moderate,49–58,4
+1002,48,Male,Former,2,5,Heart,Healthy,32.1,Normal,283.8,No,Moderate,39–48,3
+1026,67,Male,Former,17,11,Human Body,Healthy,29.8,Normal,274.9,No,Moderate,59–68,5
+1027,35,Female,Former,19,13,Human Body,Healthy,26.1,Normal,211.1,No,Moderate,29–38,2
+1032,29,Female,Former,6,11,Lungs,Damaged,36.6,Normal,147.8,Yes,Moderate,29–38,2
+1055,18,Female,Former,6,12,Heart,Damaged,32.6,Normal,158.0,No,Moderate,18–28,1
+1064,64,Male,Former,9,4,Human Body,Healthy,29.1,Normal,215.1,Yes,Moderate,59–68,5
+1082,89,Female,Former,13,5,Kidney,Damaged,20.4,Normal,139.2,No,Moderate,69+,6
+1089,61,Male,Former,6,4,Heart,Healthy,22.9,Normal,166.2,Yes,Moderate,59–68,5
+1099,57,Female,Former,12,13,Kidney,Healthy,31.3,Normal,264.2,Yes,Moderate,49–58,4
+1108,26,Male,Former,4,3,Liver,Damaged,41.9,Normal,188.7,No,Moderate,18–28,1
+1139,78,Female,Former,1,8,Human Body,Damaged,41.7,Normal,122.0,Yes,Moderate,69+,6
+1144,65,Female,Former,15,2,Liver,Healthy,19.9,Normal,292.8,No,Moderate,59–68,5
+1191,75,Female,Former,5,14,Kidney,Healthy,18.2,Normal,163.7,No,Moderate,69+,6
+1197,83,Female,Former,11,1,Human Body,Damaged,28.7,Normal,145.5,Yes,Moderate,69+,6
+1214,27,Female,Former,9,5,Lungs,Damaged,22.2,Normal,148.1,No,Moderate,18–28,1
+1228,21,Female,Former,7,12,Lungs,Damaged,25.5,Normal,279.8,No,Moderate,18–28,1
+1240,53,Male,Former,18,2,Kidney,Healthy,31.4,Normal,141.7,Yes,Moderate,49–58,4
+1275,66,Male,Former,1,10,Lungs,Healthy,19.4,Normal,123.5,Yes,Moderate,59–68,5
+1277,69,Female,Former,5,5,Heart,Healthy,40.4,Normal,184.6,No,Moderate,69+,6
+1312,41,Male,Former,3,14,Lungs,Healthy,25.3,Normal,292.6,Yes,Moderate,39–48,3
+1336,76,Male,Former,2,13,Kidney,Healthy,20.3,Normal,161.5,No,Moderate,69+,6
+1389,70,Female,Former,11,13,Human Body,Damaged,23.6,Normal,194.3,Yes,Moderate,69+,6
+1506,18,Male,Former,7,2,Kidney,Damaged,28.3,Normal,217.1,Yes,Moderate,18–28,1
+1511,49,Female,Former,15,11,Liver,Damaged,17.7,Normal,130.4,Yes,Moderate,49–58,4
+1543,25,Female,Former,15,14,Heart,Healthy,18.1,Normal,143.5,No,Moderate,18–28,1
+1546,76,Male,Former,16,9,Heart,Healthy,26.0,Normal,162.8,No,Moderate,69+,6
+1556,46,Male,Former,3,1,Human Body,Damaged,35.9,Normal,150.3,No,Moderate,39–48,3
+1585,64,Male,Former,17,13,Heart,Healthy,40.3,Normal,185.8,Yes,Moderate,59–68,5
+1600,66,Male,Former,5,7,Human Body,Damaged,31.2,Normal,159.7,No,Moderate,59–68,5
+1628,75,Female,Former,16,7,Heart,Damaged,31.5,Normal,180.7,No,Moderate,69+,6
+1630,54,Female,Former,2,8,Human Body,Damaged,36.9,Normal,144.4,No,Moderate,49–58,4
+1678,40,Female,Former,15,13,Liver,Damaged,20.8,Normal,206.0,No,Moderate,39–48,3
+1685,45,Female,Former,16,8,Lungs,Healthy,30.7,Normal,125.2,No,Moderate,39–48,3
+1724,43,Male,Former,3,2,Kidney,Healthy,23.0,Normal,163.3,Yes,Moderate,39–48,3
+1726,67,Female,Former,4,11,Lungs,Healthy,30.4,Normal,160.6,No,Moderate,59–68,5
+1763,35,Female,Former,17,13,Lungs,Healthy,35.4,Normal,297.5,No,Moderate,29–38,2
+1776,61,Male,Former,11,13,Liver,Healthy,21.5,Normal,238.5,No,Moderate,59–68,5
+1816,35,Male,Former,9,12,Kidney,Healthy,21.9,Normal,265.9,No,Moderate,29–38,2
+1840,81,Male,Former,17,9,Liver,Healthy,35.8,Normal,147.6,Yes,Moderate,69+,6
+1846,46,Male,Former,12,3,Lungs,Healthy,35.2,Normal,263.1,Yes,Moderate,39–48,3
+1847,80,Male,Former,15,7,Liver,Healthy,38.1,Normal,257.7,Yes,Moderate,69+,6
+1857,76,Female,Former,12,3,Lungs,Damaged,41.1,Normal,230.9,No,Moderate,69+,6
+1878,68,Male,Former,15,13,Liver,Healthy,27.8,Normal,279.2,No,Moderate,59–68,5
+1881,52,Female,Former,8,1,Kidney,Healthy,36.4,Normal,294.2,Yes,Moderate,49–58,4
+1882,19,Female,Former,18,13,Lungs,Healthy,37.8,Normal,196.0,Yes,Moderate,18–28,1
+1919,25,Male,Former,4,12,Heart,Damaged,26.6,Normal,229.5,No,Moderate,18–28,1
+1923,46,Female,Former,13,11,Human Body,Healthy,21.1,Normal,209.0,Yes,Moderate,39–48,3
+1941,82,Male,Former,13,5,Heart,Healthy,20.7,Normal,211.4,No,Moderate,69+,6
+1954,70,Female,Former,11,1,Heart,Damaged,22.4,Normal,277.4,Yes,Moderate,69+,6
+1973,64,Male,Former,6,3,Kidney,Damaged,21.3,Normal,203.5,No,Moderate,59–68,5
+1975,42,Male,Former,8,8,Human Body,Damaged,26.0,Normal,136.5,No,Moderate,39–48,3
+1983,55,Female,Former,1,5,Heart,Damaged,21.7,Normal,162.3,No,Moderate,49–58,4
+2009,87,Male,Former,7,7,Lungs,Healthy,18.7,Normal,209.9,No,Moderate,69+,6
+2041,34,Male,Former,5,10,Lungs,Healthy,19.8,Normal,238.7,No,Moderate,29–38,2
+2074,23,Male,Former,4,11,Kidney,Healthy,23.5,Normal,276.1,No,Moderate,18–28,1
+2133,33,Female,Former,9,2,Heart,Healthy,30.8,Normal,174.4,No,Moderate,29–38,2
+2142,48,Female,Former,15,14,Liver,Damaged,38.7,Normal,285.2,No,Moderate,39–48,3
+2194,31,Female,Former,16,1,Liver,Damaged,18.9,Normal,163.0,No,Moderate,29–38,2
+2214,22,Female,Former,1,4,Heart,Healthy,18.2,Normal,131.5,No,Moderate,18–28,1
+2242,81,Female,Former,13,2,Heart,Healthy,24.9,Normal,180.2,No,Moderate,69+,6
+2257,77,Male,Former,5,5,Heart,Healthy,34.5,Normal,213.2,No,Moderate,69+,6
+2333,68,Male,Former,4,9,Lungs,Healthy,26.9,Normal,199.2,No,Moderate,59–68,5
+2360,80,Female,Former,19,3,Liver,Healthy,28.5,Normal,265.9,No,Moderate,69+,6
+2374,22,Male,Former,8,8,Kidney,Healthy,29.1,Normal,284.6,Yes,Moderate,18–28,1
+2376,76,Female,Former,5,13,Lungs,Damaged,19.6,Normal,268.4,No,Moderate,69+,6
+2388,59,Male,Former,3,10,Human Body,Healthy,22.2,Normal,229.2,No,Moderate,59–68,5
+2410,87,Male,Former,1,6,Lungs,Healthy,28.4,Normal,281.7,No,Moderate,69+,6
+2447,53,Female,Former,5,9,Heart,Healthy,38.5,Normal,127.2,Yes,Moderate,49–58,4
+101,38,Male,Former,19,8,Liver,Damaged,38.2,Normal,208.1,Yes,High,29–38,2
+364,71,Female,Former,17,4,Human Body,Healthy,22.0,Normal,162.7,No,High,69+,6
+402,47,Male,Former,5,6,Heart,Damaged,21.8,Normal,166.8,No,High,39–48,3
+536,34,Male,Former,4,3,Lungs,Healthy,30.5,Normal,193.0,Yes,High,29–38,2
+661,30,Male,Former,14,1,Liver,Healthy,36.8,Normal,174.3,No,High,29–38,2
+786,80,Female,Former,11,11,Lungs,Healthy,27.3,Normal,201.3,No,High,69+,6
+788,79,Male,Former,17,14,Lungs,Damaged,20.3,Normal,271.6,Yes,High,69+,6
+855,68,Female,Former,17,5,Heart,Damaged,34.2,Normal,165.4,No,High,59–68,5
+936,41,Male,Former,10,4,Heart,Damaged,26.2,Normal,250.6,Yes,High,39–48,3
+947,47,Male,Former,17,13,Liver,Damaged,32.6,Normal,130.7,Yes,High,39–48,3
+984,26,Female,Former,17,9,Liver,Healthy,18.0,Normal,248.2,No,High,18–28,1
+1017,21,Male,Former,4,12,Kidney,Damaged,18.6,Normal,171.8,No,High,18–28,1
+1028,54,Male,Former,9,4,Liver,Damaged,40.3,Normal,286.7,No,High,49–58,4
+1045,51,Female,Former,11,13,Heart,Healthy,28.4,Normal,244.9,No,High,49–58,4
+1056,44,Female,Former,7,4,Lungs,Healthy,31.2,Normal,121.6,Yes,High,39–48,3
+1113,23,Male,Former,19,5,Human Body,Damaged,29.7,Normal,275.9,No,High,18–28,1
+1190,61,Female,Former,5,13,Heart,Damaged,36.5,Normal,197.4,Yes,High,59–68,5
+1225,38,Male,Former,1,7,Human Body,Healthy,24.9,Normal,216.0,No,High,29–38,2
+1354,36,Female,Former,4,3,Kidney,Healthy,41.8,Normal,143.6,No,High,29–38,2
+1498,57,Male,Former,15,3,Liver,Damaged,27.8,Normal,194.0,No,High,49–58,4
+1582,29,Female,Former,2,14,Human Body,Healthy,31.6,Normal,182.0,No,High,29–38,2
+1688,19,Male,Former,17,9,Human Body,Healthy,34.7,Normal,138.2,No,High,18–28,1
+1858,25,Male,Former,6,6,Lungs,Damaged,38.3,Normal,208.2,No,High,18–28,1
+1947,53,Female,Former,7,7,Human Body,Damaged,39.2,Normal,182.7,No,High,49–58,4
+2061,52,Female,Former,9,2,Liver,Healthy,37.7,Normal,185.6,No,High,49–58,4
+2152,75,Male,Former,10,5,Heart,Healthy,35.2,Normal,210.8,No,High,69+,6
+2182,69,Female,Former,1,12,Kidney,Healthy,24.7,Normal,299.9,No,High,69+,6
+2243,67,Female,Former,17,8,Human Body,Damaged,32.1,Normal,160.1,No,High,59–68,5
+2280,78,Male,Former,19,7,Liver,Healthy,18.5,Normal,146.7,Yes,High,69+,6
+2302,55,Male,Former,14,11,Liver,Healthy,26.1,Normal,180.7,No,High,49–58,4
+2323,32,Female,Former,17,2,Liver,Damaged,38.7,Normal,195.7,Yes,High,29–38,2
+2347,40,Male,Former,14,4,Human Body,Damaged,41.4,Normal,212.5,No,High,39–48,3
+2373,78,Female,Former,6,8,Kidney,Damaged,40.3,Normal,271.3,Yes,High,69+,6
+47,79,Male,Current,7,17,Kidney,Healthy,38.7,Normal,293.4,Yes,High,69+,6
+79,37,Male,Current,31,9,Lungs,Healthy,22.7,Normal,171.8,No,High,29–38,2
+92,29,Female,Current,7,27,Liver,Healthy,36.3,Normal,275.0,Yes,High,29–38,2
+104,56,Male,Current,30,27,Human Body,Healthy,33.5,Normal,213.6,No,High,49–58,4
+181,41,Male,Current,28,7,Liver,Healthy,26.7,Normal,298.5,No,High,39–48,3
+280,63,Male,Current,22,18,Heart,Healthy,28.1,Normal,129.0,No,High,59–68,5
+290,25,Male,Current,24,19,Heart,Healthy,17.8,Normal,185.6,Yes,High,18–28,1
+304,76,Male,Current,18,9,Lungs,Healthy,34.1,Normal,130.2,No,High,69+,6
+371,66,Male,Current,8,26,Kidney,Damaged,17.3,Normal,247.1,No,High,59–68,5
+411,68,Female,Current,6,5,Kidney,Healthy,24.4,Normal,293.8,Yes,High,59–68,5
+470,88,Male,Current,19,16,Liver,Healthy,18.6,Normal,205.3,No,High,69+,6
+476,75,Female,Current,34,6,Heart,Damaged,25.0,Normal,170.3,No,High,69+,6
+493,64,Male,Current,24,28,Kidney,Healthy,23.4,Normal,160.9,No,High,59–68,5
+591,44,Male,Current,28,22,Kidney,Healthy,28.6,Normal,284.7,No,High,39–48,3
+639,30,Male,Current,21,6,Liver,Healthy,37.0,Normal,210.6,Yes,High,29–38,2
+660,33,Female,Current,25,18,Kidney,Healthy,40.1,Normal,239.2,No,High,29–38,2
+684,86,Female,Current,17,22,Human Body,Damaged,37.2,Normal,129.8,No,High,69+,6
+740,60,Male,Current,5,16,Lungs,Healthy,26.3,Normal,224.2,Yes,High,59–68,5
+820,51,Female,Current,39,14,Heart,Damaged,31.3,Normal,208.5,No,High,49–58,4
+960,35,Female,Current,5,7,Lungs,Healthy,33.1,Normal,211.3,No,High,29–38,2
+967,38,Female,Current,28,11,Heart,Healthy,35.5,Normal,179.5,No,High,29–38,2
+970,54,Male,Current,33,25,Human Body,Healthy,23.2,Normal,213.5,No,High,49–58,4
+1005,89,Female,Current,8,21,Heart,Healthy,32.6,Normal,220.8,No,High,69+,6
+1081,55,Male,Current,38,16,Lungs,Damaged,25.0,Normal,166.1,Yes,High,49–58,4
+1292,77,Male,Current,30,7,Heart,Healthy,40.5,Normal,236.2,No,High,69+,6
+1409,69,Female,Current,21,19,Human Body,Healthy,25.1,Normal,153.7,No,High,69+,6
+1448,33,Male,Current,11,22,Liver,Healthy,39.6,Normal,158.7,No,High,29–38,2
+1492,18,Male,Current,16,26,Lungs,Healthy,30.6,Normal,219.2,Yes,High,18–28,1
+1554,70,Female,Current,21,8,Lungs,Damaged,30.2,Normal,135.7,No,High,69+,6
+1558,27,Female,Current,32,18,Heart,Healthy,20.9,Normal,277.3,No,High,18–28,1
+1563,66,Female,Current,33,10,Heart,Healthy,28.6,Normal,215.7,Yes,High,59–68,5
+1576,37,Male,Current,25,13,Lungs,Healthy,19.2,Normal,231.2,No,High,29–38,2
+1584,86,Male,Current,28,8,Liver,Healthy,38.6,Normal,164.3,No,High,69+,6
+1605,65,Male,Current,28,8,Lungs,Healthy,37.2,Normal,190.3,Yes,High,59–68,5
+1619,38,Male,Current,30,12,Human Body,Healthy,37.6,Normal,247.6,No,High,29–38,2
+1623,25,Female,Current,12,15,Lungs,Healthy,20.3,Normal,296.5,No,High,18–28,1
+1715,28,Female,Current,11,15,Kidney,Damaged,36.3,Normal,230.9,Yes,High,18–28,1
+1718,71,Male,Current,12,17,Kidney,Damaged,24.4,Normal,234.1,No,High,69+,6
+1728,25,Female,Current,7,13,Heart,Damaged,36.0,Normal,255.3,No,High,18–28,1
+1750,52,Female,Current,15,29,Kidney,Healthy,39.2,Normal,146.2,No,High,49–58,4
+1799,83,Female,Current,37,8,Kidney,Damaged,35.9,Normal,288.9,Yes,High,69+,6
+1818,62,Male,Current,25,17,Human Body,Damaged,25.2,Normal,238.8,No,High,59–68,5
+1829,19,Male,Current,21,15,Lungs,Damaged,29.0,Normal,249.5,No,High,18–28,1
+1844,61,Male,Current,10,7,Heart,Healthy,33.2,Normal,187.0,Yes,High,59–68,5
+1849,40,Female,Current,25,7,Heart,Damaged,25.2,Normal,274.8,No,High,39–48,3
+1854,34,Male,Current,8,13,Kidney,Healthy,19.2,Normal,218.2,No,High,29–38,2
+1866,81,Female,Current,19,18,Heart,Healthy,32.7,Normal,268.9,No,High,69+,6
+1868,32,Male,Current,33,7,Heart,Damaged,36.0,Normal,293.0,Yes,High,29–38,2
+1873,80,Male,Current,37,7,Kidney,Damaged,41.2,Normal,268.5,No,High,69+,6
+1904,59,Female,Current,37,18,Kidney,Healthy,29.7,Normal,167.4,No,High,59–68,5
+1914,85,Female,Current,13,5,Heart,Healthy,24.4,Normal,284.2,No,High,69+,6
+1922,49,Female,Current,19,23,Liver,Healthy,37.3,Normal,180.5,No,High,49–58,4
+2085,82,Female,Current,8,19,Heart,Damaged,40.0,Normal,212.8,No,High,69+,6
+2087,45,Female,Current,19,9,Kidney,Healthy,17.3,Normal,287.8,No,High,39–48,3
+2139,47,Male,Current,7,17,Kidney,Damaged,41.5,Normal,290.7,No,High,39–48,3
+2159,43,Female,Current,30,29,Lungs,Damaged,35.6,Normal,180.7,No,High,39–48,3
+2188,77,Male,Current,16,22,Human Body,Damaged,29.7,Normal,163.0,No,High,69+,6
+2211,44,Male,Current,13,18,Kidney,Healthy,27.9,Normal,169.4,Yes,High,39–48,3
+2228,74,Male,Current,26,5,Lungs,Damaged,25.1,Normal,236.3,Yes,High,69+,6
+2289,76,Female,Current,17,28,Heart,Healthy,17.2,Normal,140.4,No,High,69+,6
+2452,70,Female,Current,12,7,Liver,Damaged,34.1,Normal,127.2,Yes,High,69+,6
+5,53,Female,Current,39,18,Kidney,Healthy,30.0,Normal,153.3,No,Moderate,49–58,4
+27,49,Male,Current,28,22,Lungs,Healthy,24.4,Normal,272.8,Yes,Moderate,49–58,4
+40,41,Male,Current,22,21,Liver,Healthy,34.0,Normal,162.9,No,Moderate,39–48,3
+45,34,Male,Current,26,24,Human Body,Healthy,25.8,Normal,206.7,No,Moderate,29–38,2
+52,50,Female,Current,9,27,Human Body,Healthy,41.6,Normal,254.9,No,Moderate,49–58,4
+62,18,Female,Current,21,8,Human Body,Healthy,41.7,Normal,286.3,Yes,Moderate,18–28,1
+93,47,Female,Current,21,14,Heart,Damaged,37.0,Normal,124.0,Yes,Moderate,39–48,3
+97,28,Female,Current,30,25,Heart,Healthy,35.0,Normal,222.0,No,Moderate,18–28,1
+111,79,Male,Current,39,22,Heart,Damaged,22.6,Normal,216.7,No,Moderate,69+,6
+131,23,Male,Current,10,13,Human Body,Damaged,38.8,Normal,264.3,No,Moderate,18–28,1
+174,69,Male,Current,21,9,Kidney,Damaged,38.2,Normal,262.6,No,Moderate,69+,6
+196,81,Male,Current,35,8,Liver,Healthy,25.2,Normal,135.9,Yes,Moderate,69+,6
+231,82,Male,Current,23,14,Liver,Healthy,32.6,Normal,200.5,No,Moderate,69+,6
+241,45,Female,Current,7,7,Human Body,Healthy,25.0,Normal,186.8,No,Moderate,39–48,3
+250,28,Female,Current,23,25,Liver,Healthy,17.9,Normal,218.9,Yes,Moderate,18–28,1
+326,57,Male,Current,7,14,Lungs,Healthy,29.5,Normal,276.7,No,Moderate,49–58,4
+346,49,Male,Current,18,15,Liver,Damaged,33.9,Normal,289.5,Yes,Moderate,49–58,4
+351,52,Male,Current,31,25,Kidney,Healthy,34.3,Normal,231.4,No,Moderate,49–58,4
+398,21,Male,Current,16,17,Lungs,Healthy,30.4,Normal,255.3,Yes,Moderate,18–28,1
+424,29,Male,Current,16,10,Heart,Damaged,17.5,Normal,130.2,No,Moderate,29–38,2
+439,88,Male,Current,18,17,Lungs,Healthy,30.5,Normal,128.2,No,Moderate,69+,6
+448,35,Male,Current,36,17,Human Body,Damaged,22.0,Normal,160.4,Yes,Moderate,29–38,2
+500,20,Male,Current,24,18,Kidney,Damaged,38.4,Normal,175.7,No,Moderate,18–28,1
+539,18,Female,Current,25,21,Heart,Healthy,33.2,Normal,200.2,No,Moderate,18–28,1
+550,57,Female,Current,37,29,Liver,Healthy,23.5,Normal,250.0,Yes,Moderate,49–58,4
+560,53,Female,Current,14,22,Liver,Healthy,41.3,Normal,206.0,No,Moderate,49–58,4
+578,35,Male,Current,37,8,Human Body,Healthy,21.1,Normal,176.8,No,Moderate,29–38,2
+605,67,Male,Current,13,12,Kidney,Healthy,36.7,Normal,235.1,Yes,Moderate,59–68,5
+649,76,Female,Current,22,17,Heart,Damaged,35.2,Normal,200.8,No,Moderate,69+,6
+662,45,Female,Current,18,16,Liver,Damaged,28.2,Normal,290.0,Yes,Moderate,39–48,3
+694,54,Female,Current,13,25,Heart,Damaged,33.2,Normal,255.9,No,Moderate,49–58,4
+698,60,Female,Current,20,6,Kidney,Healthy,37.5,Normal,217.3,No,Moderate,59–68,5
+728,80,Male,Current,34,11,Lungs,Healthy,25.1,Normal,270.0,No,Moderate,69+,6
+746,85,Female,Current,19,9,Kidney,Healthy,28.7,Normal,138.1,No,Moderate,69+,6
+762,39,Male,Current,23,25,Human Body,Healthy,30.4,Normal,195.1,No,Moderate,39–48,3
+772,52,Male,Current,11,8,Heart,Healthy,36.2,Normal,176.1,No,Moderate,49–58,4
+779,53,Male,Current,16,13,Kidney,Healthy,31.1,Normal,293.0,No,Moderate,49–58,4
+827,42,Female,Current,5,7,Heart,Healthy,31.7,Normal,156.5,No,Moderate,39–48,3
+851,35,Female,Current,37,16,Kidney,Healthy,39.7,Normal,241.9,No,Moderate,29–38,2
+865,63,Male,Current,16,19,Liver,Damaged,21.5,Normal,272.7,Yes,Moderate,59–68,5
+872,67,Female,Current,21,26,Heart,Healthy,19.2,Normal,153.9,No,Moderate,59–68,5
+876,61,Female,Current,34,16,Heart,Healthy,22.4,Normal,171.1,Yes,Moderate,59–68,5
+898,57,Male,Current,26,27,Heart,Damaged,40.3,Normal,223.9,Yes,Moderate,49–58,4
+911,46,Male,Current,13,6,Heart,Healthy,26.2,Normal,261.2,No,Moderate,39–48,3
+914,59,Male,Current,39,11,Lungs,Damaged,37.0,Normal,208.8,Yes,Moderate,59–68,5
+916,28,Female,Current,5,10,Heart,Damaged,40.5,Normal,216.3,No,Moderate,18–28,1
+933,53,Male,Current,14,13,Kidney,Damaged,27.1,Normal,212.2,No,Moderate,49–58,4
+940,75,Male,Current,30,25,Kidney,Healthy,21.5,Normal,154.0,Yes,Moderate,69+,6
+956,78,Male,Current,22,21,Kidney,Healthy,35.0,Normal,191.2,No,Moderate,69+,6
+969,67,Male,Current,23,12,Human Body,Damaged,19.3,Normal,149.2,No,Moderate,59–68,5
+1011,21,Female,Current,10,18,Heart,Healthy,22.1,Normal,130.2,No,Moderate,18–28,1
+1023,67,Male,Current,23,27,Heart,Healthy,24.6,Normal,148.7,Yes,Moderate,59–68,5
+1054,77,Female,Current,25,10,Lungs,Healthy,31.9,Normal,179.5,Yes,Moderate,69+,6
+1076,36,Male,Current,30,25,Liver,Damaged,18.2,Normal,246.9,Yes,Moderate,29–38,2
+1145,84,Male,Current,11,29,Liver,Damaged,23.7,Normal,214.0,No,Moderate,69+,6
+1152,84,Male,Current,33,24,Kidney,Damaged,40.4,Normal,247.6,No,Moderate,69+,6
+1170,61,Male,Current,31,25,Human Body,Damaged,30.9,Normal,179.9,No,Moderate,59–68,5
+1215,38,Male,Current,10,21,Heart,Healthy,25.1,Normal,260.9,No,Moderate,29–38,2
+1242,41,Male,Current,9,29,Heart,Healthy,28.1,Normal,213.2,No,Moderate,39–48,3
+1250,73,Male,Current,24,6,Kidney,Damaged,33.4,Normal,257.8,No,Moderate,69+,6
+1255,62,Male,Current,24,24,Heart,Healthy,40.6,Normal,166.2,Yes,Moderate,59–68,5
+1258,36,Female,Current,12,12,Liver,Healthy,17.9,Normal,189.8,Yes,Moderate,29–38,2
+1271,60,Female,Current,22,7,Heart,Damaged,28.4,Normal,148.5,Yes,Moderate,59–68,5
+1285,68,Female,Current,8,19,Human Body,Damaged,20.8,Normal,216.8,No,Moderate,59–68,5
+1295,25,Male,Current,38,17,Liver,Healthy,38.2,Normal,172.6,No,Moderate,18–28,1
+1296,70,Female,Current,27,24,Liver,Healthy,18.5,Normal,196.7,No,Moderate,69+,6
+1320,81,Male,Current,13,10,Kidney,Damaged,19.0,Normal,293.9,Yes,Moderate,69+,6
+1323,45,Male,Current,21,20,Lungs,Damaged,39.4,Normal,162.1,No,Moderate,39–48,3
+1341,53,Male,Current,19,8,Human Body,Healthy,25.6,Normal,278.9,Yes,Moderate,49–58,4
+1351,23,Female,Current,29,21,Liver,Damaged,34.6,Normal,211.0,Yes,Moderate,18–28,1
+1375,64,Male,Current,8,15,Lungs,Damaged,36.6,Normal,242.4,No,Moderate,59–68,5
+1383,68,Male,Current,8,14,Lungs,Healthy,21.4,Normal,295.3,No,Moderate,59–68,5
+1392,84,Female,Current,30,12,Human Body,Healthy,38.4,Normal,272.8,Yes,Moderate,69+,6
+1426,75,Male,Current,11,8,Heart,Healthy,29.8,Normal,280.3,No,Moderate,69+,6
+1427,87,Female,Current,16,24,Lungs,Healthy,19.0,Normal,269.1,No,Moderate,69+,6
+1460,31,Female,Current,21,23,Human Body,Healthy,19.2,Normal,299.1,No,Moderate,29–38,2
+1480,79,Male,Current,17,14,Liver,Healthy,28.4,Normal,192.4,Yes,Moderate,69+,6
+1516,87,Male,Current,22,9,Lungs,Damaged,22.3,Normal,242.5,Yes,Moderate,69+,6
+1528,41,Female,Current,15,26,Human Body,Healthy,33.3,Normal,293.5,No,Moderate,39–48,3
+1529,75,Female,Current,15,5,Liver,Damaged,27.0,Normal,295.4,No,Moderate,69+,6
+1540,23,Male,Current,13,15,Human Body,Healthy,23.3,Normal,281.6,Yes,Moderate,18–28,1
+1551,62,Male,Current,12,19,Liver,Damaged,41.0,Normal,185.6,No,Moderate,59–68,5
+1562,65,Female,Current,20,17,Lungs,Healthy,36.6,Normal,242.6,No,Moderate,59–68,5
+1583,44,Female,Current,22,26,Heart,Healthy,26.1,Normal,275.1,Yes,Moderate,39–48,3
+1598,51,Female,Current,6,14,Liver,Damaged,26.0,Normal,207.8,No,Moderate,49–58,4
+1627,85,Female,Current,22,21,Human Body,Healthy,25.0,Normal,176.6,No,Moderate,69+,6
+1629,83,Female,Current,17,10,Liver,Healthy,21.4,Normal,172.5,No,Moderate,69+,6
+1631,49,Male,Current,16,17,Kidney,Healthy,39.7,Normal,238.1,No,Moderate,49–58,4
+1633,79,Female,Current,23,21,Liver,Healthy,18.0,Normal,122.3,No,Moderate,69+,6
+1650,85,Male,Current,10,23,Heart,Healthy,39.3,Normal,286.8,No,Moderate,69+,6
+1689,80,Male,Current,22,28,Heart,Damaged,18.1,Normal,132.6,Yes,Moderate,69+,6
+1690,68,Female,Current,6,7,Kidney,Healthy,27.8,Normal,165.8,No,Moderate,59–68,5
+1740,31,Female,Current,8,11,Lungs,Damaged,26.0,Normal,293.8,Yes,Moderate,29–38,2
+1741,59,Female,Current,10,29,Liver,Damaged,32.6,Normal,260.3,Yes,Moderate,59–68,5
+1742,77,Male,Current,25,8,Liver,Healthy,20.5,Normal,139.9,Yes,Moderate,69+,6
+1748,18,Male,Current,12,14,Human Body,Healthy,18.6,Normal,146.2,Yes,Moderate,18–28,1
+1802,41,Male,Current,28,28,Liver,Healthy,35.5,Normal,201.7,No,Moderate,39–48,3
+1806,83,Male,Current,29,28,Heart,Healthy,41.5,Normal,287.7,No,Moderate,69+,6
+1810,57,Female,Current,39,22,Kidney,Damaged,22.1,Normal,237.0,No,Moderate,49–58,4
+1835,88,Female,Current,26,8,Human Body,Healthy,19.7,Normal,257.6,No,Moderate,69+,6
+1851,55,Male,Current,19,29,Heart,Healthy,31.4,Normal,298.3,No,Moderate,49–58,4
+1856,50,Female,Current,25,14,Heart,Damaged,18.1,Normal,202.0,No,Moderate,49–58,4
+1872,88,Male,Current,26,18,Liver,Healthy,30.9,Normal,254.2,No,Moderate,69+,6
+1885,85,Female,Current,21,13,Liver,Damaged,35.1,Normal,240.4,Yes,Moderate,69+,6
+1925,75,Male,Current,23,21,Human Body,Damaged,33.6,Normal,250.6,No,Moderate,69+,6
+1930,64,Male,Current,6,19,Heart,Healthy,29.4,Normal,179.3,No,Moderate,59–68,5
+1938,77,Male,Current,31,7,Kidney,Healthy,23.2,Normal,189.3,Yes,Moderate,69+,6
+1961,65,Male,Current,6,11,Heart,Damaged,40.5,Normal,211.1,Yes,Moderate,59–68,5
+1962,76,Male,Current,8,8,Heart,Healthy,17.5,Normal,254.2,Yes,Moderate,69+,6
+1978,64,Male,Current,6,6,Liver,Damaged,32.2,Normal,223.0,Yes,Moderate,59–68,5
+1999,53,Female,Current,38,13,Heart,Healthy,25.6,Normal,265.4,Yes,Moderate,49–58,4
+2006,43,Male,Current,16,21,Heart,Healthy,39.8,Normal,198.8,No,Moderate,39–48,3
+2012,47,Female,Current,15,28,Kidney,Healthy,25.3,Normal,134.1,No,Moderate,39–48,3
+2017,62,Male,Current,34,23,Liver,Healthy,23.8,Normal,265.3,No,Moderate,59–68,5
+2034,36,Male,Current,35,27,Lungs,Healthy,37.0,Normal,256.5,Yes,Moderate,29–38,2
+2043,44,Female,Current,16,12,Heart,Healthy,38.3,Normal,275.7,Yes,Moderate,39–48,3
+2059,67,Male,Current,18,7,Heart,Damaged,25.6,Normal,274.9,No,Moderate,59–68,5
+2065,36,Female,Current,26,13,Liver,Healthy,25.2,Normal,213.9,No,Moderate,29–38,2
+2066,52,Female,Current,38,13,Liver,Healthy,29.2,Normal,150.3,No,Moderate,49–58,4
+2073,56,Male,Current,8,23,Heart,Healthy,28.2,Normal,217.9,Yes,Moderate,49–58,4
+2083,68,Male,Current,36,21,Lungs,Healthy,27.1,Normal,181.9,No,Moderate,59–68,5
+2102,38,Male,Current,33,10,Heart,Healthy,23.7,Normal,296.7,No,Moderate,29–38,2
+2104,72,Male,Current,11,11,Heart,Damaged,20.1,Normal,231.5,No,Moderate,69+,6
+2109,84,Male,Current,31,16,Kidney,Damaged,27.2,Normal,281.6,No,Moderate,69+,6
+2118,68,Female,Current,31,29,Lungs,Damaged,32.9,Normal,296.8,No,Moderate,59–68,5
+2128,29,Female,Current,25,28,Heart,Healthy,24.8,Normal,149.8,No,Moderate,29–38,2
+2134,59,Female,Current,32,11,Kidney,Damaged,40.4,Normal,166.1,Yes,Moderate,59–68,5
+2146,29,Female,Current,25,15,Kidney,Healthy,18.6,Normal,293.7,No,Moderate,29–38,2
+2151,49,Male,Current,12,25,Liver,Damaged,17.9,Normal,218.4,Yes,Moderate,49–58,4
+2155,20,Female,Current,36,28,Heart,Healthy,25.5,Normal,164.6,No,Moderate,18–28,1
+2167,43,Female,Current,34,29,Human Body,Healthy,41.1,Normal,173.5,No,Moderate,39–48,3
+2170,58,Male,Current,29,18,Liver,Healthy,24.2,Normal,201.0,No,Moderate,49–58,4
+2193,34,Female,Current,33,20,Lungs,Healthy,40.1,Normal,130.9,No,Moderate,29–38,2
+2202,87,Female,Current,34,21,Liver,Healthy,26.6,Normal,250.5,No,Moderate,69+,6
+2207,78,Male,Current,14,21,Human Body,Healthy,39.8,Normal,212.1,No,Moderate,69+,6
+2241,42,Male,Current,33,23,Kidney,Healthy,27.8,Normal,197.3,No,Moderate,39–48,3
+2256,54,Female,Current,33,7,Liver,Damaged,29.2,Normal,172.1,No,Moderate,49–58,4
+2260,42,Female,Current,21,17,Lungs,Healthy,23.4,Normal,258.2,No,Moderate,39–48,3
+2284,28,Female,Current,19,19,Lungs,Healthy,31.0,Normal,125.4,Yes,Moderate,18–28,1
+2304,58,Male,Current,25,5,Kidney,Healthy,29.0,Normal,192.1,No,Moderate,49–58,4
+2330,55,Male,Current,37,28,Human Body,Healthy,29.0,Normal,157.9,No,Moderate,49–58,4
+2337,59,Male,Current,37,13,Lungs,Healthy,37.4,Normal,236.8,No,Moderate,59–68,5
+2343,28,Female,Current,14,14,Liver,Damaged,28.9,Normal,123.4,No,Moderate,18–28,1
+2416,44,Male,Current,17,17,Human Body,Damaged,21.7,Normal,199.4,No,Moderate,39–48,3
+2443,61,Female,Current,21,5,Human Body,Healthy,30.3,Normal,137.3,No,Moderate,59–68,5
+2446,39,Female,Current,10,9,Lungs,Healthy,26.7,Normal,225.0,Yes,Moderate,39–48,3
+2460,48,Female,Current,33,6,Human Body,Healthy,23.9,Normal,232.9,No,Moderate,39–48,3
+6,32,Female,Current,18,20,Kidney,Healthy,25.1,Normal,168.8,No,Low,29–38,2
+54,18,Male,Current,21,25,Liver,Healthy,22.7,Normal,231.3,No,Low,18–28,1
+66,58,Male,Current,23,14,Kidney,Healthy,31.3,Normal,297.6,No,Low,49–58,4
+72,86,Female,Current,35,21,Kidney,Damaged,20.1,Normal,288.9,Yes,Low,69+,6
+103,56,Male,Current,27,22,Lungs,Healthy,33.1,Normal,185.6,No,Low,49–58,4
+106,74,Female,Current,33,25,Kidney,Damaged,36.2,Normal,195.8,No,Low,69+,6
+114,75,Male,Current,36,23,Lungs,Healthy,38.6,Normal,213.8,No,Low,69+,6
+126,88,Male,Current,29,18,Kidney,Healthy,31.0,Normal,148.9,No,Low,69+,6
+136,66,Male,Current,28,22,Human Body,Healthy,35.1,Normal,277.2,No,Low,59–68,5
+138,61,Female,Current,27,14,Lungs,Healthy,38.4,Normal,164.5,No,Low,59–68,5
+155,24,Male,Current,30,29,Kidney,Healthy,30.1,Normal,139.2,No,Low,18–28,1
+160,35,Male,Current,39,11,Lungs,Healthy,34.9,Normal,298.4,Yes,Low,29–38,2
+161,53,Female,Current,36,11,Liver,Damaged,21.8,Normal,160.8,No,Low,49–58,4
+167,72,Female,Current,27,8,Heart,Damaged,31.4,Normal,190.4,No,Low,69+,6
+187,30,Female,Current,22,25,Liver,Damaged,35.7,Normal,152.5,Yes,Low,29–38,2
+195,47,Female,Current,28,6,Heart,Healthy,37.6,Normal,133.9,Yes,Low,39–48,3
+209,44,Male,Current,32,18,Human Body,Healthy,35.8,Normal,219.5,Yes,Low,39–48,3
+229,46,Male,Current,24,29,Kidney,Damaged,20.3,Normal,261.6,No,Low,39–48,3
+238,87,Male,Current,32,7,Liver,Damaged,18.7,Normal,145.6,Yes,Low,69+,6
+246,46,Male,Current,8,22,Heart,Damaged,26.7,Normal,181.3,No,Low,39–48,3
+261,89,Female,Current,14,14,Kidney,Healthy,30.2,Normal,162.2,No,Low,69+,6
+281,87,Male,Current,15,16,Kidney,Damaged,41.9,Normal,296.6,No,Low,69+,6
+285,39,Male,Current,12,20,Heart,Healthy,29.0,Normal,141.3,Yes,Low,39–48,3
+295,39,Male,Current,20,28,Liver,Healthy,26.5,Normal,255.7,Yes,Low,39–48,3
+313,34,Male,Current,13,23,Human Body,Damaged,34.5,Normal,237.7,No,Low,29–38,2
+314,86,Male,Current,37,29,Lungs,Healthy,28.5,Normal,229.2,No,Low,69+,6
+321,22,Female,Current,36,27,Lungs,Healthy,23.8,Normal,177.3,No,Low,18–28,1
+322,22,Female,Current,26,13,Human Body,Healthy,28.5,Normal,122.4,Yes,Low,18–28,1
+335,81,Female,Current,39,9,Liver,Healthy,33.6,Normal,190.3,Yes,Low,69+,6
+366,30,Male,Current,36,22,Liver,Damaged,18.1,Normal,160.8,No,Low,29–38,2
+369,57,Male,Current,36,25,Lungs,Healthy,35.7,Normal,135.8,Yes,Low,49–58,4
+373,33,Female,Current,31,13,Kidney,Healthy,25.5,Normal,284.4,Yes,Low,29–38,2
+375,51,Male,Current,30,19,Lungs,Damaged,39.7,Normal,244.4,Yes,Low,49–58,4
+397,59,Female,Current,16,29,Heart,Healthy,31.3,Normal,125.2,No,Low,59–68,5
+409,57,Male,Current,14,14,Liver,Damaged,33.3,Normal,237.1,Yes,Low,49–58,4
+427,24,Female,Current,27,29,Human Body,Damaged,20.8,Normal,228.3,No,Low,18–28,1
+437,56,Female,Current,36,14,Liver,Healthy,20.6,Normal,163.9,No,Low,49–58,4
+442,85,Female,Current,13,12,Human Body,Healthy,40.9,Normal,251.2,No,Low,69+,6
+463,41,Female,Current,29,10,Liver,Healthy,18.3,Normal,161.6,Yes,Low,39–48,3
+472,86,Male,Current,21,11,Kidney,Healthy,26.4,Normal,206.2,No,Low,69+,6
+496,78,Female,Current,20,28,Human Body,Healthy,27.0,Normal,201.1,No,Low,69+,6
+502,28,Male,Current,11,9,Heart,Healthy,34.7,Normal,234.4,Yes,Low,18–28,1
+520,59,Female,Current,18,15,Kidney,Healthy,22.4,Normal,286.3,No,Low,59–68,5
+522,53,Male,Current,16,6,Heart,Healthy,38.3,Normal,217.7,No,Low,49–58,4
+534,38,Male,Current,7,14,Human Body,Healthy,35.3,Normal,131.5,Yes,Low,29–38,2
+535,83,Male,Current,27,10,Heart,Damaged,31.3,Normal,289.6,No,Low,69+,6
+537,46,Male,Current,16,8,Kidney,Healthy,34.4,Normal,298.3,No,Low,39–48,3
+538,18,Male,Current,39,27,Kidney,Healthy,17.8,Normal,212.5,No,Low,18–28,1
+540,61,Female,Current,33,22,Lungs,Healthy,19.3,Normal,191.0,No,Low,59–68,5
+541,22,Female,Current,39,22,Kidney,Damaged,37.9,Normal,280.0,Yes,Low,18–28,1
+559,80,Male,Current,24,7,Lungs,Damaged,34.5,Normal,129.9,No,Low,69+,6
+587,42,Male,Current,24,12,Liver,Healthy,17.5,Normal,290.2,No,Low,39–48,3
+598,44,Female,Current,5,25,Heart,Healthy,36.3,Normal,281.6,No,Low,39–48,3
+618,65,Female,Current,19,23,Liver,Healthy,24.5,Normal,187.0,Yes,Low,59–68,5
+627,65,Male,Current,22,13,Lungs,Healthy,19.3,Normal,280.5,Yes,Low,59–68,5
+632,42,Male,Current,24,22,Kidney,Damaged,34.6,Normal,123.2,No,Low,39–48,3
+643,55,Male,Current,12,10,Liver,Damaged,18.2,Normal,274.2,No,Low,49–58,4
+646,40,Male,Current,24,9,Lungs,Healthy,30.2,Normal,123.8,No,Low,39–48,3
+652,88,Male,Current,29,11,Lungs,Damaged,17.9,Normal,171.6,No,Low,69+,6
+673,39,Female,Current,31,13,Human Body,Damaged,23.7,Normal,160.9,No,Low,39–48,3
+699,32,Female,Current,37,16,Kidney,Healthy,38.1,Normal,238.9,No,Low,29–38,2
+766,73,Male,Current,17,12,Kidney,Healthy,34.3,Normal,237.1,No,Low,69+,6
+791,57,Male,Current,11,13,Human Body,Healthy,30.6,Normal,189.7,No,Low,49–58,4
+794,72,Male,Current,37,23,Liver,Healthy,18.1,Normal,172.6,No,Low,69+,6
+795,32,Male,Current,15,7,Human Body,Healthy,36.2,Normal,205.1,No,Low,29–38,2
+844,26,Female,Current,23,8,Heart,Healthy,25.9,Normal,265.3,No,Low,18–28,1
+845,46,Female,Current,30,18,Liver,Healthy,29.7,Normal,200.7,No,Low,39–48,3
+859,66,Male,Current,33,17,Lungs,Damaged,18.7,Normal,259.0,No,Low,59–68,5
+863,82,Male,Current,15,9,Human Body,Healthy,33.4,Normal,248.5,No,Low,69+,6
+880,43,Male,Current,35,29,Liver,Damaged,20.2,Normal,150.6,Yes,Low,39–48,3
+897,67,Female,Current,10,10,Kidney,Healthy,39.3,Normal,176.4,No,Low,59–68,5
+904,78,Male,Current,19,16,Human Body,Damaged,31.0,Normal,192.4,Yes,Low,69+,6
+909,27,Female,Current,38,12,Heart,Healthy,24.9,Normal,291.1,No,Low,18–28,1
+925,86,Female,Current,16,26,Human Body,Damaged,17.1,Normal,227.4,No,Low,69+,6
+939,60,Male,Current,30,20,Kidney,Damaged,25.1,Normal,193.2,No,Low,59–68,5
+941,67,Male,Current,28,23,Lungs,Damaged,36.8,Normal,260.5,Yes,Low,59–68,5
+964,57,Female,Current,14,6,Lungs,Healthy,23.6,Normal,209.6,No,Low,49–58,4
+989,68,Male,Current,36,20,Lungs,Healthy,37.6,Normal,262.2,No,Low,59–68,5
+1014,69,Male,Current,26,19,Human Body,Damaged,32.8,Normal,220.1,Yes,Low,69+,6
+1020,83,Female,Current,19,5,Human Body,Healthy,20.5,Normal,163.6,Yes,Low,69+,6
+1021,55,Female,Current,15,12,Lungs,Damaged,28.8,Normal,187.7,No,Low,49–58,4
+1031,43,Female,Current,19,27,Human Body,Healthy,19.7,Normal,137.8,No,Low,39–48,3
+1034,89,Female,Current,28,6,Liver,Damaged,21.8,Normal,165.6,No,Low,69+,6
+1037,89,Female,Current,38,20,Lungs,Healthy,22.0,Normal,257.7,No,Low,69+,6
+1040,60,Male,Current,14,20,Heart,Damaged,20.6,Normal,222.4,Yes,Low,59–68,5
+1041,68,Male,Current,25,12,Human Body,Healthy,29.6,Normal,150.9,Yes,Low,59–68,5
+1046,44,Male,Current,12,11,Human Body,Healthy,17.0,Normal,171.1,No,Low,39–48,3
+1053,32,Female,Current,30,12,Heart,Damaged,27.8,Normal,257.6,No,Low,29–38,2
+1079,76,Male,Current,13,24,Lungs,Healthy,36.7,Normal,267.5,Yes,Low,69+,6
+1088,27,Male,Current,21,11,Liver,Healthy,37.8,Normal,293.2,Yes,Low,18–28,1
+1126,18,Male,Current,11,25,Heart,Damaged,23.9,Normal,174.5,No,Low,18–28,1
+1181,83,Male,Current,12,27,Human Body,Healthy,35.9,Normal,286.0,No,Low,69+,6
+1203,65,Male,Current,31,10,Kidney,Damaged,35.8,Normal,155.4,No,Low,59–68,5
+1229,32,Male,Current,7,28,Heart,Healthy,19.4,Normal,290.0,No,Low,29–38,2
+1236,26,Female,Current,24,24,Kidney,Healthy,37.8,Normal,170.7,No,Low,18–28,1
+1257,82,Male,Current,27,25,Heart,Healthy,36.5,Normal,130.7,No,Low,69+,6
+1264,42,Male,Current,34,14,Liver,Damaged,27.1,Normal,257.5,No,Low,39–48,3
+1290,67,Male,Current,32,22,Kidney,Healthy,25.3,Normal,155.4,No,Low,59–68,5
+1291,73,Female,Current,9,29,Human Body,Healthy,33.7,Normal,223.4,Yes,Low,69+,6
+1300,84,Female,Current,36,13,Kidney,Healthy,17.3,Normal,296.5,No,Low,69+,6
+1309,31,Male,Current,18,20,Lungs,Damaged,34.4,Normal,154.7,No,Low,29–38,2
+1347,37,Male,Current,15,12,Heart,Healthy,18.6,Normal,177.9,No,Low,29–38,2
+1357,45,Female,Current,36,17,Lungs,Healthy,25.9,Normal,220.1,No,Low,39–48,3
+1378,57,Female,Current,10,9,Liver,Damaged,26.7,Normal,280.9,Yes,Low,49–58,4
+1382,60,Female,Current,33,25,Lungs,Healthy,39.7,Normal,196.3,No,Low,59–68,5
+1387,58,Male,Current,25,27,Kidney,Healthy,38.9,Normal,193.5,No,Low,49–58,4
+1397,36,Male,Current,37,13,Human Body,Healthy,25.8,Normal,223.9,No,Low,29–38,2
+1401,27,Female,Current,30,29,Kidney,Damaged,29.6,Normal,227.7,Yes,Low,18–28,1
+1417,80,Male,Current,19,23,Human Body,Healthy,19.3,Normal,132.5,No,Low,69+,6
+1428,24,Male,Current,27,15,Liver,Damaged,24.6,Normal,196.0,Yes,Low,18–28,1
+1431,86,Male,Current,14,5,Human Body,Damaged,18.1,Normal,142.0,No,Low,69+,6
+1436,69,Female,Current,28,14,Lungs,Healthy,38.1,Normal,258.8,No,Low,69+,6
+1444,63,Female,Current,19,17,Liver,Healthy,17.2,Normal,206.9,Yes,Low,59–68,5
+1451,26,Male,Current,38,23,Liver,Damaged,40.7,Normal,255.3,No,Low,18–28,1
+1453,84,Female,Current,6,8,Liver,Damaged,17.3,Normal,175.7,No,Low,69+,6
+1455,82,Female,Current,15,17,Human Body,Healthy,38.7,Normal,179.2,No,Low,69+,6
+1457,27,Female,Current,16,14,Kidney,Healthy,30.3,Normal,127.5,No,Low,18–28,1
+1462,47,Male,Current,27,10,Lungs,Damaged,33.9,Normal,216.5,No,Low,39–48,3
+1466,54,Male,Current,12,25,Lungs,Healthy,27.4,Normal,291.1,Yes,Low,49–58,4
+1467,60,Female,Current,18,20,Kidney,Healthy,28.1,Normal,297.6,Yes,Low,59–68,5
+1471,78,Female,Current,9,12,Lungs,Damaged,21.3,Normal,225.2,No,Low,69+,6
+1477,40,Male,Current,30,29,Human Body,Damaged,17.4,Normal,286.7,No,Low,39–48,3
+1478,69,Male,Current,6,18,Liver,Damaged,28.8,Normal,270.4,No,Low,69+,6
+1487,89,Female,Current,25,13,Heart,Damaged,29.6,Normal,225.8,No,Low,69+,6
+1500,49,Male,Current,15,8,Liver,Damaged,31.0,Normal,206.1,No,Low,49–58,4
+1513,26,Female,Current,33,9,Liver,Healthy,17.9,Normal,229.7,Yes,Low,18–28,1
+1531,58,Male,Current,20,8,Liver,Damaged,18.9,Normal,287.6,No,Low,49–58,4
+1533,53,Male,Current,14,21,Heart,Healthy,30.8,Normal,150.4,No,Low,49–58,4
+1586,66,Female,Current,14,5,Lungs,Healthy,29.4,Normal,165.4,No,Low,59–68,5
+1591,47,Female,Current,9,25,Human Body,Healthy,41.5,Normal,232.6,No,Low,39–48,3
+1599,87,Male,Current,24,20,Kidney,Damaged,38.4,Normal,270.3,Yes,Low,69+,6
+1617,51,Male,Current,36,15,Lungs,Healthy,31.1,Normal,225.2,No,Low,49–58,4
+1644,67,Male,Current,15,17,Human Body,Damaged,36.1,Normal,254.7,No,Low,59–68,5
+1654,48,Female,Current,22,19,Heart,Healthy,23.5,Normal,163.4,No,Low,39–48,3
+1656,27,Male,Current,39,26,Heart,Damaged,32.8,Normal,230.4,No,Low,18–28,1
+1663,76,Male,Current,20,14,Human Body,Healthy,21.7,Normal,280.0,No,Low,69+,6
+1669,73,Male,Current,22,23,Lungs,Healthy,39.5,Normal,182.7,No,Low,69+,6
+1670,33,Female,Current,19,16,Lungs,Healthy,17.7,Normal,287.5,No,Low,29–38,2
+1673,33,Female,Current,16,14,Liver,Damaged,37.0,Normal,178.3,No,Low,29–38,2
+1682,27,Female,Current,34,11,Kidney,Healthy,29.7,Normal,132.0,No,Low,18–28,1
+1686,72,Female,Current,13,7,Liver,Healthy,24.7,Normal,124.4,No,Low,69+,6
+1695,76,Female,Current,30,7,Heart,Healthy,21.1,Normal,253.7,No,Low,69+,6
+1700,27,Female,Current,15,18,Kidney,Damaged,38.3,Normal,121.4,Yes,Low,18–28,1
+1703,74,Female,Current,14,24,Heart,Healthy,41.4,Normal,233.3,No,Low,69+,6
+1706,86,Male,Current,33,13,Heart,Damaged,22.2,Normal,152.6,Yes,Low,69+,6
+1719,52,Male,Current,14,6,Liver,Healthy,27.7,Normal,120.8,Yes,Low,49–58,4
+1731,44,Female,Current,24,26,Heart,Healthy,41.7,Normal,230.7,Yes,Low,39–48,3
+1734,83,Female,Current,16,11,Human Body,Damaged,29.5,Normal,281.6,No,Low,69+,6
+1738,30,Female,Current,39,21,Lungs,Damaged,32.7,Normal,127.7,No,Low,29–38,2
+1761,32,Female,Current,20,25,Liver,Healthy,33.3,Normal,185.2,No,Low,29–38,2
+1769,82,Female,Current,27,29,Human Body,Healthy,29.7,Normal,212.6,No,Low,69+,6
+1770,82,Female,Current,35,25,Kidney,Healthy,38.8,Normal,207.4,No,Low,69+,6
+1781,52,Female,Current,10,29,Liver,Damaged,18.9,Normal,197.2,Yes,Low,49–58,4
+1788,49,Female,Current,12,15,Human Body,Healthy,38.1,Normal,298.6,No,Low,49–58,4
+1790,52,Female,Current,38,25,Liver,Damaged,26.9,Normal,138.5,Yes,Low,49–58,4
+1809,47,Female,Current,25,14,Kidney,Damaged,39.2,Normal,194.4,No,Low,39–48,3
+1817,89,Male,Current,5,25,Human Body,Damaged,39.1,Normal,281.3,No,Low,69+,6
+1820,85,Male,Current,9,18,Kidney,Damaged,26.4,Normal,145.4,Yes,Low,69+,6
+1832,70,Female,Current,5,10,Heart,Healthy,19.2,Normal,267.7,No,Low,69+,6
+1855,89,Female,Current,24,15,Liver,Healthy,18.8,Normal,202.9,No,Low,69+,6
+1883,84,Male,Current,28,26,Lungs,Healthy,41.0,Normal,132.8,No,Low,69+,6
+1894,63,Female,Current,31,13,Liver,Healthy,35.5,Normal,125.2,No,Low,59–68,5
+1898,80,Male,Current,28,15,Liver,Healthy,22.3,Normal,206.7,No,Low,69+,6
+1928,36,Male,Current,26,19,Liver,Healthy,27.4,Normal,171.5,No,Low,29–38,2
+1945,57,Female,Current,12,26,Kidney,Healthy,40.2,Normal,154.6,Yes,Low,49–58,4
+1968,54,Female,Current,23,10,Human Body,Healthy,18.2,Normal,160.0,Yes,Low,49–58,4
+1969,39,Female,Current,20,21,Kidney,Healthy,37.9,Normal,131.5,Yes,Low,39–48,3
+1984,31,Male,Current,15,9,Heart,Healthy,27.0,Normal,263.6,No,Low,29–38,2
+1985,46,Male,Current,20,19,Lungs,Healthy,40.7,Normal,256.7,No,Low,39–48,3
+1987,18,Male,Current,12,22,Heart,Damaged,32.5,Normal,134.8,No,Low,18–28,1
+1991,67,Male,Current,28,14,Liver,Healthy,21.5,Normal,296.7,Yes,Low,59–68,5
+2015,18,Female,Current,12,21,Lungs,Damaged,33.3,Normal,286.5,Yes,Low,18–28,1
+2026,48,Female,Current,32,26,Kidney,Damaged,32.8,Normal,275.1,No,Low,39–48,3
+2037,37,Female,Current,13,15,Heart,Damaged,40.4,Normal,120.5,No,Low,29–38,2
+2053,64,Male,Current,23,15,Heart,Damaged,39.8,Normal,172.0,Yes,Low,59–68,5
+2060,22,Female,Current,24,22,Liver,Damaged,39.9,Normal,161.9,No,Low,18–28,1
+2068,85,Female,Current,18,5,Heart,Damaged,20.8,Normal,142.5,No,Low,69+,6
+2091,49,Female,Current,11,21,Human Body,Damaged,31.0,Normal,289.6,No,Low,49–58,4
+2094,73,Female,Current,10,27,Lungs,Healthy,41.8,Normal,270.5,No,Low,69+,6
+2100,25,Male,Current,23,9,Liver,Healthy,33.0,Normal,268.6,Yes,Low,18–28,1
+2112,44,Male,Current,23,14,Lungs,Damaged,22.3,Normal,290.7,Yes,Low,39–48,3
+2123,35,Female,Current,6,22,Liver,Healthy,24.6,Normal,270.3,No,Low,29–38,2
+2144,42,Female,Current,33,22,Liver,Healthy,21.8,Normal,142.5,No,Low,39–48,3
+2148,65,Female,Current,25,28,Kidney,Damaged,35.9,Normal,251.3,Yes,Low,59–68,5
+2172,85,Male,Current,17,7,Human Body,Healthy,28.5,Normal,238.4,Yes,Low,69+,6
+2181,33,Female,Current,20,16,Lungs,Healthy,36.9,Normal,131.5,Yes,Low,29–38,2
+2195,37,Male,Current,32,10,Human Body,Healthy,18.0,Normal,141.1,Yes,Low,29–38,2
+2224,84,Male,Current,36,21,Human Body,Healthy,42.0,Normal,136.6,No,Low,69+,6
+2265,20,Female,Current,35,20,Heart,Damaged,38.2,Normal,255.7,No,Low,18–28,1
+2290,74,Female,Current,32,21,Kidney,Healthy,28.6,Normal,274.4,No,Low,69+,6
+2309,64,Female,Current,20,29,Kidney,Healthy,19.3,Normal,209.7,No,Low,59–68,5
+2310,64,Female,Current,27,7,Heart,Healthy,17.3,Normal,251.6,No,Low,59–68,5
+2314,28,Female,Current,27,24,Liver,Healthy,18.2,Normal,191.1,Yes,Low,18–28,1
+2317,24,Male,Current,9,19,Lungs,Healthy,31.9,Normal,149.2,Yes,Low,18–28,1
+2329,75,Female,Current,19,23,Lungs,Healthy,32.2,Normal,243.8,No,Low,69+,6
+2334,50,Female,Current,31,27,Kidney,Healthy,24.9,Normal,185.7,No,Low,49–58,4
+2336,42,Male,Current,9,27,Liver,Healthy,17.5,Normal,123.9,No,Low,39–48,3
+2340,45,Male,Current,38,8,Human Body,Damaged,28.4,Normal,295.1,No,Low,39–48,3
+2346,58,Male,Current,7,28,Liver,Healthy,35.2,Normal,279.2,Yes,Low,49–58,4
+2351,86,Female,Current,29,5,Kidney,Damaged,27.0,Normal,295.5,No,Low,69+,6
+2356,77,Male,Current,6,25,Liver,Damaged,24.1,Normal,237.9,No,Low,69+,6
+2370,22,Female,Current,21,19,Heart,Damaged,41.8,Normal,147.1,Yes,Low,18–28,1
+2377,68,Male,Current,33,29,Liver,Damaged,35.3,Normal,148.6,No,Low,59–68,5
+2393,77,Female,Current,39,10,Liver,Healthy,33.4,Normal,148.1,Yes,Low,69+,6
+2394,71,Female,Current,35,12,Liver,Healthy,21.7,Normal,202.2,No,Low,69+,6
+2413,28,Female,Current,16,27,Kidney,Healthy,36.4,Normal,226.9,No,Low,18–28,1
+2420,33,Female,Current,8,15,Heart,Healthy,35.2,Normal,231.8,Yes,Low,29–38,2
+2441,65,Male,Current,19,19,Human Body,Damaged,33.3,Normal,155.1,No,Low,59–68,5
+2445,37,Female,Current,39,14,Human Body,Healthy,35.4,Normal,284.3,No,Low,29–38,2
+2454,60,Female,Current,37,18,Liver,Damaged,41.2,Normal,243.3,Yes,Low,59–68,5
+2475,18,Female,Current,27,7,Human Body,Healthy,24.0,Normal,248.5,No,Low,18–28,1
+2494,28,Female,Current,36,24,Liver,Damaged,37.6,Normal,120.8,No,Low,18–28,1
+2499,43,Female,Current,15,6,Human Body,Healthy,41.2,Normal,129.3,Yes,Low,39–48,3
